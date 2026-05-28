@@ -311,14 +311,21 @@ def fig_exposure(sector, sec_hours, lang, S):
     agg = agg[agg["adm12"] > 0]
     sizes = np.sqrt(agg["adm12"]); sizes = sizes / sizes.max() * 64 + 8
     media44 = float(h44.sum() / tot.sum() * 100)
+    # Per-bubble text color: dark glyphs on the pale (low-pct44) bubbles, white
+    # glyphs on the saturated dark-red ones. Threshold tracks the OrRd ramp
+    # (cmin=0, cmax=80) where the fill turns dark enough to swallow dark text.
+    txt_colors = ["#ffffff" if p >= 46 else "#3a0a06" for p in agg["pct44"]]
+    labels = [f"<b>{s}</b>" for s in agg["secao"]]
     fig = go.Figure()
     fig.add_vline(x=media44, line=dict(color="#94a3b8", dash="dash", width=1))
     fig.add_hline(y=0, line=dict(color=ZERO, width=1))
     fig.add_trace(go.Scatter(
         x=agg["pct44"], y=agg["saldo12"], mode="markers+text",
-        text=agg["secao"], textposition="middle center", textfont=dict(size=10, color="#0d1320"),
+        text=labels, textposition="middle center",
+        textfont=dict(size=11, color=txt_colors,
+                      family="Inter,-apple-system,Segoe UI,Roboto,sans-serif"),
         marker=dict(size=sizes, color=agg["pct44"], colorscale="OrRd", cmin=0, cmax=80,
-                    line=dict(color="#0d1320", width=1.2), opacity=.92),
+                    line=dict(color="#2a0704", width=1.2), opacity=.96),
         customdata=np.stack([agg["secao_nome"], agg["adm12"], agg["saldo12"]], axis=-1),
         hovertemplate="<b>%{customdata[0]}</b><br>" + S["hv_p44"] + ": %{x:.0f}%<br>"
                       + S["hv_saldo12"] + ": %{customdata[2]:,.0f}<br>"
