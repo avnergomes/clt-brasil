@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="pt-br">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>CLT em Movimento · Emprego Formal no Brasil (Novo CAGED/MTE)</title>
+<meta name="description" content="Análise e previsão do saldo de empregos formais (CLT) no Brasil a partir dos microdados do Novo CAGED/MTE, com dossiê sobre a escala 6x1.">
+<style>
+  :root{--ink:#0d1b2a;--paper:#fbfaf7;--amber:#c2410c;--gold:#fbbf24;--mut:#9fb0c7;--line:rgba(255,255,255,.14)}
+  *{box-sizing:border-box}
+  body{margin:0;min-height:100vh;background:radial-gradient(1200px 600px at 78% -8%,#15356b 0%,#0d1b2a 58%);
+    color:#fff;font-family:-apple-system,'Segoe UI',Roboto,system-ui,sans-serif;line-height:1.6;
+    display:flex;flex-direction:column}
+  .serif{font-family:Georgia,'Times New Roman',serif}
+  .wrap{max-width:960px;margin:0 auto;padding:0 24px;width:100%}
+  header{padding:76px 0 16px;flex:1}
+  .kicker{font-size:12px;letter-spacing:.18em;text-transform:uppercase;font-weight:700;color:var(--gold)}
+  h1{font-size:clamp(38px,6vw,64px);line-height:1.04;margin:14px 0 16px;letter-spacing:-.02em}
+  .thesis{font-size:19px;max-width:64ch;color:#dbe4f0}
+  .strip{display:grid;grid-template-columns:repeat(4,1fr);gap:0;margin:42px 0 8px;border-top:1px solid var(--line)}
+  .strip .s{padding:18px 16px 6px;border-right:1px solid var(--line)}
+  .strip .s:last-child{border-right:0}
+  .strip .v{font-size:26px;font-weight:700}
+  .strip .l{font-size:12.5px;color:var(--mut)}
+  .cta{display:flex;flex-wrap:wrap;gap:14px;margin:40px 0 18px}
+  .btn{display:inline-flex;align-items:center;gap:9px;padding:14px 22px;border-radius:12px;
+    text-decoration:none;font-weight:600;font-size:15px;transition:transform .12s ease}
+  .btn:hover{transform:translateY(-2px)}
+  .btn.primary{background:var(--amber);color:#fff;box-shadow:0 8px 22px rgba(194,65,12,.35)}
+  .btn.ghost{background:rgba(255,255,255,.08);color:#fff;border:1px solid var(--line)}
+  .feat{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin:42px 0}
+  .feat .c{background:rgba(255,255,255,.05);border:1px solid var(--line);border-radius:12px;padding:18px 20px}
+  .feat .c h3{margin:0 0 6px;font-size:15px;color:var(--gold)}
+  .feat .c p{margin:0;font-size:14px;color:#cdd9ea}
+  footer{border-top:1px solid var(--line);padding:22px 0;font-size:13px;color:var(--mut)}
+  footer a{color:#dbe4f0}
+  @media(max-width:760px){.strip{grid-template-columns:repeat(2,1fr)}.feat{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<header><div class="wrap">
+  <div class="kicker">Mercado de trabalho formal · Novo CAGED / MTE</div>
+  <h1 class="serif">CLT em Movimento</h1>
+  <p class="thesis">Seis anos de empregos com carteira assinada no Brasil — do colapso da pandemia à
+  desaceleração de 2025 — e o que as projeções e o debate do <b>fim da escala 6×1</b> sinalizam para
+  o trabalho formal até 2027.</p>
+
+  <div class="strip">
+    <div class="s"><div class="v">10,0 mi</div><div class="l">vínculos líquidos desde jan/2020</div></div>
+    <div class="s"><div class="v">1,21 mi</div><div class="l">saldo acumulado em 12 meses</div></div>
+    <div class="s"><div class="v">81%</div><div class="l">das admissões a 44h (universo da 6×1)</div></div>
+    <div class="s"><div class="v">→ jun/2027</div><div class="l">previsão com IC 95% por UF</div></div>
+  </div>
+
+  <div class="cta">
+    <a class="btn primary" href="output/CLT-BRASIL_relatorio_v2.html">📊 Abrir relatório interativo</a>
+    <a class="btn ghost" href="notebooks/CLT-BRASIL_analise.ipynb">📓 Notebook</a>
+    <a class="btn ghost" href="output/CLT-BRASIL_relatorio.html">Relatório v1</a>
+    <a class="btn ghost" href="https://github.com/avnergomes/clt-brasil">⌥ Repositório</a>
+  </div>
+
+  <div class="feat">
+    <div class="c"><h3>Série & previsão</h3><p>Saldo mensal por UF e nacional, com SARIMA, ETS e
+    Seasonal Naive até jun/2027, intervalos de confiança e métricas de validação.</p></div>
+    <div class="c"><h3>Dossiê 6×1 → 5×2</h3><p>Exposição setorial à jornada de 44h e o que esperar da
+    reforma, ancorado em literatura econômica revisada por pares.</p></div>
+    <div class="c"><h3>Dados oficiais</h3><p>Microdados do Novo CAGED (PDET/MTE); o saldo reproduz
+    exatamente a série oficial “sem ajuste”.</p></div>
+  </div>
+</div></header>
+
+<footer><div class="wrap">
+  Elaborado a partir dos microdados do Novo CAGED (PDET/Ministério do Trabalho e Emprego) ·
+  Código e metodologia em <a href="https://github.com/avnergomes/clt-brasil">github.com/avnergomes/clt-brasil</a>
+</div></footer>
+</body>
+</html>
