@@ -1,0 +1,106 @@
+secao,secao_nome,faixa,admissoes
+A,Agropecuária,30–39h,40401
+A,Agropecuária,40h,105813
+A,Agropecuária,41–43h,59996
+A,Agropecuária,44h (jornada máxima),6763592
+A,Agropecuária,Parcial (≤30h),90279
+B,Indústria extrativa,30–39h,38027
+B,Indústria extrativa,40h,49879
+B,Indústria extrativa,41–43h,14796
+B,Indústria extrativa,44h (jornada máxima),294690
+B,Indústria extrativa,Parcial (≤30h),23414
+C,Indústria de transformação,30–39h,371254
+C,Indústria de transformação,40h,430808
+C,Indústria de transformação,41–43h,548773
+C,Indústria de transformação,44h (jornada máxima),18102710
+C,Indústria de transformação,Parcial (≤30h),833137
+D,Eletricidade e gás,30–39h,4821
+D,Eletricidade e gás,40h,53802
+D,Eletricidade e gás,41–43h,2536
+D,Eletricidade e gás,44h (jornada máxima),60647
+D,Eletricidade e gás,Parcial (≤30h),10319
+E,"Água, esgoto e resíduos",30–39h,20814
+E,"Água, esgoto e resíduos",40h,31695
+E,"Água, esgoto e resíduos",41–43h,11631
+E,"Água, esgoto e resíduos",44h (jornada máxima),674126
+E,"Água, esgoto e resíduos",Parcial (≤30h),36399
+F,Construção,30–39h,123446
+F,Construção,40h,213403
+F,Construção,41–43h,131483
+F,Construção,44h (jornada máxima),12766761
+F,Construção,Parcial (≤30h),228317
+G,Comércio e reparação,30–39h,916065
+G,Comércio e reparação,40h,495491
+G,Comércio e reparação,41–43h,619930
+G,Comércio e reparação,44h (jornada máxima),29056967
+G,Comércio e reparação,Parcial (≤30h),1354940
+H,Transporte e armazenagem,30–39h,215145
+H,Transporte e armazenagem,40h,170293
+H,Transporte e armazenagem,41–43h,210375
+H,Transporte e armazenagem,44h (jornada máxima),6471221
+H,Transporte e armazenagem,Parcial (≤30h),347684
+I,Alojamento e alimentação,30–39h,578853
+I,Alojamento e alimentação,40h,102784
+I,Alojamento e alimentação,41–43h,271275
+I,Alojamento e alimentação,44h (jornada máxima),6983236
+I,Alojamento e alimentação,Parcial (≤30h),373960
+J,Informação e comunicação,30–39h,186733
+J,Informação e comunicação,40h,911861
+J,Informação e comunicação,41–43h,51259
+J,Informação e comunicação,44h (jornada máxima),1508691
+J,Informação e comunicação,Parcial (≤30h),152752
+K,Atividades financeiras,30–39h,161125
+K,Atividades financeiras,40h,443529
+K,Atividades financeiras,41–43h,27363
+K,Atividades financeiras,44h (jornada máxima),649677
+K,Atividades financeiras,Parcial (≤30h),135633
+L,Atividades imobiliárias,30–39h,19089
+L,Atividades imobiliárias,40h,23557
+L,Atividades imobiliárias,41–43h,14780
+L,Atividades imobiliárias,44h (jornada máxima),430741
+L,Atividades imobiliárias,Parcial (≤30h),18723
+M,Atividades profissionais e científicas,30–39h,187425
+M,Atividades profissionais e científicas,40h,568793
+M,Atividades profissionais e científicas,41–43h,130932
+M,Atividades profissionais e científicas,44h (jornada máxima),3902603
+M,Atividades profissionais e científicas,Parcial (≤30h),192819
+N,Atividades administrativas e serviços,30–39h,2953247
+N,Atividades administrativas e serviços,40h,1085921
+N,Atividades administrativas e serviços,41–43h,604597
+N,Atividades administrativas e serviços,44h (jornada máxima),17785335
+N,Atividades administrativas e serviços,Parcial (≤30h),1133509
+O,Administração pública,30–39h,42498
+O,Administração pública,40h,237437
+O,Administração pública,41–43h,1098
+O,Administração pública,44h (jornada máxima),133265
+O,Administração pública,Parcial (≤30h),178697
+P,Educação,30–39h,170285
+P,Educação,40h,464711
+P,Educação,41–43h,76378
+P,Educação,44h (jornada máxima),2000830
+P,Educação,Parcial (≤30h),1205972
+Q,Saúde humana e serviço social,30–39h,1741603
+Q,Saúde humana e serviço social,40h,654663
+Q,Saúde humana e serviço social,41–43h,251323
+Q,Saúde humana e serviço social,44h (jornada máxima),2952864
+Q,Saúde humana e serviço social,Parcial (≤30h),968425
+R,"Artes, cultura e esporte",30–39h,84127
+R,"Artes, cultura e esporte",40h,37366
+R,"Artes, cultura e esporte",41–43h,29660
+R,"Artes, cultura e esporte",44h (jornada máxima),596183
+R,"Artes, cultura e esporte",Parcial (≤30h),161296
+S,Outros serviços,30–39h,206336
+S,Outros serviços,40h,362480
+S,Outros serviços,41–43h,54751
+S,Outros serviços,44h (jornada máxima),1529590
+S,Outros serviços,Parcial (≤30h),531867
+T,Serviços domésticos,30–39h,258
+T,Serviços domésticos,44h (jornada máxima),5730
+T,Serviços domésticos,Parcial (≤30h),827
+U,Organismos internacionais,30–39h,582
+U,Organismos internacionais,40h,738
+U,Organismos internacionais,44h (jornada máxima),1288
+U,Organismos internacionais,Parcial (≤30h),139
+T,Serviços domésticos,40h,355
+T,Serviços domésticos,41–43h,142
+U,Organismos internacionais,41–43h,11

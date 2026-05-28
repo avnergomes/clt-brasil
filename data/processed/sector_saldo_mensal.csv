@@ -1,0 +1,1576 @@
+date,secao,secao_nome,saldo,admissoes
+2020-01-01,A,Agropecuária,16095,69520
+2020-01-01,B,Indústria extrativa,157,3284
+2020-01-01,C,Indústria de transformação,55473,229525
+2020-01-01,D,Eletricidade e gás,-283,1161
+2020-01-01,E,"Água, esgoto e resíduos",486,6796
+2020-01-01,F,Construção,31772,143164
+2020-01-01,G,Comércio e reparação,-53489,308116
+2020-01-01,H,Transporte e armazenagem,-2095,65619
+2020-01-01,I,Alojamento e alimentação,2780,93304
+2020-01-01,J,Informação e comunicação,5522,30854
+2020-01-01,K,Atividades financeiras,1730,14406
+2020-01-01,L,Atividades imobiliárias,1063,5654
+2020-01-01,M,Atividades profissionais e científicas,9090,48125
+2020-01-01,N,Atividades administrativas e serviços,8272,216781
+2020-01-01,O,Administração pública,-445,3961
+2020-01-01,P,Educação,6981,50125
+2020-01-01,Q,Saúde humana e serviço social,5519,55532
+2020-01-01,R,"Artes, cultura e esporte",1920,9984
+2020-01-01,S,Outros serviços,2124,28972
+2020-01-01,T,Serviços domésticos,1,68
+2020-01-01,U,Organismos internacionais,5,35
+2020-02-01,A,Agropecuária,4942,70254
+2020-02-01,B,Indústria extrativa,1339,4463
+2020-02-01,C,Indústria de transformação,33223,236146
+2020-02-01,D,Eletricidade e gás,291,1492
+2020-02-01,E,"Água, esgoto e resíduos",1379,8376
+2020-02-01,F,Construção,23467,137113
+2020-02-01,G,Comércio e reparação,6243,333131
+2020-02-01,H,Transporte e armazenagem,8249,75198
+2020-02-01,I,Alojamento e alimentação,11690,98571
+2020-02-01,J,Informação e comunicação,4073,29035
+2020-02-01,K,Atividades financeiras,1899,14331
+2020-02-01,L,Atividades imobiliárias,1096,5649
+2020-02-01,M,Atividades profissionais e científicas,7135,45017
+2020-02-01,N,Atividades administrativas e serviços,15519,210762
+2020-02-01,O,Administração pública,11251,15470
+2020-02-01,P,Educação,49489,92291
+2020-02-01,Q,Saúde humana e serviço social,9713,60283
+2020-02-01,R,"Artes, cultura e esporte",1471,9603
+2020-02-01,S,Outros serviços,5888,36552
+2020-02-01,T,Serviços domésticos,4,69
+2020-02-01,U,Organismos internacionais,8,26
+2020-03-01,A,Agropecuária,-4449,68635
+2020-03-01,B,Indústria extrativa,-193,3685
+2020-03-01,C,Indústria de transformação,-34183,213587
+2020-03-01,D,Eletricidade e gás,169,1264
+2020-03-01,E,"Água, esgoto e resíduos",466,7437
+2020-03-01,F,Construção,-13177,125344
+2020-03-01,G,Comércio e reparação,-72727,311296
+2020-03-01,H,Transporte e armazenagem,-5450,73853
+2020-03-01,I,Alojamento e alimentação,-81374,71103
+2020-03-01,J,Informação e comunicação,-31,29298
+2020-03-01,K,Atividades financeiras,1837,15305
+2020-03-01,L,Atividades imobiliárias,12,5085
+2020-03-01,M,Atividades profissionais e científicas,-2022,44777
+2020-03-01,N,Atividades administrativas e serviços,-35991,220710
+2020-03-01,O,Administração pública,3472,6957
+2020-03-01,P,Educação,10311,49058
+2020-03-01,Q,Saúde humana e serviço social,9467,64766
+2020-03-01,R,"Artes, cultura e esporte",-5312,6937
+2020-03-01,S,Outros serviços,-3157,28488
+2020-03-01,T,Serviços domésticos,9,54
+2020-03-01,U,Organismos internacionais,7,26
+2020-04-01,A,Agropecuária,-5441,52759
+2020-04-01,B,Indústria extrativa,-1286,2063
+2020-04-01,C,Indústria de transformação,-200760,89813
+2020-04-01,D,Eletricidade e gás,50,667
+2020-04-01,E,"Água, esgoto e resíduos",-3082,3715
+2020-04-01,F,Construção,-69570,59027
+2020-04-01,G,Comércio e reparação,-243197,116937
+2020-04-01,H,Transporte e armazenagem,-52754,36059
+2020-04-01,I,Alojamento e alimentação,-136402,12308
+2020-04-01,J,Informação e comunicação,-13187,12245
+2020-04-01,K,Atividades financeiras,-5534,5328
+2020-04-01,L,Atividades imobiliárias,-3606,1678
+2020-04-01,M,Atividades profissionais e científicas,-22585,18259
+2020-04-01,N,Atividades administrativas e serviços,-91191,126071
+2020-04-01,O,Administração pública,-50,2424
+2020-04-01,P,Educação,-23624,8713
+2020-04-01,Q,Saúde humana e serviço social,2878,58732
+2020-04-01,R,"Artes, cultura e esporte",-14584,884
+2020-04-01,S,Outros serviços,-18350,9939
+2020-04-01,T,Serviços domésticos,-37,17
+2020-04-01,U,Organismos internacionais,-5,6
+2020-05-01,A,Agropecuária,15780,69794
+2020-05-01,B,Indústria extrativa,-544,2598
+2020-05-01,C,Indústria de transformação,-97904,95469
+2020-05-01,D,Eletricidade e gás,11,724
+2020-05-01,E,"Água, esgoto e resíduos",-2228,4166
+2020-05-01,F,Construção,-20646,86416
+2020-05-01,G,Comércio e reparação,-94274,144197
+2020-05-01,H,Transporte e armazenagem,-27813,36190
+2020-05-01,I,Alojamento e alimentação,-58007,14057
+2020-05-01,J,Informação e comunicação,-4937,13871
+2020-05-01,K,Atividades financeiras,-3343,5833
+2020-05-01,L,Atividades imobiliárias,-1614,2353
+2020-05-01,M,Atividades profissionais e científicas,-10805,21485
+2020-05-01,N,Atividades administrativas e serviços,-20599,140267
+2020-05-01,O,Administração pública,484,3235
+2020-05-01,P,Educação,-19008,7311
+2020-05-01,Q,Saúde humana e serviço social,7344,55020
+2020-05-01,R,"Artes, cultura e esporte",-5688,827
+2020-05-01,S,Outros serviços,-8985,12476
+2020-05-01,T,Serviços domésticos,-13,29
+2020-05-01,U,Organismos internacionais,0,12
+2020-06-01,A,Agropecuária,36829,84013
+2020-06-01,B,Indústria extrativa,636,3563
+2020-06-01,C,Indústria de transformação,-4442,137323
+2020-06-01,D,Eletricidade e gás,-334,750
+2020-06-01,E,"Água, esgoto e resíduos",-1377,4338
+2020-06-01,F,Construção,17016,114898
+2020-06-01,G,Comércio e reparação,-19799,191301
+2020-06-01,H,Transporte e armazenagem,-8850,47990
+2020-06-01,I,Alojamento e alimentação,-38104,17676
+2020-06-01,J,Informação e comunicação,1244,19171
+2020-06-01,K,Atividades financeiras,-1182,7656
+2020-06-01,L,Atividades imobiliárias,-463,2907
+2020-06-01,M,Atividades profissionais e científicas,-3889,26518
+2020-06-01,N,Atividades administrativas e serviços,15123,167005
+2020-06-01,O,Administração pública,-270,2402
+2020-06-01,P,Educação,-20417,8517
+2020-06-01,Q,Saúde humana e serviço social,13559,58809
+2020-06-01,R,"Artes, cultura e esporte",-4521,1151
+2020-06-01,S,Outros serviços,-3860,14133
+2020-06-01,T,Serviços domésticos,3,44
+2020-06-01,U,Organismos internacionais,-13,11
+2020-07-01,A,Agropecuária,21933,72721
+2020-07-01,B,Indústria extrativa,852,4034
+2020-07-01,C,Indústria de transformação,52384,198406
+2020-07-01,D,Eletricidade e gás,6,1028
+2020-07-01,E,"Água, esgoto e resíduos",-63,5314
+2020-07-01,F,Construção,40838,138395
+2020-07-01,G,Comércio e reparação,26014,245811
+2020-07-01,H,Transporte e armazenagem,-3335,59888
+2020-07-01,I,Alojamento e alimentação,-26724,26179
+2020-07-01,J,Informação e comunicação,3812,22881
+2020-07-01,K,Atividades financeiras,-251,10149
+2020-07-01,L,Atividades imobiliárias,639,4379
+2020-07-01,M,Atividades profissionais e científicas,6169,35665
+2020-07-01,N,Atividades administrativas e serviços,11964,139655
+2020-07-01,O,Administração pública,-414,2548
+2020-07-01,P,Educação,-19690,11920
+2020-07-01,Q,Saúde humana e serviço social,13496,63336
+2020-07-01,R,"Artes, cultura e esporte",-2760,2169
+2020-07-01,S,Outros serviços,-1583,17356
+2020-07-01,T,Serviços domésticos,6,46
+2020-07-01,U,Organismos internacionais,4,18
+2020-08-01,A,Agropecuária,10684,66190
+2020-08-01,B,Indústria extrativa,874,4400
+2020-08-01,C,Indústria de transformação,90187,244024
+2020-08-01,D,Eletricidade e gás,120,1129
+2020-08-01,E,"Água, esgoto e resíduos",1652,6833
+2020-08-01,F,Construção,50848,151653
+2020-08-01,G,Comércio e reparação,47670,279049
+2020-08-01,H,Transporte e armazenagem,-431,65228
+2020-08-01,I,Alojamento e alimentação,-15937,38785
+2020-08-01,J,Informação e comunicação,5901,27243
+2020-08-01,K,Atividades financeiras,1259,11807
+2020-08-01,L,Atividades imobiliárias,1002,4479
+2020-08-01,M,Atividades profissionais e científicas,12766,43322
+2020-08-01,N,Atividades administrativas e serviços,33998,202485
+2020-08-01,O,Administração pública,-55,3255
+2020-08-01,P,Educação,-8486,20628
+2020-08-01,Q,Saúde humana e serviço social,7976,63675
+2020-08-01,R,"Artes, cultura e esporte",-1804,3393
+2020-08-01,S,Outros serviços,-110,19729
+2020-08-01,T,Serviços domésticos,7,44
+2020-08-01,U,Organismos internacionais,4,11
+2020-09-01,A,Agropecuária,7920,68302
+2020-09-01,B,Indústria extrativa,897,4611
+2020-09-01,C,Indústria de transformação,108188,282477
+2020-09-01,D,Eletricidade e gás,148,1309
+2020-09-01,E,"Água, esgoto e resíduos",1467,7179
+2020-09-01,F,Construção,46407,155971
+2020-09-01,G,Comércio e reparação,69061,324027
+2020-09-01,H,Transporte e armazenagem,10308,74279
+2020-09-01,I,Alojamento e alimentação,4339,55397
+2020-09-01,J,Informação e comunicação,9119,32220
+2020-09-01,K,Atividades financeiras,1285,12944
+2020-09-01,L,Atividades imobiliárias,1259,5094
+2020-09-01,M,Atividades profissionais e científicas,12333,45533
+2020-09-01,N,Atividades administrativas e serviços,42004,227405
+2020-09-01,O,Administração pública,-152,2262
+2020-09-01,P,Educação,-9050,19176
+2020-09-01,Q,Saúde humana e serviço social,5710,60645
+2020-09-01,R,"Artes, cultura e esporte",408,5392
+2020-09-01,S,Outros serviços,1906,22451
+2020-09-01,T,Serviços domésticos,18,55
+2020-09-01,U,Organismos internacionais,-11,17
+2020-10-01,A,Agropecuária,-297,65023
+2020-10-01,B,Indústria extrativa,1220,4682
+2020-10-01,C,Indústria de transformação,82012,272580
+2020-10-01,D,Eletricidade e gás,353,1382
+2020-10-01,E,"Água, esgoto e resíduos",2198,8355
+2020-10-01,F,Construção,36876,156900
+2020-10-01,G,Comércio e reparação,114182,397125
+2020-10-01,H,Transporte e armazenagem,16961,84679
+2020-10-01,I,Alojamento e alimentação,25925,81084
+2020-10-01,J,Informação e comunicação,14382,38738
+2020-10-01,K,Atividades financeiras,-2723,14251
+2020-10-01,L,Atividades imobiliárias,1631,5699
+2020-10-01,M,Atividades profissionais e científicas,19540,55301
+2020-10-01,N,Atividades administrativas e serviços,69561,266338
+2020-10-01,O,Administração pública,-554,1881
+2020-10-01,P,Educação,-624,20851
+2020-10-01,Q,Saúde humana e serviço social,5602,63690
+2020-10-01,R,"Artes, cultura e esporte",2834,7955
+2020-10-01,S,Outros serviços,-163,24779
+2020-10-01,T,Serviços domésticos,19,88
+2020-10-01,U,Organismos internacionais,3,21
+2020-11-01,A,Agropecuária,-16321,55550
+2020-11-01,B,Indústria extrativa,1080,4383
+2020-11-01,C,Indústria de transformação,48088,240342
+2020-11-01,D,Eletricidade e gás,314,1539
+2020-11-01,E,"Água, esgoto e resíduos",1031,7144
+2020-11-01,F,Construção,21096,141136
+2020-11-01,G,Comércio e reparação,177435,436572
+2020-11-01,H,Transporte e armazenagem,17902,84360
+2020-11-01,I,Alojamento e alimentação,35707,88563
+2020-11-01,J,Informação e comunicação,1149,32131
+2020-11-01,K,Atividades financeiras,1486,15106
+2020-11-01,L,Atividades imobiliárias,1697,5333
+2020-11-01,M,Atividades profissionais e científicas,13373,49014
+2020-11-01,N,Atividades administrativas e serviços,84145,274391
+2020-11-01,O,Administração pública,-2392,1640
+2020-11-01,P,Educação,143,19452
+2020-11-01,Q,Saúde humana e serviço social,14879,63732
+2020-11-01,R,"Artes, cultura e esporte",2685,7726
+2020-11-01,S,Outros serviços,5424,24645
+2020-11-01,T,Serviços domésticos,29,65
+2020-11-01,U,Organismos internacionais,-2,13
+2020-12-01,A,Agropecuária,-22756,45928
+2020-12-01,B,Indústria extrativa,-524,3343
+2020-12-01,C,Indústria de transformação,-41839,164171
+2020-12-01,D,Eletricidade e gás,-306,1170
+2020-12-01,E,"Água, esgoto e resíduos",-1191,5491
+2020-12-01,F,Construção,-42455,93803
+2020-12-01,G,Comércio e reparação,58353,360292
+2020-12-01,H,Transporte e armazenagem,-3173,67218
+2020-12-01,I,Alojamento e alimentação,22829,80515
+2020-12-01,J,Informação e comunicação,2733,26249
+2020-12-01,K,Atividades financeiras,1843,13422
+2020-12-01,L,Atividades imobiliárias,513,4663
+2020-12-01,M,Atividades profissionais e científicas,-3204,37084
+2020-12-01,N,Atividades administrativas e serviços,5478,245499
+2020-12-01,O,Administração pública,-15416,1328
+2020-12-01,P,Educação,-44794,12251
+2020-12-01,Q,Saúde humana e serviço social,7851,66753
+2020-12-01,R,"Artes, cultura e esporte",-822,5915
+2020-12-01,S,Outros serviços,-5264,21071
+2020-12-01,T,Serviços domésticos,25,67
+2020-12-01,U,Organismos internacionais,1,14
+2021-01-01,A,Agropecuária,32883,88199
+2021-01-01,B,Indústria extrativa,1484,4711
+2021-01-01,C,Indústria de transformação,86978,281902
+2021-01-01,D,Eletricidade e gás,512,1672
+2021-01-01,E,"Água, esgoto e resíduos",1262,7755
+2021-01-01,F,Construção,44940,159138
+2021-01-01,G,Comércio e reparação,6972,343287
+2021-01-01,H,Transporte e armazenagem,582,70636
+2021-01-01,I,Alojamento e alimentação,4718,79572
+2021-01-01,J,Informação e comunicação,6605,34255
+2021-01-01,K,Atividades financeiras,4550,17172
+2021-01-01,L,Atividades imobiliárias,2001,6204
+2021-01-01,M,Atividades profissionais e científicas,18115,56218
+2021-01-01,N,Atividades administrativas e serviços,24067,250455
+2021-01-01,O,Administração pública,2218,6800
+2021-01-01,P,Educação,-5085,32709
+2021-01-01,Q,Saúde humana e serviço social,21465,75972
+2021-01-01,R,"Artes, cultura e esporte",-123,7233
+2021-01-01,S,Outros serviços,2910,26087
+2021-01-01,T,Serviços domésticos,6,78
+2021-01-01,U,Organismos internacionais,-1,20
+2021-02-01,A,Agropecuária,22875,87523
+2021-02-01,B,Indústria extrativa,2348,5560
+2021-02-01,C,Indústria de transformação,87546,305903
+2021-02-01,D,Eletricidade e gás,406,1842
+2021-02-01,E,"Água, esgoto e resíduos",2699,8984
+2021-02-01,F,Construção,44198,166683
+2021-02-01,G,Comércio e reparação,65936,386423
+2021-02-01,H,Transporte e armazenagem,10961,85014
+2021-02-01,I,Alojamento e alimentação,16846,87386
+2021-02-01,J,Informação e comunicação,9990,36304
+2021-02-01,K,Atividades financeiras,3253,17736
+2021-02-01,L,Atividades imobiliárias,1741,6402
+2021-02-01,M,Atividades profissionais e científicas,15501,56608
+2021-02-01,N,Atividades administrativas e serviços,41685,258222
+2021-02-01,O,Administração pública,6629,10619
+2021-02-01,P,Educação,27573,69644
+2021-02-01,Q,Saúde humana e serviço social,25900,81793
+2021-02-01,R,"Artes, cultura e esporte",1981,8834
+2021-02-01,S,Outros serviços,9800,33832
+2021-02-01,T,Serviços domésticos,49,95
+2021-02-01,U,Organismos internacionais,-2,18
+2021-03-01,A,Agropecuária,3410,89350
+2021-03-01,B,Indústria extrativa,1406,5477
+2021-03-01,C,Indústria de transformação,38180,277754
+2021-03-01,D,Eletricidade e gás,-307,1626
+2021-03-01,E,"Água, esgoto e resíduos",1513,9197
+2021-03-01,F,Construção,25407,162863
+2021-03-01,G,Comércio e reparação,14136,352666
+2021-03-01,H,Transporte e armazenagem,13287,87952
+2021-03-01,I,Alojamento e alimentação,-31013,58066
+2021-03-01,J,Informação e comunicação,11761,41017
+2021-03-01,K,Atividades financeiras,2347,19407
+2021-03-01,L,Atividades imobiliárias,1531,6198
+2021-03-01,M,Atividades profissionais e científicas,16202,61028
+2021-03-01,N,Atividades administrativas e serviços,20528,255080
+2021-03-01,O,Administração pública,3252,7303
+2021-03-01,P,Educação,12804,47502
+2021-03-01,Q,Saúde humana e serviço social,39599,107555
+2021-03-01,R,"Artes, cultura e esporte",-2353,5693
+2021-03-01,S,Outros serviços,4615,31024
+2021-03-01,T,Serviços domésticos,25,109
+2021-03-01,U,Organismos internacionais,0,18
+2021-04-01,A,Agropecuária,10995,85358
+2021-04-01,B,Indústria extrativa,2382,5713
+2021-04-01,C,Indústria de transformação,16469,227531
+2021-04-01,D,Eletricidade e gás,436,1945
+2021-04-01,E,"Água, esgoto e resíduos",-574,7778
+2021-04-01,F,Construção,23021,148204
+2021-04-01,G,Comércio e reparação,7172,297671
+2021-04-01,H,Transporte e armazenagem,4371,77664
+2021-04-01,I,Alojamento e alimentação,-24650,43594
+2021-04-01,J,Informação e comunicação,10190,38144
+2021-04-01,K,Atividades financeiras,6541,20457
+2021-04-01,L,Atividades imobiliárias,1449,5628
+2021-04-01,M,Atividades profissionais e científicas,12184,54981
+2021-04-01,N,Atividades administrativas e serviços,3712,220525
+2021-04-01,O,Administração pública,1734,5455
+2021-04-01,P,Educação,4777,31427
+2021-04-01,Q,Saúde humana e serviço social,30158,91887
+2021-04-01,R,"Artes, cultura e esporte",-1834,4810
+2021-04-01,S,Outros serviços,5280,27334
+2021-04-01,T,Serviços domésticos,98,173
+2021-04-01,U,Organismos internacionais,11,32
+2021-05-01,A,Agropecuária,42389,105796
+2021-05-01,B,Indústria extrativa,2557,6158
+2021-05-01,C,Indústria de transformação,38928,240853
+2021-05-01,D,Eletricidade e gás,213,1676
+2021-05-01,E,"Água, esgoto e resíduos",2199,9432
+2021-05-01,F,Construção,23985,159438
+2021-05-01,G,Comércio e reparação,59377,353776
+2021-05-01,H,Transporte e armazenagem,7145,79128
+2021-05-01,I,Alojamento e alimentação,6019,65885
+2021-05-01,J,Informação e comunicação,10812,39970
+2021-05-01,K,Atividades financeiras,5367,19957
+2021-05-01,L,Atividades imobiliárias,1352,6156
+2021-05-01,M,Atividades profissionais e científicas,14778,59785
+2021-05-01,N,Atividades administrativas e serviços,25910,249170
+2021-05-01,O,Administração pública,1680,5753
+2021-05-01,P,Educação,9786,36994
+2021-05-01,Q,Saúde humana e serviço social,16392,78030
+2021-05-01,R,"Artes, cultura e esporte",532,7459
+2021-05-01,S,Outros serviços,9247,32772
+2021-05-01,T,Serviços domésticos,27,101
+2021-05-01,U,Organismos internacionais,11,27
+2021-06-01,A,Agropecuária,38343,104417
+2021-06-01,B,Indústria extrativa,2323,5941
+2021-06-01,C,Indústria de transformação,45001,244950
+2021-06-01,D,Eletricidade e gás,760,2083
+2021-06-01,E,"Água, esgoto e resíduos",2076,9092
+2021-06-01,F,Construção,23232,162468
+2021-06-01,G,Comércio e reparação,72561,378291
+2021-06-01,H,Transporte e armazenagem,12736,82568
+2021-06-01,I,Alojamento e alimentação,18284,76586
+2021-06-01,J,Informação e comunicação,12180,42705
+2021-06-01,K,Atividades financeiras,5975,21236
+2021-06-01,L,Atividades imobiliárias,1554,6304
+2021-06-01,M,Atividades profissionais e científicas,15169,58964
+2021-06-01,N,Atividades administrativas e serviços,32909,255147
+2021-06-01,O,Administração pública,637,4501
+2021-06-01,P,Educação,1943,34307
+2021-06-01,Q,Saúde humana e serviço social,17652,82171
+2021-06-01,R,"Artes, cultura e esporte",1411,7751
+2021-06-01,S,Outros serviços,5254,30129
+2021-06-01,T,Serviços domésticos,30,107
+2021-06-01,U,Organismos internacionais,6,30
+2021-07-01,A,Agropecuária,25500,93038
+2021-07-01,B,Indústria extrativa,2171,6107
+2021-07-01,C,Indústria de transformação,54305,261946
+2021-07-01,D,Eletricidade e gás,424,1767
+2021-07-01,E,"Água, esgoto e resíduos",1823,8537
+2021-07-01,F,Construção,30654,169433
+2021-07-01,G,Comércio e reparação,74324,390039
+2021-07-01,H,Transporte e armazenagem,14295,88579
+2021-07-01,I,Alojamento e alimentação,28265,90342
+2021-07-01,J,Informação e comunicação,11515,43063
+2021-07-01,K,Atividades financeiras,5653,21854
+2021-07-01,L,Atividades imobiliárias,1677,6471
+2021-07-01,M,Atividades profissionais e científicas,13998,62001
+2021-07-01,N,Atividades administrativas e serviços,37177,265261
+2021-07-01,O,Administração pública,543,4448
+2021-07-01,P,Educação,-4354,32910
+2021-07-01,Q,Saúde humana e serviço social,10079,79603
+2021-07-01,R,"Artes, cultura e esporte",2548,8620
+2021-07-01,S,Outros serviços,6064,31879
+2021-07-01,T,Serviços domésticos,48,120
+2021-07-01,U,Organismos internacionais,17,33
+2021-08-01,A,Agropecuária,9069,84903
+2021-08-01,B,Indústria extrativa,1687,5917
+2021-08-01,C,Indústria de transformação,69230,293869
+2021-08-01,D,Eletricidade e gás,378,2015
+2021-08-01,E,"Água, esgoto e resíduos",1361,8878
+2021-08-01,F,Construção,33272,176705
+2021-08-01,G,Comércio e reparação,77842,417562
+2021-08-01,H,Transporte e armazenagem,18929,94108
+2021-08-01,I,Alojamento e alimentação,33659,109825
+2021-08-01,J,Informação e comunicação,11572,44020
+2021-08-01,K,Atividades financeiras,5979,22486
+2021-08-01,L,Atividades imobiliárias,1728,6879
+2021-08-01,M,Atividades profissionais e científicas,15371,64708
+2021-08-01,N,Atividades administrativas e serviços,45239,287134
+2021-08-01,O,Administração pública,1325,6361
+2021-08-01,P,Educação,24556,64582
+2021-08-01,Q,Saúde humana e serviço social,8719,81019
+2021-08-01,R,"Artes, cultura e esporte",4452,11348
+2021-08-01,S,Outros serviços,8916,36927
+2021-08-01,T,Serviços domésticos,61,140
+2021-08-01,U,Organismos internacionais,0,25
+2021-09-01,A,Agropecuária,8856,89992
+2021-09-01,B,Indústria extrativa,1644,5925
+2021-09-01,C,Indústria de transformação,72598,293478
+2021-09-01,D,Eletricidade e gás,322,2096
+2021-09-01,E,"Água, esgoto e resíduos",1310,8625
+2021-09-01,F,Construção,26182,170263
+2021-09-01,G,Comércio e reparação,60663,418410
+2021-09-01,H,Transporte e armazenagem,18030,96223
+2021-09-01,I,Alojamento e alimentação,31496,110823
+2021-09-01,J,Informação e comunicação,10056,43670
+2021-09-01,K,Atividades financeiras,6160,22639
+2021-09-01,L,Atividades imobiliárias,1405,6934
+2021-09-01,M,Atividades profissionais e científicas,13580,64347
+2021-09-01,N,Atividades administrativas e serviços,33566,276511
+2021-09-01,O,Administração pública,1199,6110
+2021-09-01,P,Educação,15903,51074
+2021-09-01,Q,Saúde humana e serviço social,2189,75237
+2021-09-01,R,"Artes, cultura e esporte",3949,11631
+2021-09-01,S,Outros serviços,7851,35845
+2021-09-01,T,Serviços domésticos,35,118
+2021-09-01,U,Organismos internacionais,-1,16
+2021-10-01,A,Agropecuária,-5756,83610
+2021-10-01,B,Indústria extrativa,1123,5298
+2021-10-01,C,Indústria de transformação,23557,253794
+2021-10-01,D,Eletricidade e gás,334,1850
+2021-10-01,E,"Água, esgoto e resíduos",1515,9461
+2021-10-01,F,Construção,16927,166451
+2021-10-01,G,Comércio e reparação,70561,433433
+2021-10-01,H,Transporte e armazenagem,13693,94580
+2021-10-01,I,Alojamento e alimentação,32808,115552
+2021-10-01,J,Informação e comunicação,11313,44329
+2021-10-01,K,Atividades financeiras,5207,22526
+2021-10-01,L,Atividades imobiliárias,1107,6685
+2021-10-01,M,Atividades profissionais e científicas,10828,64722
+2021-10-01,N,Atividades administrativas e serviços,42976,292130
+2021-10-01,O,Administração pública,1238,5476
+2021-10-01,P,Educação,9006,39584
+2021-10-01,Q,Saúde humana e serviço social,4260,74601
+2021-10-01,R,"Artes, cultura e esporte",3560,11190
+2021-10-01,S,Outros serviços,8877,35318
+2021-10-01,T,Serviços domésticos,-56,119
+2021-10-01,U,Organismos internacionais,7,29
+2021-11-01,A,Agropecuária,-16762,73955
+2021-11-01,B,Indústria extrativa,460,4585
+2021-11-01,C,Indústria de transformação,5840,227200
+2021-11-01,D,Eletricidade e gás,-145,1697
+2021-11-01,E,"Água, esgoto e resíduos",1882,9435
+2021-11-01,F,Construção,11435,162166
+2021-11-01,G,Comércio e reparação,139493,475372
+2021-11-01,H,Transporte e armazenagem,17794,96824
+2021-11-01,I,Alojamento e alimentação,36254,118026
+2021-11-01,J,Informação e comunicação,12055,43616
+2021-11-01,K,Atividades financeiras,5530,21178
+2021-11-01,L,Atividades imobiliárias,1831,6902
+2021-11-01,M,Atividades profissionais e científicas,13830,64370
+2021-11-01,N,Atividades administrativas e serviços,73808,313410
+2021-11-01,O,Administração pública,117,3961
+2021-11-01,P,Educação,2517,32023
+2021-11-01,Q,Saúde humana e serviço social,7290,72281
+2021-11-01,R,"Artes, cultura e esporte",2543,11000
+2021-11-01,S,Outros serviços,8319,34615
+2021-11-01,T,Serviços domésticos,15,119
+2021-11-01,U,Organismos internacionais,4,27
+2021-12-01,A,Agropecuária,-26194,63383
+2021-12-01,B,Indústria extrativa,-1137,3627
+2021-12-01,C,Indústria de transformação,-88533,152301
+2021-12-01,D,Eletricidade e gás,-578,1210
+2021-12-01,E,"Água, esgoto e resíduos",-2164,8482
+2021-12-01,F,Construção,-51713,113900
+2021-12-01,G,Comércio e reparação,8942,390917
+2021-12-01,H,Transporte e armazenagem,-12025,77330
+2021-12-01,I,Alojamento e alimentação,20013,110784
+2021-12-01,J,Informação e comunicação,4609,36620
+2021-12-01,K,Atividades financeiras,1379,16606
+2021-12-01,L,Atividades imobiliárias,-40,5518
+2021-12-01,M,Atividades profissionais e científicas,-7716,50389
+2021-12-01,N,Atividades administrativas e serviços,-15840,282129
+2021-12-01,O,Administração pública,-18027,2451
+2021-12-01,P,Educação,-62284,19063
+2021-12-01,Q,Saúde humana e serviço social,-4121,66571
+2021-12-01,R,"Artes, cultura e esporte",876,10070
+2021-12-01,S,Outros serviços,-11259,26419
+2021-12-01,T,Serviços domésticos,6,114
+2021-12-01,U,Organismos internacionais,-4,26
+2022-01-01,A,Agropecuária,25014,106242
+2022-01-01,B,Indústria extrativa,507,4481
+2022-01-01,C,Indústria de transformação,48802,269125
+2022-01-01,D,Eletricidade e gás,22,1431
+2022-01-01,E,"Água, esgoto e resíduos",2088,9636
+2022-01-01,F,Construção,36809,182135
+2022-01-01,G,Comércio e reparação,-60088,368425
+2022-01-01,H,Transporte e armazenagem,5830,89047
+2022-01-01,I,Alojamento e alimentação,2007,101794
+2022-01-01,J,Informação e comunicação,7352,43182
+2022-01-01,K,Atividades financeiras,3297,18488
+2022-01-01,L,Atividades imobiliárias,1066,6998
+2022-01-01,M,Atividades profissionais e científicas,12900,68337
+2022-01-01,N,Atividades administrativas e serviços,34158,306583
+2022-01-01,O,Administração pública,1215,6084
+2022-01-01,P,Educação,11196,58627
+2022-01-01,Q,Saúde humana e serviço social,17158,89473
+2022-01-01,R,"Artes, cultura e esporte",2845,11750
+2022-01-01,S,Outros serviços,2961,35639
+2022-01-01,T,Serviços domésticos,44,135
+2022-01-01,U,Organismos internacionais,-3,34
+2022-02-01,A,Agropecuária,17454,104839
+2022-02-01,B,Indústria extrativa,1907,6164
+2022-02-01,C,Indústria de transformação,38725,294102
+2022-02-01,D,Eletricidade e gás,-139,1670
+2022-02-01,E,"Água, esgoto e resíduos",2676,11056
+2022-02-01,F,Construção,39870,193086
+2022-02-01,G,Comércio e reparação,12898,427822
+2022-02-01,H,Transporte e armazenagem,14153,105503
+2022-02-01,I,Alojamento e alimentação,20504,119572
+2022-02-01,J,Informação e comunicação,7979,44674
+2022-02-01,K,Atividades financeiras,3707,19141
+2022-02-01,L,Atividades imobiliárias,1369,7893
+2022-02-01,M,Atividades profissionais e científicas,13662,69594
+2022-02-01,N,Atividades administrativas e serviços,30610,302596
+2022-02-01,O,Administração pública,11520,19891
+2022-02-01,P,Educação,66942,122770
+2022-02-01,Q,Saúde humana e serviço social,23535,99267
+2022-02-01,R,"Artes, cultura e esporte",2884,12182
+2022-02-01,S,Outros serviços,18241,51167
+2022-02-01,T,Serviços domésticos,0,109
+2022-02-01,U,Organismos internacionais,10,45
+2022-03-01,A,Agropecuária,-15954,98851
+2022-03-01,B,Indústria extrativa,927,5501
+2022-03-01,C,Indústria de transformação,11927,290022
+2022-03-01,D,Eletricidade e gás,203,1620
+2022-03-01,E,"Água, esgoto e resíduos",1820,11490
+2022-03-01,F,Construção,25026,191507
+2022-03-01,G,Comércio e reparação,467,435190
+2022-03-01,H,Transporte e armazenagem,16329,106574
+2022-03-01,I,Alojamento e alimentação,6487,115242
+2022-03-01,J,Informação e comunicação,9877,47550
+2022-03-01,K,Atividades financeiras,3079,20427
+2022-03-01,L,Atividades imobiliárias,1329,8110
+2022-03-01,M,Atividades profissionais e científicas,13244,75225
+2022-03-01,N,Atividades administrativas e serviços,12517,305505
+2022-03-01,O,Administração pública,5544,11008
+2022-03-01,P,Educação,28440,79906
+2022-03-01,Q,Saúde humana e serviço social,4150,89949
+2022-03-01,R,"Artes, cultura e esporte",1230,12355
+2022-03-01,S,Outros serviços,9534,46859
+2022-03-01,T,Serviços domésticos,-19,119
+2022-03-01,U,Organismos internacionais,32,61
+2022-04-01,A,Agropecuária,-1091,96028
+2022-04-01,B,Indústria extrativa,1493,5778
+2022-04-01,C,Indústria de transformação,22508,267997
+2022-04-01,D,Eletricidade e gás,-163,1597
+2022-04-01,E,"Água, esgoto e resíduos",2700,10748
+2022-04-01,F,Construção,25566,180526
+2022-04-01,G,Comércio e reparação,29501,423408
+2022-04-01,H,Transporte e armazenagem,16049,103764
+2022-04-01,I,Alojamento e alimentação,19085,118124
+2022-04-01,J,Informação e comunicação,8402,44651
+2022-04-01,K,Atividades financeiras,3845,21380
+2022-04-01,L,Atividades imobiliárias,1018,7471
+2022-04-01,M,Atividades profissionais e científicas,10716,69784
+2022-04-01,N,Atividades administrativas e serviços,16029,289960
+2022-04-01,O,Administração pública,2655,8020
+2022-04-01,P,Educação,17265,61522
+2022-04-01,Q,Saúde humana e serviço social,10124,88761
+2022-04-01,R,"Artes, cultura e esporte",3212,13074
+2022-04-01,S,Outros serviços,8021,41798
+2022-04-01,T,Serviços domésticos,23,129
+2022-04-01,U,Organismos internacionais,8,37
+2022-05-01,A,Agropecuária,26747,121088
+2022-05-01,B,Indústria extrativa,1521,6098
+2022-05-01,C,Indústria de transformação,42081,289639
+2022-05-01,D,Eletricidade e gás,-127,1506
+2022-05-01,E,"Água, esgoto e resíduos",3500,11696
+2022-05-01,F,Construção,35445,201708
+2022-05-01,G,Comércio e reparação,47557,448810
+2022-05-01,H,Transporte e armazenagem,14779,105734
+2022-05-01,I,Alojamento e alimentação,21326,121221
+2022-05-01,J,Informação e comunicação,8491,45251
+2022-05-01,K,Atividades financeiras,2934,21079
+2022-05-01,L,Atividades imobiliárias,725,7715
+2022-05-01,M,Atividades profissionais e científicas,12020,71266
+2022-05-01,N,Atividades administrativas e serviços,25203,301098
+2022-05-01,O,Administração pública,1761,7697
+2022-05-01,P,Educação,12208,55669
+2022-05-01,Q,Saúde humana e serviço social,10816,89861
+2022-05-01,R,"Artes, cultura e esporte",2456,11762
+2022-05-01,S,Outros serviços,7541,41891
+2022-05-01,T,Serviços domésticos,23,134
+2022-05-01,U,Organismos internacionais,11,37
+2022-06-01,A,Agropecuária,34531,123300
+2022-06-01,B,Indústria extrativa,1348,5689
+2022-06-01,C,Indústria de transformação,37963,274799
+2022-06-01,D,Eletricidade e gás,164,1695
+2022-06-01,E,"Água, esgoto e resíduos",2040,11196
+2022-06-01,F,Construção,30047,192733
+2022-06-01,G,Comércio e reparação,47321,436609
+2022-06-01,H,Transporte e armazenagem,16903,102290
+2022-06-01,I,Alojamento e alimentação,17852,114052
+2022-06-01,J,Informação e comunicação,8654,45581
+2022-06-01,K,Atividades financeiras,3697,21038
+2022-06-01,L,Atividades imobiliárias,414,7034
+2022-06-01,M,Atividades profissionais e científicas,11204,67684
+2022-06-01,N,Atividades administrativas e serviços,41437,301833
+2022-06-01,O,Administração pública,3085,8017
+2022-06-01,P,Educação,-589,46793
+2022-06-01,Q,Saúde humana e serviço social,12322,87729
+2022-06-01,R,"Artes, cultura e esporte",2066,11239
+2022-06-01,S,Outros serviços,7460,39383
+2022-06-01,T,Serviços domésticos,20,141
+2022-06-01,U,Organismos internacionais,5,41
+2022-07-01,A,Agropecuária,15880,104239
+2022-07-01,B,Indústria extrativa,1584,5976
+2022-07-01,C,Indústria de transformação,46065,284822
+2022-07-01,D,Eletricidade e gás,476,1696
+2022-07-01,E,"Água, esgoto e resíduos",2091,10617
+2022-07-01,F,Construção,32231,195986
+2022-07-01,G,Comércio e reparação,38950,437696
+2022-07-01,H,Transporte e armazenagem,13474,98862
+2022-07-01,I,Alojamento e alimentação,12431,114552
+2022-07-01,J,Informação e comunicação,5331,41864
+2022-07-01,K,Atividades financeiras,2901,20207
+2022-07-01,L,Atividades imobiliárias,67,7181
+2022-07-01,M,Atividades profissionais e científicas,9457,67181
+2022-07-01,N,Atividades administrativas e serviços,19846,301696
+2022-07-01,O,Administração pública,3973,9006
+2022-07-01,P,Educação,-7392,43289
+2022-07-01,Q,Saúde humana e serviço social,13757,91553
+2022-07-01,R,"Artes, cultura e esporte",2227,11819
+2022-07-01,S,Outros serviços,5532,38122
+2022-07-01,T,Serviços domésticos,14,132
+2022-07-01,U,Organismos internacionais,7,41
+2022-08-01,A,Agropecuária,7724,103696
+2022-08-01,B,Indústria extrativa,1230,6202
+2022-08-01,C,Indústria de transformação,48931,305511
+2022-08-01,D,Eletricidade e gás,265,1685
+2022-08-01,E,"Água, esgoto e resíduos",2334,11040
+2022-08-01,F,Construção,35156,211068
+2022-08-01,G,Comércio e reparação,41886,466529
+2022-08-01,H,Transporte e armazenagem,14118,106405
+2022-08-01,I,Alojamento e alimentação,16584,123685
+2022-08-01,J,Informação e comunicação,6573,44441
+2022-08-01,K,Atividades financeiras,4086,21921
+2022-08-01,L,Atividades imobiliárias,648,7546
+2022-08-01,M,Atividades profissionais e científicas,13032,74346
+2022-08-01,N,Atividades administrativas e serviços,37070,329105
+2022-08-01,O,Administração pública,4602,10202
+2022-08-01,P,Educação,28658,80311
+2022-08-01,Q,Saúde humana e serviço social,4801,90456
+2022-08-01,R,"Artes, cultura e esporte",3540,13878
+2022-08-01,S,Outros serviços,7369,43597
+2022-08-01,T,Serviços domésticos,21,130
+2022-08-01,U,Organismos internacionais,11,46
+2022-09-01,A,Agropecuária,9521,100261
+2022-09-01,B,Indústria extrativa,1114,5904
+2022-09-01,C,Indústria de transformação,53715,288889
+2022-09-01,D,Eletricidade e gás,291,1664
+2022-09-01,E,"Água, esgoto e resíduos",1321,9413
+2022-09-01,F,Construção,31786,198053
+2022-09-01,G,Comércio e reparação,57943,451888
+2022-09-01,H,Transporte e armazenagem,15849,99439
+2022-09-01,I,Alojamento e alimentação,17662,121047
+2022-09-01,J,Informação e comunicação,8017,44250
+2022-09-01,K,Atividades financeiras,3525,20212
+2022-09-01,L,Atividades imobiliárias,642,6873
+2022-09-01,M,Atividades profissionais e científicas,9944,72267
+2022-09-01,N,Atividades administrativas e serviços,37347,309789
+2022-09-01,O,Administração pública,3223,7840
+2022-09-01,P,Educação,13582,54980
+2022-09-01,Q,Saúde humana e serviço social,4762,81006
+2022-09-01,R,"Artes, cultura e esporte",2541,12820
+2022-09-01,S,Outros serviços,5293,39814
+2022-09-01,T,Serviços domésticos,16,120
+2022-09-01,U,Organismos internacionais,-9,43
+2022-10-01,A,Agropecuária,-1515,91220
+2022-10-01,B,Indústria extrativa,697,5823
+2022-10-01,C,Indústria de transformação,12793,246505
+2022-10-01,D,Eletricidade e gás,-215,1232
+2022-10-01,E,"Água, esgoto e resíduos",1208,9297
+2022-10-01,F,Construção,5306,174832
+2022-10-01,G,Comércio e reparação,49275,443558
+2022-10-01,H,Transporte e armazenagem,10304,94621
+2022-10-01,I,Alojamento e alimentação,14518,117344
+2022-10-01,J,Informação e comunicação,1956,39489
+2022-10-01,K,Atividades financeiras,3360,19296
+2022-10-01,L,Atividades imobiliárias,795,6605
+2022-10-01,M,Atividades profissionais e científicas,10064,67747
+2022-10-01,N,Atividades administrativas e serviços,33880,300970
+2022-10-01,O,Administração pública,2729,6620
+2022-10-01,P,Educação,6861,42404
+2022-10-01,Q,Saúde humana e serviço social,3894,74667
+2022-10-01,R,"Artes, cultura e esporte",1673,11072
+2022-10-01,S,Outros serviços,1850,35975
+2022-10-01,T,Serviços domésticos,31,146
+2022-10-01,U,Organismos internacionais,-10,39
+2022-11-01,A,Agropecuária,-18397,80298
+2022-11-01,B,Indústria extrativa,900,5646
+2022-11-01,C,Indústria de transformação,-26831,213148
+2022-11-01,D,Eletricidade e gás,201,1449
+2022-11-01,E,"Água, esgoto e resíduos",-296,8739
+2022-11-01,F,Construção,-18843,158500
+2022-11-01,G,Comércio e reparação,106452,476820
+2022-11-01,H,Transporte e armazenagem,10967,94700
+2022-11-01,I,Alojamento e alimentação,21472,119355
+2022-11-01,J,Informação e comunicação,2153,37217
+2022-11-01,K,Atividades financeiras,2842,17818
+2022-11-01,L,Atividades imobiliárias,206,6118
+2022-11-01,M,Atividades profissionais e científicas,9458,64863
+2022-11-01,N,Atividades administrativas e serviços,37817,311085
+2022-11-01,O,Administração pública,1832,5805
+2022-11-01,P,Educação,-2406,31527
+2022-11-01,Q,Saúde humana e serviço social,5716,71497
+2022-11-01,R,"Artes, cultura e esporte",1738,10882
+2022-11-01,S,Outros serviços,480,32241
+2022-11-01,T,Serviços domésticos,28,140
+2022-11-01,U,Organismos internacionais,6,46
+2022-12-01,A,Agropecuária,-37000,63535
+2022-12-01,B,Indústria extrativa,-312,4177
+2022-12-01,C,Indústria de transformação,-113011,142597
+2022-12-01,D,Eletricidade e gás,-1030,1058
+2022-12-01,E,"Água, esgoto e resíduos",147,8097
+2022-12-01,F,Construção,-74641,111150
+2022-12-01,G,Comércio e reparação,-17140,387903
+2022-12-01,H,Transporte e armazenagem,-19005,74977
+2022-12-01,I,Alojamento e alimentação,187,103082
+2022-12-01,J,Informação e comunicação,-3511,27299
+2022-12-01,K,Atividades financeiras,-934,13320
+2022-12-01,L,Atividades imobiliárias,-864,4830
+2022-12-01,M,Atividades profissionais e científicas,-10523,49447
+2022-12-01,N,Atividades administrativas e serviços,-26888,272769
+2022-12-01,O,Administração pública,-22652,4450
+2022-12-01,P,Educação,-76176,16954
+2022-12-01,Q,Saúde humana e serviço social,-10799,61935
+2022-12-01,R,"Artes, cultura e esporte",-83,10156
+2022-12-01,S,Outros serviços,-16759,25060
+2022-12-01,T,Serviços domésticos,-17,79
+2022-12-01,U,Organismos internacionais,0,48
+2023-01-01,A,Agropecuária,23112,111604
+2023-01-01,B,Indústria extrativa,393,5144
+2023-01-01,C,Indústria de transformação,33610,280185
+2023-01-01,D,Eletricidade e gás,-99,1386
+2023-01-01,E,"Água, esgoto e resíduos",49,9899
+2023-01-01,F,Construção,39338,198139
+2023-01-01,G,Comércio e reparação,-53407,401957
+2023-01-01,H,Transporte e armazenagem,2924,93026
+2023-01-01,I,Alojamento e alimentação,-2460,113491
+2023-01-01,J,Informação e comunicação,777,37654
+2023-01-01,K,Atividades financeiras,1307,19922
+2023-01-01,L,Atividades imobiliárias,83,7052
+2023-01-01,M,Atividades profissionais e científicas,9545,72461
+2023-01-01,N,Atividades administrativas e serviços,4276,314456
+2023-01-01,O,Administração pública,8068,16198
+2023-01-01,P,Educação,5389,62013
+2023-01-01,Q,Saúde humana e serviço social,5946,80812
+2023-01-01,R,"Artes, cultura e esporte",3179,13769
+2023-01-01,S,Outros serviços,1301,34951
+2023-01-01,T,Serviços domésticos,-21,67
+2023-01-01,U,Organismos internacionais,-13,40
+2023-02-01,A,Agropecuária,16163,104735
+2023-02-01,B,Indústria extrativa,1344,5797
+2023-02-01,C,Indústria de transformação,37018,287088
+2023-02-01,D,Eletricidade e gás,187,1748
+2023-02-01,E,"Água, esgoto e resíduos",1671,11089
+2023-02-01,F,Construção,22442,182385
+2023-02-01,G,Comércio e reparação,-1245,419356
+2023-02-01,H,Transporte e armazenagem,16804,105088
+2023-02-01,I,Alojamento e alimentação,15449,125267
+2023-02-01,J,Informação e comunicação,-970,33352
+2023-02-01,K,Atividades financeiras,-795,17006
+2023-02-01,L,Atividades imobiliárias,352,6875
+2023-02-01,M,Atividades profissionais e científicas,8380,66918
+2023-02-01,N,Atividades administrativas e serviços,22123,299118
+2023-02-01,O,Administração pública,20072,26062
+2023-02-01,P,Educação,58104,114267
+2023-02-01,Q,Saúde humana e serviço social,12087,87034
+2023-02-01,R,"Artes, cultura e esporte",2458,12954
+2023-02-01,S,Outros serviços,10120,43575
+2023-02-01,T,Serviços domésticos,26,101
+2023-02-01,U,Organismos internacionais,-5,29
+2023-03-01,A,Agropecuária,-332,117601
+2023-03-01,B,Indústria extrativa,1566,6720
+2023-03-01,C,Indústria de transformação,17876,314684
+2023-03-01,D,Eletricidade e gás,92,1722
+2023-03-01,E,"Água, esgoto e resíduos",1450,11844
+2023-03-01,F,Construção,33641,216380
+2023-03-01,G,Comércio e reparação,18555,492497
+2023-03-01,H,Transporte e armazenagem,23422,119912
+2023-03-01,I,Alojamento e alimentação,11313,137023
+2023-03-01,J,Informação e comunicação,1168,39619
+2023-03-01,K,Atividades financeiras,-549,19780
+2023-03-01,L,Atividades imobiliárias,640,8282
+2023-03-01,M,Atividades profissionais e científicas,9835,79286
+2023-03-01,N,Atividades administrativas e serviços,24373,349640
+2023-03-01,O,Administração pública,8365,14132
+2023-03-01,P,Educação,22334,79184
+2023-03-01,Q,Saúde humana e serviço social,14214,101124
+2023-03-01,R,"Artes, cultura e esporte",1317,14049
+2023-03-01,S,Outros serviços,5913,44819
+2023-03-01,T,Serviços domésticos,-13,73
+2023-03-01,U,Organismos internacionais,-9,47
+2023-04-01,A,Agropecuária,2902,103483
+2023-04-01,B,Indústria extrativa,2475,6933
+2023-04-01,C,Indústria de transformação,14186,271801
+2023-04-01,D,Eletricidade e gás,71,1958
+2023-04-01,E,"Água, esgoto e resíduos",1981,10581
+2023-04-01,F,Construção,26937,183566
+2023-04-01,G,Comércio e reparação,27559,423690
+2023-04-01,H,Transporte e armazenagem,16105,103011
+2023-04-01,I,Alojamento e alimentação,9170,116169
+2023-04-01,J,Informação e comunicação,2540,36199
+2023-04-01,K,Atividades financeiras,311,19009
+2023-04-01,L,Atividades imobiliárias,658,7115
+2023-04-01,M,Atividades profissionais e científicas,7617,66151
+2023-04-01,N,Atividades administrativas e serviços,20785,305164
+2023-04-01,O,Administração pública,4581,9386
+2023-04-01,P,Educação,15223,57981
+2023-04-01,Q,Saúde humana e serviço social,18334,92162
+2023-04-01,R,"Artes, cultura e esporte",2600,13142
+2023-04-01,S,Outros serviços,5964,37670
+2023-04-01,T,Serviços domésticos,0,56
+2023-04-01,U,Organismos internacionais,6,52
+2023-05-01,A,Agropecuária,19559,128396
+2023-05-01,B,Indústria extrativa,2644,7583
+2023-05-01,C,Indústria de transformação,5757,286309
+2023-05-01,D,Eletricidade e gás,213,1801
+2023-05-01,E,"Água, esgoto e resíduos",-185,10262
+2023-05-01,F,Construção,27958,208231
+2023-05-01,G,Comércio e reparação,15412,449993
+2023-05-01,H,Transporte e armazenagem,7513,106583
+2023-05-01,I,Alojamento e alimentação,5346,120181
+2023-05-01,J,Informação e comunicação,2993,39479
+2023-05-01,K,Atividades financeiras,180,19556
+2023-05-01,L,Atividades imobiliárias,473,7530
+2023-05-01,M,Atividades profissionais e científicas,4231,70531
+2023-05-01,N,Atividades administrativas e serviços,29854,333815
+2023-05-01,O,Administração pública,2716,8810
+2023-05-01,P,Educação,9524,55429
+2023-05-01,Q,Saúde humana e serviço social,13876,93189
+2023-05-01,R,"Artes, cultura e esporte",2334,12945
+2023-05-01,S,Outros serviços,4839,39431
+2023-05-01,T,Serviços domésticos,26,86
+2023-05-01,U,Organismos internacionais,10,62
+2023-06-01,A,Agropecuária,27159,125832
+2023-06-01,B,Indústria extrativa,1825,7131
+2023-06-01,C,Indústria de transformação,9707,269659
+2023-06-01,D,Eletricidade e gás,232,1852
+2023-06-01,E,"Água, esgoto e resíduos",353,9870
+2023-06-01,F,Construção,20953,196651
+2023-06-01,G,Comércio e reparação,20554,439553
+2023-06-01,H,Transporte e armazenagem,11492,102395
+2023-06-01,I,Alojamento e alimentação,13044,119324
+2023-06-01,J,Informação e comunicação,43,36560
+2023-06-01,K,Atividades financeiras,1098,19585
+2023-06-01,L,Atividades imobiliárias,346,7203
+2023-06-01,M,Atividades profissionais e científicas,6149,69363
+2023-06-01,N,Atividades administrativas e serviços,32404,319037
+2023-06-01,O,Administração pública,1733,7077
+2023-06-01,P,Educação,-4485,45186
+2023-06-01,Q,Saúde humana e serviço social,8880,88376
+2023-06-01,R,"Artes, cultura e esporte",2423,12378
+2023-06-01,S,Outros serviços,3291,36984
+2023-06-01,T,Serviços domésticos,-7,66
+2023-06-01,U,Organismos internacionais,9,47
+2023-07-01,A,Agropecuária,12978,104362
+2023-07-01,B,Indústria extrativa,1215,6317
+2023-07-01,C,Indústria de transformação,18301,272276
+2023-07-01,D,Eletricidade e gás,441,1845
+2023-07-01,E,"Água, esgoto e resíduos",1297,10924
+2023-07-01,F,Construção,25423,198957
+2023-07-01,G,Comércio e reparação,26744,436119
+2023-07-01,H,Transporte e armazenagem,8904,99317
+2023-07-01,I,Alojamento e alimentação,9432,118412
+2023-07-01,J,Informação e comunicação,2512,36096
+2023-07-01,K,Atividades financeiras,1589,20012
+2023-07-01,L,Atividades imobiliárias,526,7074
+2023-07-01,M,Atividades profissionais e científicas,6395,69426
+2023-07-01,N,Atividades administrativas e serviços,16196,312196
+2023-07-01,O,Administração pública,-203,5772
+2023-07-01,P,Educação,-8372,42148
+2023-07-01,Q,Saúde humana e serviço social,13323,92318
+2023-07-01,R,"Artes, cultura e esporte",1833,12313
+2023-07-01,S,Outros serviços,4152,37172
+2023-07-01,T,Serviços domésticos,0,82
+2023-07-01,U,Organismos internacionais,16,58
+2023-08-01,A,Agropecuária,5126,105218
+2023-08-01,B,Indústria extrativa,1066,6563
+2023-08-01,C,Indústria de transformação,28077,307155
+2023-08-01,D,Eletricidade e gás,532,2012
+2023-08-01,E,"Água, esgoto e resíduos",1411,12131
+2023-08-01,F,Construção,28359,218051
+2023-08-01,G,Comércio e reparação,41843,483899
+2023-08-01,H,Transporte e armazenagem,12767,109438
+2023-08-01,I,Alojamento e alimentação,14511,132243
+2023-08-01,J,Informação e comunicação,643,38795
+2023-08-01,K,Atividades financeiras,2362,22275
+2023-08-01,L,Atividades imobiliárias,389,7716
+2023-08-01,M,Atividades profissionais e científicas,6242,75992
+2023-08-01,N,Atividades administrativas e serviços,33877,342993
+2023-08-01,O,Administração pública,1069,6966
+2023-08-01,P,Educação,23725,76314
+2023-08-01,Q,Saúde humana e serviço social,11318,95954
+2023-08-01,R,"Artes, cultura e esporte",2209,14404
+2023-08-01,S,Outros serviços,5307,40924
+2023-08-01,T,Serviços domésticos,6,110
+2023-08-01,U,Organismos internacionais,14,57
+2023-09-01,A,Agropecuária,5942,97457
+2023-09-01,B,Indústria extrativa,1082,6115
+2023-09-01,C,Indústria de transformação,41952,284246
+2023-09-01,D,Eletricidade e gás,256,1727
+2023-09-01,E,"Água, esgoto e resíduos",-76,9407
+2023-09-01,F,Construção,20941,191063
+2023-09-01,G,Comércio e reparação,43465,454280
+2023-09-01,H,Transporte e armazenagem,13342,101216
+2023-09-01,I,Alojamento e alimentação,16642,126437
+2023-09-01,J,Informação e comunicação,2084,35505
+2023-09-01,K,Atividades financeiras,2202,19942
+2023-09-01,L,Atividades imobiliárias,737,6996
+2023-09-01,M,Atividades profissionais e científicas,8652,69610
+2023-09-01,N,Atividades administrativas e serviços,28049,320635
+2023-09-01,O,Administração pública,796,5948
+2023-09-01,P,Educação,9239,51236
+2023-09-01,Q,Saúde humana e serviço social,10348,85219
+2023-09-01,R,"Artes, cultura e esporte",2311,13204
+2023-09-01,S,Outros serviços,3765,36679
+2023-09-01,T,Serviços domésticos,6,73
+2023-09-01,U,Organismos internacionais,33,57
+2023-10-01,A,Agropecuária,-1656,94611
+2023-10-01,B,Indústria extrativa,1108,5745
+2023-10-01,C,Indústria de transformação,18182,268151
+2023-10-01,D,Eletricidade e gás,196,1702
+2023-10-01,E,"Água, esgoto e resíduos",1468,10282
+2023-10-01,F,Construção,11480,190286
+2023-10-01,G,Comércio e reparação,49647,474062
+2023-10-01,H,Transporte e armazenagem,15518,105644
+2023-10-01,I,Alojamento e alimentação,10736,126067
+2023-10-01,J,Informação e comunicação,3344,37183
+2023-10-01,K,Atividades financeiras,3585,21069
+2023-10-01,L,Atividades imobiliárias,201,6788
+2023-10-01,M,Atividades profissionais e científicas,6643,69824
+2023-10-01,N,Atividades administrativas e serviços,51355,349127
+2023-10-01,O,Administração pública,829,5169
+2023-10-01,P,Educação,4613,42676
+2023-10-01,Q,Saúde humana e serviço social,7006,82852
+2023-10-01,R,"Artes, cultura e esporte",2111,12903
+2023-10-01,S,Outros serviços,3986,37008
+2023-10-01,T,Serviços domésticos,17,91
+2023-10-01,U,Organismos internacionais,-5,39
+2023-11-01,A,Agropecuária,-21017,81983
+2023-11-01,B,Indústria extrativa,284,4995
+2023-11-01,C,Indústria de transformação,-14135,234514
+2023-11-01,D,Eletricidade e gás,425,1759
+2023-11-01,E,"Água, esgoto e resíduos",515,9293
+2023-11-01,F,Construção,-17300,170865
+2023-11-01,G,Comércio e reparação,88706,502406
+2023-11-01,H,Transporte e armazenagem,11624,101199
+2023-11-01,I,Alojamento e alimentação,14904,124769
+2023-11-01,J,Informação e comunicação,3131,34413
+2023-11-01,K,Atividades financeiras,2437,18981
+2023-11-01,L,Atividades imobiliárias,331,6748
+2023-11-01,M,Atividades profissionais e científicas,5585,66777
+2023-11-01,N,Atividades administrativas e serviços,50987,348124
+2023-11-01,O,Administração pública,-344,4156
+2023-11-01,P,Educação,-4369,32835
+2023-11-01,Q,Saúde humana e serviço social,5874,78599
+2023-11-01,R,"Artes, cultura e esporte",1781,12458
+2023-11-01,S,Outros serviços,654,31739
+2023-11-01,T,Serviços domésticos,14,84
+2023-11-01,U,Organismos internacionais,11,54
+2023-12-01,A,Agropecuária,-53660,62078
+2023-12-01,B,Indústria extrativa,-435,3935
+2023-12-01,C,Indústria de transformação,-107547,160362
+2023-12-01,D,Eletricidade e gás,-224,1416
+2023-12-01,E,"Água, esgoto e resíduos",-2800,7834
+2023-12-01,F,Construção,-75631,115631
+2023-12-01,G,Comércio e reparação,-7949,420581
+2023-12-01,H,Transporte e armazenagem,-24999,80217
+2023-12-01,I,Alojamento e alimentação,-1852,111576
+2023-12-01,J,Informação e comunicação,-1767,28325
+2023-12-01,K,Atividades financeiras,-663,14891
+2023-12-01,L,Atividades imobiliárias,-555,5391
+2023-12-01,M,Atividades profissionais e científicas,-11106,51446
+2023-12-01,N,Atividades administrativas e serviços,-22455,305082
+2023-12-01,O,Administração pública,-23514,4125
+2023-12-01,P,Educação,-77760,18377
+2023-12-01,Q,Saúde humana e serviço social,-7582,71663
+2023-12-01,R,"Artes, cultura e esporte",338,11650
+2023-12-01,S,Outros serviços,-9980,27856
+2023-12-01,T,Serviços domésticos,3,79
+2023-12-01,U,Organismos internacionais,-17,48
+2024-01-01,A,Agropecuária,21900,113538
+2024-01-01,B,Indústria extrativa,475,5596
+2024-01-01,C,Indústria de transformação,65763,317819
+2024-01-01,D,Eletricidade e gás,-115,1616
+2024-01-01,E,"Água, esgoto e resíduos",906,10989
+2024-01-01,F,Construção,49091,217059
+2024-01-01,G,Comércio e reparação,-38212,447139
+2024-01-01,H,Transporte e armazenagem,4296,103351
+2024-01-01,I,Alojamento e alimentação,-4375,123039
+2024-01-01,J,Informação e comunicação,3389,37831
+2024-01-01,K,Atividades financeiras,4085,21996
+2024-01-01,L,Atividades imobiliárias,466,7311
+2024-01-01,M,Atividades profissionais e científicas,12144,78053
+2024-01-01,N,Atividades administrativas e serviços,27268,357496
+2024-01-01,O,Administração pública,3696,10400
+2024-01-01,P,Educação,10381,68129
+2024-01-01,Q,Saúde humana e serviço social,13431,92841
+2024-01-01,R,"Artes, cultura e esporte",4458,16345
+2024-01-01,S,Outros serviços,1337,37135
+2024-01-01,T,Serviços domésticos,-4,67
+2024-01-01,U,Organismos internacionais,15,67
+2024-02-01,A,Agropecuária,3759,113369
+2024-02-01,B,Indústria extrativa,1258,6401
+2024-02-01,C,Indústria de transformação,51870,332797
+2024-02-01,D,Eletricidade e gás,153,1718
+2024-02-01,E,"Água, esgoto e resíduos",1167,12007
+2024-02-01,F,Construção,35053,213842
+2024-02-01,G,Comércio e reparação,19724,495449
+2024-02-01,H,Transporte e armazenagem,20755,121838
+2024-02-01,I,Alojamento e alimentação,15861,141464
+2024-02-01,J,Informação e comunicação,3129,38238
+2024-02-01,K,Atividades financeiras,2270,20286
+2024-02-01,L,Atividades imobiliárias,801,7697
+2024-02-01,M,Atividades profissionais e científicas,7927,75671
+2024-02-01,N,Atividades administrativas e serviços,36399,360276
+2024-02-01,O,Administração pública,18354,25965
+2024-02-01,P,Educação,58318,120492
+2024-02-01,Q,Saúde humana e serviço social,17120,99699
+2024-02-01,R,"Artes, cultura e esporte",2506,15435
+2024-02-01,S,Outros serviços,9660,46293
+2024-02-01,T,Serviços domésticos,3,75
+2024-02-01,U,Organismos internacionais,24,53
+2024-03-01,A,Agropecuária,-6457,108429
+2024-03-01,B,Indústria extrativa,863,6285
+2024-03-01,C,Indústria de transformação,32283,329413
+2024-03-01,D,Eletricidade e gás,195,1948
+2024-03-01,E,"Água, esgoto e resíduos",2545,13365
+2024-03-01,F,Construção,28666,216414
+2024-03-01,G,Comércio e reparação,37493,519886
+2024-03-01,H,Transporte e armazenagem,27077,127545
+2024-03-01,I,Alojamento e alimentação,7279,139905
+2024-03-01,J,Informação e comunicação,4425,39899
+2024-03-01,K,Atividades financeiras,2366,21526
+2024-03-01,L,Atividades imobiliárias,902,8202
+2024-03-01,M,Atividades profissionais e científicas,10100,80657
+2024-03-01,N,Atividades administrativas e serviços,31786,379409
+2024-03-01,O,Administração pública,7398,14349
+2024-03-01,P,Educação,24086,81243
+2024-03-01,Q,Saúde humana e serviço social,25306,111974
+2024-03-01,R,"Artes, cultura e esporte",1888,15878
+2024-03-01,S,Outros serviços,6108,45953
+2024-03-01,T,Serviços domésticos,9,81
+2024-03-01,U,Organismos internacionais,-8,46
+2024-04-01,A,Agropecuária,6576,111381
+2024-04-01,B,Indústria extrativa,1887,7130
+2024-04-01,C,Indústria de transformação,31675,338889
+2024-04-01,D,Eletricidade e gás,585,2526
+2024-04-01,E,"Água, esgoto e resíduos",1843,13340
+2024-04-01,F,Construção,31893,221932
+2024-04-01,G,Comércio e reparação,27272,512709
+2024-04-01,H,Transporte e armazenagem,14317,123773
+2024-04-01,I,Alojamento e alimentação,9411,135924
+2024-04-01,J,Informação e comunicação,4777,41878
+2024-04-01,K,Atividades financeiras,2028,23151
+2024-04-01,L,Atividades imobiliárias,1222,8397
+2024-04-01,M,Atividades profissionais e científicas,9289,82589
+2024-04-01,N,Atividades administrativas e serviços,43780,383125
+2024-04-01,O,Administração pública,4280,11622
+2024-04-01,P,Educação,14462,68753
+2024-04-01,Q,Saúde humana e serviço social,21385,110399
+2024-04-01,R,"Artes, cultura e esporte",3669,16678
+2024-04-01,S,Outros serviços,9685,46095
+2024-04-01,T,Serviços domésticos,16,99
+2024-04-01,U,Organismos internacionais,-12,37
+2024-05-01,A,Agropecuária,19836,128126
+2024-05-01,B,Indústria extrativa,1994,7044
+2024-05-01,C,Indústria de transformação,14277,299516
+2024-05-01,D,Eletricidade e gás,555,2048
+2024-05-01,E,"Água, esgoto e resíduos",1319,12594
+2024-05-01,F,Construção,18149,211420
+2024-05-01,G,Comércio e reparação,6375,478022
+2024-05-01,H,Transporte e armazenagem,6497,115015
+2024-05-01,I,Alojamento e alimentação,832,127622
+2024-05-01,J,Informação e comunicação,1243,39233
+2024-05-01,K,Atividades financeiras,2489,22156
+2024-05-01,L,Atividades imobiliárias,125,7513
+2024-05-01,M,Atividades profissionais e científicas,2688,75535
+2024-05-01,N,Atividades administrativas e serviços,24253,363891
+2024-05-01,O,Administração pública,2363,8718
+2024-05-01,P,Educação,6533,56291
+2024-05-01,Q,Saúde humana e serviço social,15342,105453
+2024-05-01,R,"Artes, cultura e esporte",1676,14117
+2024-05-01,S,Outros serviços,5237,41849
+2024-05-01,T,Serviços domésticos,26,104
+2024-05-01,U,Organismos internacionais,5,55
+2024-06-01,A,Agropecuária,27129,116667
+2024-06-01,B,Indústria extrativa,1657,6717
+2024-06-01,C,Indústria de transformação,28118,299672
+2024-06-01,D,Eletricidade e gás,680,2200
+2024-06-01,E,"Água, esgoto e resíduos",1568,11877
+2024-06-01,F,Construção,21449,203628
+2024-06-01,G,Comércio e reparação,33412,479623
+2024-06-01,H,Transporte e armazenagem,10354,110126
+2024-06-01,I,Alojamento e alimentação,8314,124837
+2024-06-01,J,Informação e comunicação,2758,38516
+2024-06-01,K,Atividades financeiras,2608,21139
+2024-06-01,L,Atividades imobiliárias,718,7441
+2024-06-01,M,Atividades profissionais e científicas,6216,73534
+2024-06-01,N,Atividades administrativas e serviços,36046,362058
+2024-06-01,O,Administração pública,2968,8444
+2024-06-01,P,Educação,-3123,48624
+2024-06-01,Q,Saúde humana e serviço social,13684,103283
+2024-06-01,R,"Artes, cultura e esporte",2798,14129
+2024-06-01,S,Outros serviços,4333,38984
+2024-06-01,T,Serviços domésticos,20,99
+2024-06-01,U,Organismos internacionais,14,45
+2024-07-01,A,Agropecuária,6688,103565
+2024-07-01,B,Indústria extrativa,1242,6909
+2024-07-01,C,Indústria de transformação,45803,333702
+2024-07-01,D,Eletricidade e gás,440,2309
+2024-07-01,E,"Água, esgoto e resíduos",1986,12801
+2024-07-01,F,Construção,19694,217496
+2024-07-01,G,Comércio e reparação,33003,503945
+2024-07-01,H,Transporte e armazenagem,9997,117601
+2024-07-01,I,Alojamento e alimentação,8252,132828
+2024-07-01,J,Informação e comunicação,6038,42661
+2024-07-01,K,Atividades financeiras,426,21508
+2024-07-01,L,Atividades imobiliárias,525,7579
+2024-07-01,M,Atividades profissionais e científicas,8337,81535
+2024-07-01,N,Atividades administrativas e serviços,30026,382331
+2024-07-01,O,Administração pública,2642,8658
+2024-07-01,P,Educação,-7893,48781
+2024-07-01,Q,Saúde humana e serviço social,16353,107691
+2024-07-01,R,"Artes, cultura e esporte",959,14473
+2024-07-01,S,Outros serviços,3490,41107
+2024-07-01,T,Serviços domésticos,-1,89
+2024-07-01,U,Organismos internacionais,16,60
+2024-08-01,A,Agropecuária,1401,97221
+2024-08-01,B,Indústria extrativa,1546,6798
+2024-08-01,C,Indústria de transformação,50915,341894
+2024-08-01,D,Eletricidade e gás,-493,2200
+2024-08-01,E,"Água, esgoto e resíduos",-334,12074
+2024-08-01,F,Construção,13372,214820
+2024-08-01,G,Comércio e reparação,47761,519122
+2024-08-01,H,Transporte e armazenagem,17089,123248
+2024-08-01,I,Alojamento e alimentação,13784,139789
+2024-08-01,J,Informação e comunicação,5048,42303
+2024-08-01,K,Atividades financeiras,232,21385
+2024-08-01,L,Atividades imobiliárias,374,7533
+2024-08-01,M,Atividades profissionais e científicas,9558,80782
+2024-08-01,N,Atividades administrativas e serviços,25300,375227
+2024-08-01,O,Administração pública,-1029,5092
+2024-08-01,P,Educação,24657,78159
+2024-08-01,Q,Saúde humana e serviço social,15370,105286
+2024-08-01,R,"Artes, cultura e esporte",2795,16135
+2024-08-01,S,Outros serviços,5149,42178
+2024-08-01,T,Serviços domésticos,17,97
+2024-08-01,U,Organismos internacionais,20,63
+2024-09-01,A,Agropecuária,-2004,91557
+2024-09-01,B,Indústria extrativa,1181,6417
+2024-09-01,C,Indústria de transformação,55860,330258
+2024-09-01,D,Eletricidade e gás,501,2159
+2024-09-01,E,"Água, esgoto e resíduos",2285,12065
+2024-09-01,F,Construção,17024,206311
+2024-09-01,G,Comércio e reparação,44622,505578
+2024-09-01,H,Transporte e armazenagem,13759,116660
+2024-09-01,I,Alojamento e alimentação,12633,137010
+2024-09-01,J,Informação e comunicação,8170,45097
+2024-09-01,K,Atividades financeiras,3547,22754
+2024-09-01,L,Atividades imobiliárias,876,7556
+2024-09-01,M,Atividades profissionais e científicas,9767,79323
+2024-09-01,N,Atividades administrativas e serviços,40035,380557
+2024-09-01,O,Administração pública,869,5058
+2024-09-01,P,Educação,10557,55635
+2024-09-01,Q,Saúde humana e serviço social,19620,104347
+2024-09-01,R,"Artes, cultura e esporte",3024,15547
+2024-09-01,S,Outros serviços,5461,39869
+2024-09-01,T,Serviços domésticos,16,104
+2024-09-01,U,Organismos internacionais,20,64
+2024-10-01,A,Agropecuária,-5757,95070
+2024-10-01,B,Indústria extrativa,82,5969
+2024-10-01,C,Indústria de transformação,23800,325204
+2024-10-01,D,Eletricidade e gás,124,2216
+2024-10-01,E,"Água, esgoto e resíduos",-277,11390
+2024-10-01,F,Construção,-767,207139
+2024-10-01,G,Comércio e reparação,44297,543498
+2024-10-01,H,Transporte e armazenagem,7864,121448
+2024-10-01,I,Alojamento e alimentação,6944,143025
+2024-10-01,J,Informação e comunicação,-5155,39496
+2024-10-01,K,Atividades financeiras,2009,22425
+2024-10-01,L,Atividades imobiliárias,370,7909
+2024-10-01,M,Atividades profissionais e científicas,5621,79651
+2024-10-01,N,Atividades administrativas e serviços,38801,414059
+2024-10-01,O,Administração pública,-1890,3377
+2024-10-01,P,Educação,2773,47224
+2024-10-01,Q,Saúde humana e serviço social,9815,100143
+2024-10-01,R,"Artes, cultura e esporte",1981,15200
+2024-10-01,S,Outros serviços,2092,38381
+2024-10-01,T,Serviços domésticos,6,96
+2024-10-01,U,Organismos internacionais,-14,39
+2024-11-01,A,Agropecuária,-18887,81144
+2024-11-01,B,Indústria extrativa,232,5672
+2024-11-01,C,Indústria de transformação,-6753,259093
+2024-11-01,D,Eletricidade e gás,386,2128
+2024-11-01,E,"Água, esgoto e resíduos",-543,9809
+2024-11-01,F,Construção,-30091,169319
+2024-11-01,G,Comércio e reparação,94572,529947
+2024-11-01,H,Transporte e armazenagem,7264,107820
+2024-11-01,I,Alojamento e alimentação,17394,135381
+2024-11-01,J,Informação e comunicação,1912,36954
+2024-11-01,K,Atividades financeiras,1237,19357
+2024-11-01,L,Atividades imobiliárias,152,6794
+2024-11-01,M,Atividades profissionais e científicas,3518,68549
+2024-11-01,N,Atividades administrativas e serviços,33299,373330
+2024-11-01,O,Administração pública,-4066,3724
+2024-11-01,P,Educação,-4111,34111
+2024-11-01,Q,Saúde humana e serviço social,6274,86406
+2024-11-01,R,"Artes, cultura e esporte",2305,14071
+2024-11-01,S,Outros serviços,2511,34595
+2024-11-01,T,Serviços domésticos,39,125
+2024-11-01,U,Organismos internacionais,-11,42
+2024-12-01,A,Agropecuária,-46672,63185
+2024-12-01,B,Indústria extrativa,-833,4174
+2024-12-01,C,Indústria de transformação,-113020,161765
+2024-12-01,D,Eletricidade e gás,123,1832
+2024-12-01,E,"Água, esgoto e resíduos",-2692,8690
+2024-12-01,F,Construção,-89673,109105
+2024-12-01,G,Comércio e reparação,-25084,430142
+2024-12-01,H,Transporte e armazenagem,-26687,86643
+2024-12-01,I,Alojamento e alimentação,-13276,112415
+2024-12-01,J,Informação e comunicação,-519,29626
+2024-12-01,K,Atividades financeiras,-1583,14296
+2024-12-01,L,Atividades imobiliárias,-609,5146
+2024-12-01,M,Atividades profissionais e científicas,-11835,51040
+2024-12-01,N,Atividades administrativas e serviços,-52110,313367
+2024-12-01,O,Administração pública,-27740,1972
+2024-12-01,P,Educação,-80765,18209
+2024-12-01,Q,Saúde humana e serviço social,-24798,76090
+2024-12-01,R,"Artes, cultura e esporte",-90,12819
+2024-12-01,S,Outros serviços,-17613,23632
+2024-12-01,T,Serviços domésticos,-19,66
+2024-12-01,U,Organismos internacionais,-59,26
+2025-01-01,A,Agropecuária,35754,128372
+2025-01-01,B,Indústria extrativa,600,6059
+2025-01-01,C,Indústria de transformação,69360,355175
+2025-01-01,D,Eletricidade e gás,316,2006
+2025-01-01,E,"Água, esgoto e resíduos",152,13209
+2025-01-01,F,Construção,38373,223601
+2025-01-01,G,Comércio e reparação,-52417,494527
+2025-01-01,H,Transporte e armazenagem,80,112769
+2025-01-01,I,Alojamento e alimentação,-10273,131393
+2025-01-01,J,Informação e comunicação,-430,39073
+2025-01-01,K,Atividades financeiras,74,20547
+2025-01-01,L,Atividades imobiliárias,931,8038
+2025-01-01,M,Atividades profissionais e científicas,10927,85101
+2025-01-01,N,Atividades administrativas e serviços,14049,399701
+2025-01-01,O,Administração pública,1607,9673
+2025-01-01,P,Educação,8094,74970
+2025-01-01,Q,Saúde humana e serviço social,12396,105208
+2025-01-01,R,"Artes, cultura e esporte",4030,18578
+2025-01-01,S,Outros serviços,3694,43463
+2025-01-01,T,Serviços domésticos,11,105
+2025-01-01,U,Organismos internacionais,-25,43
+2025-02-01,A,Agropecuária,19842,120205
+2025-02-01,B,Indústria extrativa,1734,7245
+2025-02-01,C,Indústria de transformação,63349,379712
+2025-02-01,D,Eletricidade e gás,410,2166
+2025-02-01,E,"Água, esgoto e resíduos",4391,18060
+2025-02-01,F,Construção,40871,240305
+2025-02-01,G,Comércio e reparação,46587,567937
+2025-02-01,H,Transporte e armazenagem,26224,140184
+2025-02-01,I,Alojamento e alimentação,27333,160720
+2025-02-01,J,Informação e comunicação,4006,43399
+2025-02-01,K,Atividades financeiras,3333,23547
+2025-02-01,L,Atividades imobiliárias,1724,9305
+2025-02-01,M,Atividades profissionais e científicas,14234,89674
+2025-02-01,N,Atividades administrativas e serviços,64649,433627
+2025-02-01,O,Administração pública,16608,24742
+2025-02-01,P,Educação,65196,133997
+2025-02-01,Q,Saúde humana e serviço social,16607,113508
+2025-02-01,R,"Artes, cultura e esporte",4817,19338
+2025-02-01,S,Outros serviços,10080,51367
+2025-02-01,T,Serviços domésticos,2,116
+2025-02-01,U,Organismos internacionais,-1,38
+2025-03-01,A,Agropecuária,-5644,105093
+2025-03-01,B,Indústria extrativa,455,6026
+2025-03-01,C,Indústria de transformação,12025,332331
+2025-03-01,D,Eletricidade e gás,337,2006
+2025-03-01,E,"Água, esgoto e resíduos",314,13597
+2025-03-01,F,Construção,21946,214973
+2025-03-01,G,Comércio e reparação,-10310,513006
+2025-03-01,H,Transporte e armazenagem,13179,121909
+2025-03-01,I,Alojamento e alimentação,-8755,135904
+2025-03-01,J,Informação e comunicação,2480,40041
+2025-03-01,K,Atividades financeiras,996,20646
+2025-03-01,L,Atividades imobiliárias,525,8167
+2025-03-01,M,Atividades profissionais e científicas,7860,81948
+2025-03-01,N,Atividades administrativas e serviços,-367,390380
+2025-03-01,O,Administração pública,5012,11689
+2025-03-01,P,Educação,15808,72331
+2025-03-01,Q,Saúde humana e serviço social,11708,104885
+2025-03-01,R,"Artes, cultura e esporte",646,17080
+2025-03-01,S,Outros serviços,3361,42515
+2025-03-01,T,Serviços domésticos,19,98
+2025-03-01,U,Organismos internacionais,-13,37
+2025-04-01,A,Agropecuária,4025,106109
+2025-04-01,B,Indústria extrativa,1010,6292
+2025-04-01,C,Indústria de transformação,31199,337958
+2025-04-01,D,Eletricidade e gás,738,2203
+2025-04-01,E,"Água, esgoto e resíduos",2121,14138
+2025-04-01,F,Construção,34295,221692
+2025-04-01,G,Comércio e reparação,48040,531662
+2025-04-01,H,Transporte e armazenagem,18772,129467
+2025-04-01,I,Alojamento e alimentação,15452,140881
+2025-04-01,J,Informação e comunicação,4694,42844
+2025-04-01,K,Atividades financeiras,1756,22177
+2025-04-01,L,Atividades imobiliárias,1330,8517
+2025-04-01,M,Atividades profissionais e científicas,11229,84696
+2025-04-01,N,Atividades administrativas e serviços,33437,390560
+2025-04-01,O,Administração pública,3446,9138
+2025-04-01,P,Educação,13806,64566
+2025-04-01,Q,Saúde humana e serviço social,20309,107917
+2025-04-01,R,"Artes, cultura e esporte",4386,17949
+2025-04-01,S,Outros serviços,7440,43249
+2025-04-01,T,Serviços domésticos,45,126
+2025-04-01,U,Organismos internacionais,7,43
+2025-05-01,A,Agropecuária,17348,121825
+2025-05-01,B,Indústria extrativa,1314,6799
+2025-05-01,C,Indústria de transformação,16835,320452
+2025-05-01,D,Eletricidade e gás,302,1952
+2025-05-01,E,"Água, esgoto e resíduos",3118,15672
+2025-05-01,F,Construção,16678,223194
+2025-05-01,G,Comércio e reparação,23258,525096
+2025-05-01,H,Transporte e armazenagem,5794,124473
+2025-05-01,I,Alojamento e alimentação,5448,138567
+2025-05-01,J,Informação e comunicação,3357,41644
+2025-05-01,K,Atividades financeiras,823,21866
+2025-05-01,L,Atividades imobiliárias,292,8051
+2025-05-01,M,Atividades profissionais e científicas,6749,82564
+2025-05-01,N,Atividades administrativas e serviços,18660,393464
+2025-05-01,O,Administração pública,2311,8749
+2025-05-01,P,Educação,6658,56427
+2025-05-01,Q,Saúde humana e serviço social,14627,106747
+2025-05-01,R,"Artes, cultura e esporte",3109,17201
+2025-05-01,S,Outros serviços,2307,41313
+2025-05-01,T,Serviços domésticos,10,136
+2025-05-01,U,Organismos internacionais,-6,26
+2025-06-01,A,Agropecuária,25833,115261
+2025-06-01,B,Indústria extrativa,1057,6317
+2025-06-01,C,Indústria de transformação,17421,304725
+2025-06-01,D,Eletricidade e gás,409,2228
+2025-06-01,E,"Água, esgoto e resíduos",1218,13419
+2025-06-01,F,Construção,10665,203901
+2025-06-01,G,Comércio e reparação,32938,500753
+2025-06-01,H,Transporte e armazenagem,9023,117735
+2025-06-01,I,Alojamento e alimentação,7369,129243
+2025-06-01,J,Informação e comunicação,2998,40077
+2025-06-01,K,Atividades financeiras,1766,22191
+2025-06-01,L,Atividades imobiliárias,593,7803
+2025-06-01,M,Atividades profissionais e científicas,9722,79312
+2025-06-01,N,Atividades administrativas e serviços,26398,379504
+2025-06-01,O,Administração pública,817,6896
+2025-06-01,P,Educação,-5030,46870
+2025-06-01,Q,Saúde humana e serviço social,17034,106955
+2025-06-01,R,"Artes, cultura e esporte",2250,15531
+2025-06-01,S,Outros serviços,4074,40240
+2025-06-01,T,Serviços domésticos,42,139
+2025-06-01,U,Organismos internacionais,1,44
+2025-07-01,A,Agropecuária,8795,109024
+2025-07-01,B,Indústria extrativa,1786,7249
+2025-07-01,C,Indústria de transformação,22834,331270
+2025-07-01,D,Eletricidade e gás,510,2172
+2025-07-01,E,"Água, esgoto e resíduos",-704,12851
+2025-07-01,F,Construção,19066,221024
+2025-07-01,G,Comércio e reparação,27325,526973
+2025-07-01,H,Transporte e armazenagem,11668,125320
+2025-07-01,I,Alojamento e alimentação,4447,137986
+2025-07-01,J,Informação e comunicação,3596,41436
+2025-07-01,K,Atividades financeiras,1688,23729
+2025-07-01,L,Atividades imobiliárias,504,8091
+2025-07-01,M,Atividades profissionais e científicas,8386,86036
+2025-07-01,N,Atividades administrativas e serviços,12544,394747
+2025-07-01,O,Administração pública,-226,7292
+2025-07-01,P,Educação,-10266,48465
+2025-07-01,Q,Saúde humana e serviço social,14488,110996
+2025-07-01,R,"Artes, cultura e esporte",690,15947
+2025-07-01,S,Outros serviços,2630,40651
+2025-07-01,T,Serviços domésticos,27,134
+2025-07-01,U,Organismos internacionais,-17,34
+2025-08-01,A,Agropecuária,-2665,96454
+2025-08-01,B,Indústria extrativa,497,6377
+2025-08-01,C,Indústria de transformação,17341,321370
+2025-08-01,D,Eletricidade e gás,740,2460
+2025-08-01,E,"Água, esgoto e resíduos",520,12577
+2025-08-01,F,Construção,17328,220577
+2025-08-01,G,Comércio e reparação,32612,524039
+2025-08-01,H,Transporte e armazenagem,10148,120586
+2025-08-01,I,Alojamento e alimentação,11465,144477
+2025-08-01,J,Informação e comunicação,1142,41890
+2025-08-01,K,Atividades financeiras,897,21789
+2025-08-01,L,Atividades imobiliárias,429,8020
+2025-08-01,M,Atividades profissionais e científicas,8606,85450
+2025-08-01,N,Atividades administrativas e serviços,1072,375665
+2025-08-01,O,Administração pública,2032,8209
+2025-08-01,P,Educação,23785,77961
+2025-08-01,Q,Saúde humana e serviço social,13218,110187
+2025-08-01,R,"Artes, cultura e esporte",2091,17580
+2025-08-01,S,Outros serviços,6142,44083
+2025-08-01,T,Serviços domésticos,-3,116
+2025-08-01,U,Organismos internacionais,-22,27
+2025-09-01,A,Agropecuária,3167,96665
+2025-09-01,B,Indústria extrativa,841,6626
+2025-09-01,C,Indústria de transformação,39305,335865
+2025-09-01,D,Eletricidade e gás,829,2327
+2025-09-01,E,"Água, esgoto e resíduos",2120,14851
+2025-09-01,F,Construção,23855,223799
+2025-09-01,G,Comércio e reparação,36280,531103
+2025-09-01,H,Transporte e armazenagem,14105,125484
+2025-09-01,I,Alojamento e alimentação,15368,147115
+2025-09-01,J,Informação e comunicação,3048,42621
+2025-09-01,K,Atividades financeiras,334,21542
+2025-09-01,L,Atividades imobiliárias,574,7996
+2025-09-01,M,Atividades profissionais e científicas,12123,87332
+2025-09-01,N,Atividades administrativas e serviços,36794,409445
+2025-09-01,O,Administração pública,2532,7852
+2025-09-01,P,Educação,9504,59505
+2025-09-01,Q,Saúde humana e serviço social,4949,112552
+2025-09-01,R,"Artes, cultura e esporte",3274,17659
+2025-09-01,S,Outros serviços,3977,41987
+2025-09-01,T,Serviços domésticos,14,118
+2025-09-01,U,Organismos internacionais,10,47
+2025-10-01,A,Agropecuária,-9917,94411
+2025-10-01,B,Indústria extrativa,782,6627
+2025-10-01,C,Indústria de transformação,-11749,305195
+2025-10-01,D,Eletricidade e gás,684,2369
+2025-10-01,E,"Água, esgoto e resíduos",191,12789
+2025-10-01,F,Construção,-2875,215029
+2025-10-01,G,Comércio e reparação,25592,547183
+2025-10-01,H,Transporte e armazenagem,10157,128042
+2025-10-01,I,Alojamento e alimentação,10309,148816
+2025-10-01,J,Informação e comunicação,1412,41907
+2025-10-01,K,Atividades financeiras,872,21554
+2025-10-01,L,Atividades imobiliárias,386,8134
+2025-10-01,M,Atividades profissionais e científicas,8072,86901
+2025-10-01,N,Atividades administrativas e serviços,24769,420388
+2025-10-01,O,Administração pública,749,5587
+2025-10-01,P,Educação,1526,47023
+2025-10-01,Q,Saúde humana e serviço social,10467,108891
+2025-10-01,R,"Artes, cultura e esporte",1806,16905
+2025-10-01,S,Outros serviços,11896,53543
+2025-10-01,T,Serviços domésticos,16,122
+2025-10-01,U,Organismos internacionais,-1,34
+2025-11-01,A,Agropecuária,-16566,77356
+2025-11-01,B,Indústria extrativa,303,5668
+2025-11-01,C,Indústria de transformação,-30890,242208
+2025-11-01,D,Eletricidade e gás,1130,2565
+2025-11-01,E,"Água, esgoto e resíduos",2322,12681
+2025-11-01,F,Construção,-23804,175889
+2025-11-01,G,Comércio e reparação,78249,517891
+2025-11-01,H,Transporte e armazenagem,6409,110697
+2025-11-01,I,Alojamento e alimentação,14293,134454
+2025-11-01,J,Informação e comunicação,4068,37347
+2025-11-01,K,Atividades financeiras,1078,19138
+2025-11-01,L,Atividades imobiliárias,288,7012
+2025-11-01,M,Atividades profissionais e científicas,5573,74620
+2025-11-01,N,Atividades administrativas e serviços,34707,380001
+2025-11-01,O,Administração pública,427,4332
+2025-11-01,P,Educação,-6630,33536
+2025-11-01,Q,Saúde humana e serviço social,11028,94209
+2025-11-01,R,"Artes, cultura e esporte",2744,15553
+2025-11-01,S,Outros serviços,1154,34621
+2025-11-01,T,Serviços domésticos,0,96
+2025-11-01,U,Organismos internacionais,-8,27
+2025-12-01,A,Agropecuária,-43836,63201
+2025-12-01,B,Indústria extrativa,-869,4497
+2025-12-01,C,Indústria de transformação,-132789,151425
+2025-12-01,D,Eletricidade e gás,-22,1501
+2025-12-01,E,"Água, esgoto e resíduos",-1407,9883
+2025-12-01,F,Construção,-104077,108235
+2025-12-01,G,Comércio e reparação,-54355,424222
+2025-12-01,H,Transporte e armazenagem,-30638,86090
+2025-12-01,I,Alojamento e alimentação,-20691,114003
+2025-12-01,J,Informação e comunicação,-4190,28491
+2025-12-01,K,Atividades financeiras,-2458,14165
+2025-12-01,L,Atividades imobiliárias,-1042,5228
+2025-12-01,M,Atividades profissionais e científicas,-17947,53965
+2025-12-01,N,Atividades administrativas e serviços,-64697,316409
+2025-12-01,O,Administração pública,-24486,2787
+2025-12-01,P,Educação,-87134,16598
+2025-12-01,Q,Saúde humana e serviço social,-11272,80962
+2025-12-01,R,"Artes, cultura e esporte",-893,14135
+2025-12-01,S,Outros serviços,-15300,27364
+2025-12-01,T,Serviços domésticos,-34,110
+2025-12-01,U,Organismos internacionais,-28,34
+2026-01-01,A,Agropecuária,23073,113385
+2026-01-01,B,Indústria extrativa,441,5786
+2026-01-01,C,Indústria de transformação,53237,332251
+2026-01-01,D,Eletricidade e gás,829,2424
+2026-01-01,E,"Água, esgoto e resíduos",484,13332
+2026-01-01,F,Construção,50545,225073
+2026-01-01,G,Comércio e reparação,-56800,483703
+2026-01-01,H,Transporte e armazenagem,-4380,110398
+2026-01-01,I,Alojamento e alimentação,-7674,134389
+2026-01-01,J,Informação e comunicação,-245,36987
+2026-01-01,K,Atividades financeiras,-803,20191
+2026-01-01,L,Atividades imobiliárias,598,7923
+2026-01-01,M,Atividades profissionais e científicas,13042,85684
+2026-01-01,N,Atividades administrativas e serviços,25803,401512
+2026-01-01,O,Administração pública,509,8451
+2026-01-01,P,Educação,2815,70206
+2026-01-01,Q,Saúde humana e serviço social,4807,97069
+2026-01-01,R,"Artes, cultura e esporte",3257,18845
+2026-01-01,S,Outros serviços,2774,40306
+2026-01-01,T,Serviços domésticos,8,68
+2026-01-01,U,Organismos internacionais,14,47
+2026-02-01,A,Agropecuária,8123,111197
+2026-02-01,B,Indústria extrativa,1199,6297
+2026-02-01,C,Indústria de transformação,29029,335998
+2026-02-01,D,Eletricidade e gás,173,2144
+2026-02-01,E,"Água, esgoto e resíduos",1626,14156
+2026-02-01,F,Construção,31099,217475
+2026-02-01,G,Comércio e reparação,6127,522059
+2026-02-01,H,Transporte e armazenagem,17886,131370
+2026-02-01,I,Alojamento e alimentação,16920,155612
+2026-02-01,J,Informação e comunicação,1381,38149
+2026-02-01,K,Atividades financeiras,-208,18992
+2026-02-01,L,Atividades imobiliárias,465,8004
+2026-02-01,M,Atividades profissionais e científicas,8522,84180
+2026-02-01,N,Atividades administrativas e serviços,37972,411134
+2026-02-01,O,Administração pública,15661,22447
+2026-02-01,P,Educação,49013,119133
+2026-02-01,Q,Saúde humana e serviço social,15114,112725
+2026-02-01,R,"Artes, cultura e esporte",2003,18746
+2026-02-01,S,Outros serviços,13216,51816
+2026-02-01,T,Serviços domésticos,30,102
+2026-02-01,U,Organismos internacionais,-22,28
+2026-03-01,A,Agropecuária,-18096,109101
+2026-03-01,B,Indústria extrativa,1686,7284
+2026-03-01,C,Indústria de transformação,23692,361795
+2026-03-01,D,Eletricidade e gás,399,2377
+2026-03-01,E,"Água, esgoto e resíduos",2559,15208
+2026-03-01,F,Construção,38316,237137
+2026-03-01,G,Comércio e reparação,27267,579427
+2026-03-01,H,Transporte e armazenagem,25394,144997
+2026-03-01,I,Alojamento e alimentação,9941,159297
+2026-03-01,J,Informação e comunicação,3846,43380
+2026-03-01,K,Atividades financeiras,1007,23127
+2026-03-01,L,Atividades imobiliárias,1168,9125
+2026-03-01,M,Atividades profissionais e científicas,12147,94443
+2026-03-01,N,Atividades administrativas e serviços,38782,446027
+2026-03-01,O,Administração pública,5973,12730
+2026-03-01,P,Educação,21837,86427
+2026-03-01,Q,Saúde humana e serviço social,22372,125306
+2026-03-01,R,"Artes, cultura e esporte",2140,20025
+2026-03-01,S,Outros serviços,7785,49309
+2026-03-01,T,Serviços domésticos,14,103
+2026-03-01,U,Organismos internacionais,-15,33

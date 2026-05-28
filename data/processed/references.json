@@ -1,0 +1,10 @@
+[
+ {"n":1,"authors":"Pencavel, J.","year":2014,"title":"The Productivity of Working Hours","venue":"The Economic Journal","doi":"10.1111/ecoj.12166","claim":"produtividade por hora cai com jornadas longas"},
+ {"n":2,"authors":"Collewet, M.; Sauermann, J.","year":2017,"title":"Working hours and productivity","venue":"Labour Economics","doi":"10.1016/j.labeco.2017.03.006","claim":"output por hora diminui com mais horas trabalhadas"},
+ {"n":3,"authors":"Chemin, M.; Wasmer, E.","year":2009,"title":"Using Alsace-Moselle Local Laws to Build a Difference-in-Differences Estimation Strategy of the Employment Effects of the 35-Hour Workweek Regulation in France","venue":"Journal of Labor Economics","doi":"10.1086/605426","claim":"redução da jornada na Franca (35h) sem efeito positivo robusto sobre emprego"},
+ {"n":4,"authors":"Baltes, B. B. et al.","year":1999,"title":"Flexible and compressed workweek schedules: A meta-analysis of their effects on work-related criteria","venue":"Journal of Applied Psychology","doi":"10.1037/0021-9010.84.4.496","claim":"escalas comprimidas elevam satisfacao; efeito positivo porem heterogeneo na produtividade"},
+ {"n":5,"authors":"Trejo, S. J.","year":1991,"title":"The Effects of Overtime Pay Regulation on Worker Compensation","venue":"American Economic Review","doi":"","claim":"firmas ajustam salario-base e jornada em resposta a regras de sobrejornada"},
+ {"n":6,"authors":"Deakin, S.; Wilkinson, F.","year":1988,"title":"Working Time and Employment","venue":"The Economic Journal","doi":"10.2307/2233396","claim":"relacao entre regulacao do tempo de trabalho e emprego"},
+ {"n":7,"authors":"Afonso, P.; Fonseca, M.; Pires, J. F.","year":2017,"title":"Impact of working hours on sleep and mental health","venue":"Occupational Medicine","doi":"10.1093/occmed/kqx054","claim":"jornadas longas associadas a pior sono e saude mental"},
+ {"n":8,"authors":"Harrington, J. M.","year":2001,"title":"Health effects of shift work and extended hours of work","venue":"Occupational and Environmental Medicine","doi":"10.1136/oem.58.1.68","claim":"turnos e jornadas estendidas associados a riscos a saude"}
+]

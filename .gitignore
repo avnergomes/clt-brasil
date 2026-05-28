@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Logs / scratch
+*.log
+data/processed/ingest_sector.log
+data/raw/ingest_progress.log
+data/processed/TEST_*.csv
+
+# OS
+Thumbs.db
+.DS_Store
