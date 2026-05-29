@@ -22,6 +22,18 @@ from clt import UF_NOME, REGIOES, ROOT, RAW, PROC
 OUT = os.path.join(ROOT, "output")
 os.makedirs(OUT, exist_ok=True)
 
+# ---- author logo, embedded as data URI so the report stays self-contained ----
+def _load_logo_uri() -> str:
+    import base64
+    path = os.path.join(ROOT, "logo2.png")
+    try:
+        with open(path, "rb") as fh:
+            return "data:image/png;base64," + base64.b64encode(fh.read()).decode()
+    except OSError:
+        return ""
+
+LOGO_URI = _load_logo_uri()
+
 # ---- palette (portfolio "Midnight"; hex tuned for Plotly on dark) ----
 INK = "#e7ecf3"        # primary light ink (history line, annotations baseline)
 INK2 = "#c2ccd9"       # secondary ink (axis/font)
@@ -507,6 +519,11 @@ footer{background:oklch(11% 0.02 250);color:var(--mut);padding:54px 0;font-size:
 border-top:1px solid var(--line);font-family:var(--font-mono);line-height:1.7}
 footer b{font-family:var(--font-display);font-style:italic;font-weight:400;color:var(--ink);font-size:16px}
 footer a{color:var(--blue)}
+.dev-link{display:inline-flex;align-items:center;gap:8px;margin-top:20px;text-decoration:none;
+color:var(--mut);font-family:var(--font-mono);font-size:12px;opacity:.75;transition:opacity .18s ease}
+.dev-link:hover{opacity:1}
+.dev-link img{width:18px;height:18px;object-fit:contain;filter:brightness(0) invert(1);opacity:.85}
+.dev-link strong{color:var(--ink-2);font-weight:600}
 .disc{font-size:12px;color:var(--mut);font-style:italic;margin-top:16px;font-family:var(--font-body)}
 /* glossary tooltips for untranslatable Brazilian terms */
 .term{border-bottom:1px dotted var(--accent);cursor:help;position:relative;color:var(--ink);
@@ -1199,6 +1216,12 @@ def build(lang):
     def T(key):
         return S[key].format(**ctx)
 
+    _by = {"pt": "Desenvolvido por", "en": "Developed by", "es": "Desarrollado por"}.get(lang, "Developed by")
+    dev_credit = (
+        f'<a class="dev-link" href="https://avnergomes.github.io/portfolio/" target="_blank" rel="noopener">'
+        f'<img src="{LOGO_URI}" alt="" width="18" height="18">{_by} <strong>Avner Gomes</strong></a>'
+    ) if LOGO_URI else ""
+
     html = f"""<!doctype html><html lang="{S['html_lang']}"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{S['title']}</title>
@@ -1325,7 +1348,7 @@ def build(lang):
   {uf_table}
 </div></section>
 
-<footer><div class="wrap">{T('ft_body')}</div></footer>
+<footer><div class="wrap">{T('ft_body')}<br>{dev_credit}</div></footer>
 <script>{PROG_JS}</script>
 </body></html>"""
 
