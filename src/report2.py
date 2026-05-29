@@ -34,7 +34,8 @@ AMBER = "#e3a857"      # warm amber accent
 VIOLET = "#b89cff"
 GRID = "rgba(255,255,255,0.09)"
 ZERO = "rgba(255,255,255,0.22)"
-MODEL_COLORS = {"SARIMA": BLUE, "ETS (Holt-Winters)": GREEN, "Seasonal Naive": VIOLET}
+MODEL_COLORS = {"SARIMA": BLUE, "ETS (Holt-Winters)": GREEN, "Seasonal Naive": VIOLET,
+                "Random Forest": AMBER, "LightGBM": SKY}
 
 MESES = {
     "pt": ["Jan", "Fev", "Mar", "Abr", "Mai", "Jun", "Jul", "Ago", "Set", "Out", "Nov", "Dez"],
@@ -98,6 +99,29 @@ def render_refs(refs, no_doi):
     return f'<ol class="refs">{items}</ol>'
 
 
+BREAK_DATE = pd.Timestamp("2020-01-01")   # Novo CAGED (eSocial) starts; methodological break
+
+
+def load_legacy_brasil():
+    """Pre-2020 national monthly saldo (CAGED Antigo, 2007-2019), or None if the
+    backfill has not produced data/raw/caged_brasil_legacy.csv yet. Months whose
+    source archive on the MTE FTP is corrupt are missing; they are filled by time
+    interpolation (only to feed the 12-month trend line) and counted in
+    .attrs['gaps'] so the caption can disclose them."""
+    p = os.path.join(RAW, "caged_brasil_legacy.csv")
+    if not os.path.exists(p):
+        return None
+    s = pd.read_csv(p, parse_dates=["date"]).set_index("date")["saldo"]
+    s = s[s.index < BREAK_DATE]            # guard against overlap
+    if not len(s):
+        return None
+    full = s.asfreq("MS")                  # introduces NaN for missing months
+    gaps = int(full.isna().sum())
+    full = full.interpolate(method="time").ffill().bfill()
+    full.attrs["gaps"] = gaps
+    return full
+
+
 def load_all():
     brasil = pd.read_csv(os.path.join(RAW, "caged_brasil.csv"), parse_dates=["date"]).set_index("date")["saldo"].asfreq("MS")
     panel = pd.read_csv(os.path.join(RAW, "caged_uf_panel.csv"), parse_dates=["date"])
@@ -155,17 +179,38 @@ def div(fig):
                        config={"displayModeBar": False, "responsive": True})
 
 
-def fig_trajetoria(brasil, lang, S):
+def fig_trajetoria(brasil, lang, S, legacy=None):
     fig = go.Figure()
+    has_legacy = legacy is not None and len(legacy)
+    if has_legacy:
+        full = pd.concat([legacy, brasil])
+    else:
+        full = brasil
+    # detailed monthly bars: post-2020 (Novo CAGED) only
     colors = [GREEN if v >= 0 else RED for v in brasil.values]
     fig.add_trace(go.Bar(x=brasil.index, y=brasil.values, marker_color=colors,
                          marker_line_width=0, opacity=.5, name=S["lg_monthly"],
                          hovertemplate="%{x|%b/%Y}: %{y:,.0f}<extra></extra>"))
-    mm = brasil.rolling(12).mean()
+    mm = full.rolling(12).mean()
+    if has_legacy:
+        # pre-2020: contextual 12-month trend only (muted), no individual bars
+        mm_pre = mm[mm.index <= BREAK_DATE]
+        mm_post = mm[mm.index >= BREAK_DATE]
+        fig.add_trace(go.Scatter(x=mm_pre.index, y=mm_pre.values,
+                                 line=dict(color=INK2, width=1.8, dash="dot"),
+                                 name=S["an_legacy"],
+                                 hovertemplate="MM12 %{x|%b/%Y}: %{y:,.0f}<extra>"+S["an_legacy"]+"</extra>"))
+        mm = mm_post
     fig.add_trace(go.Scatter(x=mm.index, y=mm.values, line=dict(color=INK, width=2.6),
                              name=S["lg_ma12"],
                              hovertemplate="MM12 %{x|%b/%Y}: %{y:,.0f}<extra></extra>"))
     lay = base_layout(lang, 440, S["yt_saldo"])
+    if has_legacy:
+        fig.add_vline(x=BREAK_DATE, line=dict(color="#94a3b8", dash="dash", width=1))
+        fig.add_annotation(x=BREAK_DATE, yref="paper", y=1.02, text=S["an_break"],
+                           showarrow=False, font=dict(color=INK2, size=10.5),
+                           xanchor="left", xshift=4)
+    # annotations anchored on the detailed post-2020 series (the narrative focus)
     trough_date = brasil.idxmin(); trough = brasil.min()
     fig.add_annotation(x=trough_date, y=trough, text=f"<b>{fmt_my(trough_date, lang)}</b><br>{br(trough, 0, lang)}",
                        showarrow=True, arrowhead=2, ax=70, ay=-10, font=dict(color=RED, size=11),
@@ -535,7 +580,11 @@ STR_ALL = {
         "tr_lede": ("Da queda livre de 2020 à normalização recente: a série mensal conta a história "
                     "econômica do país melhor que qualquer manchete."),
         "tr_cap": ("<b>Saldo mensal de empregos formais ({t_clt}) no Brasil.</b> Barras: saldo do mês "
-                   "(verde positivo, vermelho negativo). Linha: média móvel de 12 meses. Fonte: Novo CAGED/MTE."),
+                   "(verde positivo, vermelho negativo). Linha sólida: média móvel de 12 meses. A linha "
+                   "pontilhada antes de 2020 é a tendência (MM12) do CAGED Antigo (2007–2019), com "
+                   "{leg_gaps} meses de arquivos corrompidos do MTE preenchidos por interpolação. A linha "
+                   "tracejada marca a quebra metodológica de jan/2020 (declarações da Lei 4.923/65 → "
+                   "eSocial): as duas eras não são estritamente comparáveis. Fonte: CAGED Antigo e Novo CAGED/MTE."),
         "tr_p1": ("<span class=\"lead-in\">{trough_m} é o fundo do poço.</span> No primeiro choque da pandemia, "
                   "o país fechou <b>{trough}</b> vagas formais em um único mês, o pior resultado da série. "
                   "Seguiu-se uma recuperação em formato de “V”, com saldos recordes em 2021 e 2022 à medida que a "
@@ -564,8 +613,9 @@ STR_ALL = {
                   "exatamente os que estão no centro do debate sobre a escala <b>6×1</b>. É para ele que olhamos a seguir."),
         # projeção
         "pr_kicker": "Projeção", "pr_h2": "Para onde vamos",
-        "pr_lede": ("Três modelos, SARIMA, ETS (Holt-Winters) e <i>Seasonal Naive</i>, projetam a série "
-                    "até <b>junho de 2027</b>. O selecionado por validação foi o <b>{nat_best}</b>."),
+        "pr_lede": ("Cinco modelos, SARIMA, ETS (Holt-Winters), <i>Seasonal Naive</i>, Random Forest e "
+                    "LightGBM, projetam a série até <b>junho de 2027</b>. O selecionado por validação foi "
+                    "o <b>{nat_best}</b>."),
         "pr_cap": ("<b>Brasil, histórico recente e previsões até jun/2027.</b> Linha cheia: modelo "
                    "selecionado; tracejadas: alternativos; faixa: intervalo de confiança de 95%."),
         "pr_p1": ("<span class=\"lead-in\">A leitura central é de estabilidade sazonal, não de aceleração.</span> "
@@ -647,13 +697,14 @@ STR_ALL = {
         # footer
         "ft_body": ("<b>CLT em Movimento</b> — elaborado a partir dos microdados do Novo CAGED (PDET/Ministério "
                     "do Trabalho e Emprego).<br>Metodologia: saldo = Σ(saldomovimentação) por competência (reproduz "
-                    "a série oficial “sem ajuste”); modelos SARIMA, ETS (Holt-Winters) e Seasonal Naive, seleção por "
-                    "RMSE em validação de 12 meses; jornada via campo <i>horascontratuais</i>. Revisão de literatura "
+                    "a série oficial “sem ajuste”); modelos SARIMA, ETS (Holt-Winters), Seasonal Naive, Random Forest "
+                    "e LightGBM, seleção por RMSE em validação de 12 meses; jornada via campo <i>horascontratuais</i>. Revisão de literatura "
                     "conduzida pelo protocolo <i>paper-lookup</i> (k-dense scientific-agent-skills) sobre a base "
                     "OpenAlex.<br>Relatório autocontido (offline) · Período {span} · Gerado em {gen}."),
         # plotly labels
         "lg_monthly": "Saldo mensal", "lg_ma12": "Média móvel 12m", "lg_hist": "Histórico",
         "lg_ci": "IC 95%", "lg_forecast": "Previsão", "an_peak": "Pico",
+        "an_break": "Novo CAGED (eSocial) →", "an_legacy": "CAGED Antigo (2007–2019)",
         "yt_saldo": "Saldo de empregos (CLT)", "yt_acc12": "Saldo acumulado 12 meses",
         "yt_saldo12": "Saldo de empregos · últimos 12 meses",
         "cb_saldo": "Saldo médio",
@@ -698,7 +749,11 @@ STR_ALL = {
         "tr_lede": ("From the free fall of 2020 to the recent normalization: the monthly series tells the country's "
                     "economic story better than any headline."),
         "tr_cap": ("<b>Monthly balance of formal ({t_clt}) jobs in Brazil.</b> Bars: monthly balance "
-                   "(green positive, red negative). Line: 12-month moving average. Source: Novo CAGED/MTE."),
+                   "(green positive, red negative). Solid line: 12-month moving average. The dotted line "
+                   "before 2020 is the trend (12m MA) of the old CAGED (2007–2019), with {leg_gaps} months "
+                   "from corrupt MTE archives filled by interpolation. The dashed line marks the Jan/2020 "
+                   "methodological break (Law 4.923/65 declarations → eSocial): the two eras are not "
+                   "strictly comparable. Source: old CAGED and Novo CAGED/MTE."),
         "tr_p1": ("<span class=\"lead-in\">{trough_m} is the bottom.</span> In the first shock of the pandemic, the "
                   "country shed <b>{trough}</b> formal jobs in a single month, the worst result in the series. "
                   "A V-shaped recovery followed, with record balances in 2021 and 2022 as the economy reopened."),
@@ -723,8 +778,9 @@ STR_ALL = {
         "se_p1": ("This pattern is dominated by labor-intensive sectors and full-time contracts, precisely those at "
                   "the center of the debate over the <b>6×1</b> schedule. That is what we turn to next."),
         "pr_kicker": "Forecast", "pr_h2": "Where we are heading",
-        "pr_lede": ("Three models, SARIMA, ETS (Holt-Winters) and <i>Seasonal Naive</i>, project the series "
-                    "through <b>June 2027</b>. The one selected by validation was <b>{nat_best}</b>."),
+        "pr_lede": ("Five models, SARIMA, ETS (Holt-Winters), <i>Seasonal Naive</i>, Random Forest and "
+                    "LightGBM, project the series through <b>June 2027</b>. The one selected by validation "
+                    "was <b>{nat_best}</b>."),
         "pr_cap": ("<b>Brazil, recent history and forecasts to Jun/2027.</b> Solid line: selected model; "
                    "dashed: alternatives; band: 95% confidence interval."),
         "pr_p1": ("<span class=\"lead-in\">The central reading is seasonal stability, not acceleration.</span> "
@@ -801,12 +857,13 @@ STR_ALL = {
         "th_adm12": "Hires 12m",
         "ft_body": ("<b>CLT in Motion</b> — built from Novo CAGED microdata (PDET / Ministry of Labor and "
                     "Employment).<br>Methodology: balance = Σ(saldomovimentação) per period (reproduces the official "
-                    "“unadjusted” series); SARIMA, ETS (Holt-Winters) and Seasonal Naive models, selected by RMSE in a "
+                    "“unadjusted” series); SARIMA, ETS (Holt-Winters), Seasonal Naive, Random Forest and LightGBM models, selected by RMSE in a "
                     "12-month validation; working time via the <i>horascontratuais</i> field. Literature review "
                     "conducted with the <i>paper-lookup</i> protocol (k-dense scientific-agent-skills) over the "
                     "OpenAlex base.<br>Self-contained report (offline) · Period {span} · Generated on {gen}."),
         "lg_monthly": "Monthly balance", "lg_ma12": "12m moving avg", "lg_hist": "History",
         "lg_ci": "95% CI", "lg_forecast": "Forecast", "an_peak": "Peak",
+        "an_break": "Novo CAGED (eSocial) →", "an_legacy": "Old CAGED (2007–2019)",
         "yt_saldo": "Job balance (CLT)", "yt_acc12": "Cumulative 12-month balance",
         "yt_saldo12": "Job balance · last 12 months",
         "cb_saldo": "Avg. balance",
@@ -851,7 +908,11 @@ STR_ALL = {
         "tr_lede": ("De la caída libre de 2020 a la normalización reciente: la serie mensual cuenta la historia "
                     "económica del país mejor que cualquier titular."),
         "tr_cap": ("<b>Saldo mensual de empleos formales ({t_clt}) en Brasil.</b> Barras: saldo del mes "
-                   "(verde positivo, rojo negativo). Línea: media móvil de 12 meses. Fuente: Novo CAGED/MTE."),
+                   "(verde positivo, rojo negativo). Línea sólida: media móvil de 12 meses. La línea "
+                   "punteada antes de 2020 es la tendencia (MM12) del CAGED Antiguo (2007–2019), con "
+                   "{leg_gaps} meses de archivos corruptos del MTE rellenados por interpolación. La línea "
+                   "discontinua marca la ruptura metodológica de ene/2020 (declaraciones de la Ley 4.923/65 "
+                   "→ eSocial): las dos eras no son estrictamente comparables. Fuente: CAGED Antiguo y Novo CAGED/MTE."),
         "tr_p1": ("<span class=\"lead-in\">{trough_m} es el fondo.</span> En el primer choque de la pandemia, el "
                   "país destruyó <b>{trough}</b> empleos formales en un solo mes, el peor resultado de la serie. "
                   "Siguió una recuperación en forma de “V”, con saldos récord en 2021 y 2022 a medida que la economía "
@@ -878,8 +939,9 @@ STR_ALL = {
                   "justamente los que están en el centro del debate sobre la jornada <b>6×1</b>. Es lo que miramos a "
                   "continuación."),
         "pr_kicker": "Proyección", "pr_h2": "Hacia dónde vamos",
-        "pr_lede": ("Tres modelos, SARIMA, ETS (Holt-Winters) y <i>Seasonal Naive</i>, proyectan la serie hasta "
-                    "<b>junio de 2027</b>. El seleccionado por validación fue <b>{nat_best}</b>."),
+        "pr_lede": ("Cinco modelos, SARIMA, ETS (Holt-Winters), <i>Seasonal Naive</i>, Random Forest y "
+                    "LightGBM, proyectan la serie hasta <b>junio de 2027</b>. El seleccionado por validación "
+                    "fue <b>{nat_best}</b>."),
         "pr_cap": ("<b>Brasil, historia reciente y previsiones hasta jun/2027.</b> Línea continua: modelo "
                    "seleccionado; discontinuas: alternativos; banda: intervalo de confianza del 95%."),
         "pr_p1": ("<span class=\"lead-in\">La lectura central es de estabilidad estacional, no de aceleración.</span> "
@@ -959,13 +1021,14 @@ STR_ALL = {
         "th_adm12": "Contrat. 12m",
         "ft_body": ("<b>CLT en Movimiento</b> — elaborado a partir de los microdatos del Novo CAGED (PDET / "
                     "Ministerio de Trabajo y Empleo).<br>Metodología: saldo = Σ(saldomovimentação) por período "
-                    "(reproduce la serie oficial “sin ajuste”); modelos SARIMA, ETS (Holt-Winters) y Seasonal Naive, "
+                    "(reproduce la serie oficial “sin ajuste”); modelos SARIMA, ETS (Holt-Winters), Seasonal Naive, Random Forest y LightGBM, "
                     "selección por RMSE en validación de 12 meses; jornada vía el campo <i>horascontratuais</i>. "
                     "Revisión de literatura realizada con el protocolo <i>paper-lookup</i> (k-dense "
                     "scientific-agent-skills) sobre la base OpenAlex.<br>Informe autocontenido (offline) · "
                     "Período {span} · Generado el {gen}."),
         "lg_monthly": "Saldo mensual", "lg_ma12": "Media móvil 12m", "lg_hist": "Histórico",
         "lg_ci": "IC 95%", "lg_forecast": "Previsión", "an_peak": "Pico",
+        "an_break": "Novo CAGED (eSocial) →", "an_legacy": "CAGED Antiguo (2007–2019)",
         "yt_saldo": "Saldo de empleos (CLT)", "yt_acc12": "Saldo acumulado 12 meses",
         "yt_saldo12": "Saldo de empleos · últimos 12 meses",
         "cb_saldo": "Saldo medio",
@@ -1043,6 +1106,7 @@ def lang_switch(cur):
 def build(lang):
     S = STR_ALL[lang]
     brasil, panel, fc, met, sector, hours, sec_hours = load_all()
+    legacy_brasil = load_legacy_brasil()
 
     # ---- narrative statistics ----
     span = f"{fmt_my(brasil.index[0], lang)}–{fmt_my(brasil.index[-1], lang)}"
@@ -1073,7 +1137,7 @@ def build(lang):
     high_adm_share = high["adm12"].sum() / agg["adm12"].sum() * 100 if agg["adm12"].sum() else float("nan")
 
     # ---- figures ----
-    d_traj = div(fig_trajetoria(brasil, lang, S))
+    d_traj = div(fig_trajetoria(brasil, lang, S, legacy=legacy_brasil))
     d_fan = div(fig_forecast_fan("Brasil", brasil, nat_models, nat_best, lang, S))
     d_reg = div(fig_regioes(panel, lang, S))
     d_heat = div(fig_heatmap(panel, lang, S))
@@ -1129,6 +1193,7 @@ def build(lang):
         t_pdet=term("pdet", "PDET", lang), t_mte=term("mte", "MTE", lang),
         t_6x1=term("s6x1", "6×1", lang), t_5x2=term("s5x2", "5×2", lang),
         t_cnae=term("cnae", "CNAE", lang),
+        leg_gaps=(legacy_brasil.attrs.get("gaps", 0) if legacy_brasil is not None else 0),
     )
 
     def T(key):

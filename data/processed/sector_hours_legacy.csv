@@ -1,0 +1,106 @@
+secao,secao_nome,faixa,admissoes,fonte
+A,Agropecuária,30–39h,27166,CAGED Antigo
+A,Agropecuária,40h,36496,CAGED Antigo
+A,Agropecuária,41–43h,16686,CAGED Antigo
+A,Agropecuária,44h (jornada máxima),11058520,CAGED Antigo
+A,Agropecuária,Parcial (≤30h),97266,CAGED Antigo
+B,Indústria extrativa,30–39h,54103,CAGED Antigo
+B,Indústria extrativa,40h,37656,CAGED Antigo
+B,Indústria extrativa,41–43h,9712,CAGED Antigo
+B,Indústria extrativa,44h (jornada máxima),406530,CAGED Antigo
+B,Indústria extrativa,Parcial (≤30h),25594,CAGED Antigo
+C,Indústria de transformação,30–39h,364004,CAGED Antigo
+C,Indústria de transformação,40h,522213,CAGED Antigo
+C,Indústria de transformação,41–43h,335828,CAGED Antigo
+C,Indústria de transformação,44h (jornada máxima),27548771,CAGED Antigo
+C,Indústria de transformação,Parcial (≤30h),856003,CAGED Antigo
+D,Eletricidade e gás,30–39h,7937,CAGED Antigo
+D,Eletricidade e gás,40h,38011,CAGED Antigo
+D,Eletricidade e gás,41–43h,2478,CAGED Antigo
+D,Eletricidade e gás,44h (jornada máxima),81229,CAGED Antigo
+D,Eletricidade e gás,Parcial (≤30h),13210,CAGED Antigo
+E,"Água, esgoto e resíduos",30–39h,14617,CAGED Antigo
+E,"Água, esgoto e resíduos",40h,43523,CAGED Antigo
+E,"Água, esgoto e resíduos",41–43h,2449,CAGED Antigo
+E,"Água, esgoto e resíduos",44h (jornada máxima),751674,CAGED Antigo
+E,"Água, esgoto e resíduos",Parcial (≤30h),26648,CAGED Antigo
+F,Construção,30–39h,97246,CAGED Antigo
+F,Construção,40h,87613,CAGED Antigo
+F,Construção,41–43h,25921,CAGED Antigo
+F,Construção,44h (jornada máxima),19754170,CAGED Antigo
+F,Construção,Parcial (≤30h),267449,CAGED Antigo
+G,Comércio e reparação,30–39h,1213856,CAGED Antigo
+G,Comércio e reparação,40h,267967,CAGED Antigo
+G,Comércio e reparação,41–43h,231063,CAGED Antigo
+G,Comércio e reparação,44h (jornada máxima),39634044,CAGED Antigo
+G,Comércio e reparação,Parcial (≤30h),1534837,CAGED Antigo
+H,Transporte e armazenagem,30–39h,310539,CAGED Antigo
+H,Transporte e armazenagem,40h,158396,CAGED Antigo
+H,Transporte e armazenagem,41–43h,326311,CAGED Antigo
+H,Transporte e armazenagem,44h (jornada máxima),7531335,CAGED Antigo
+H,Transporte e armazenagem,Parcial (≤30h),336312,CAGED Antigo
+I,Alojamento e alimentação,30–39h,433963,CAGED Antigo
+I,Alojamento e alimentação,40h,44771,CAGED Antigo
+I,Alojamento e alimentação,41–43h,89980,CAGED Antigo
+I,Alojamento e alimentação,44h (jornada máxima),8941698,CAGED Antigo
+I,Alojamento e alimentação,Parcial (≤30h),645561,CAGED Antigo
+J,Informação e comunicação,30–39h,468286,CAGED Antigo
+J,Informação e comunicação,40h,632839,CAGED Antigo
+J,Informação e comunicação,41–43h,34091,CAGED Antigo
+J,Informação e comunicação,44h (jornada máxima),1930630,CAGED Antigo
+J,Informação e comunicação,Parcial (≤30h),209644,CAGED Antigo
+K,Atividades financeiras,30–39h,178654,CAGED Antigo
+K,Atividades financeiras,40h,329201,CAGED Antigo
+K,Atividades financeiras,41–43h,11929,CAGED Antigo
+K,Atividades financeiras,44h (jornada máxima),769480,CAGED Antigo
+K,Atividades financeiras,Parcial (≤30h),314059,CAGED Antigo
+L,Atividades imobiliárias,30–39h,18811,CAGED Antigo
+L,Atividades imobiliárias,40h,11740,CAGED Antigo
+L,Atividades imobiliárias,41–43h,4056,CAGED Antigo
+L,Atividades imobiliárias,44h (jornada máxima),533796,CAGED Antigo
+L,Atividades imobiliárias,Parcial (≤30h),16264,CAGED Antigo
+M,Atividades profissionais e científicas,30–39h,233415,CAGED Antigo
+M,Atividades profissionais e científicas,40h,392501,CAGED Antigo
+M,Atividades profissionais e científicas,41–43h,62578,CAGED Antigo
+M,Atividades profissionais e científicas,44h (jornada máxima),3733982,CAGED Antigo
+M,Atividades profissionais e científicas,Parcial (≤30h),178942,CAGED Antigo
+N,Atividades administrativas e serviços,30–39h,3799897,CAGED Antigo
+N,Atividades administrativas e serviços,40h,543255,CAGED Antigo
+N,Atividades administrativas e serviços,41–43h,130917,CAGED Antigo
+N,Atividades administrativas e serviços,44h (jornada máxima),16553600,CAGED Antigo
+N,Atividades administrativas e serviços,Parcial (≤30h),1050252,CAGED Antigo
+O,Administração pública,30–39h,68496,CAGED Antigo
+O,Administração pública,40h,317963,CAGED Antigo
+O,Administração pública,41–43h,3643,CAGED Antigo
+O,Administração pública,44h (jornada máxima),205960,CAGED Antigo
+O,Administração pública,Parcial (≤30h),302812,CAGED Antigo
+P,Educação,30–39h,181853,CAGED Antigo
+P,Educação,40h,318510,CAGED Antigo
+P,Educação,41–43h,25676,CAGED Antigo
+P,Educação,44h (jornada máxima),2277033,CAGED Antigo
+P,Educação,Parcial (≤30h),1562107,CAGED Antigo
+Q,Saúde humana e serviço social,30–39h,1398528,CAGED Antigo
+Q,Saúde humana e serviço social,40h,470935,CAGED Antigo
+Q,Saúde humana e serviço social,41–43h,87491,CAGED Antigo
+Q,Saúde humana e serviço social,44h (jornada máxima),2813083,CAGED Antigo
+Q,Saúde humana e serviço social,Parcial (≤30h),846333,CAGED Antigo
+R,"Artes, cultura e esporte",30–39h,52933,CAGED Antigo
+R,"Artes, cultura e esporte",40h,18444,CAGED Antigo
+R,"Artes, cultura e esporte",41–43h,12038,CAGED Antigo
+R,"Artes, cultura e esporte",44h (jornada máxima),702226,CAGED Antigo
+R,"Artes, cultura e esporte",Parcial (≤30h),156541,CAGED Antigo
+S,Outros serviços,30–39h,271228,CAGED Antigo
+S,Outros serviços,40h,372158,CAGED Antigo
+S,Outros serviços,41–43h,29111,CAGED Antigo
+S,Outros serviços,44h (jornada máxima),2607137,CAGED Antigo
+S,Outros serviços,Parcial (≤30h),674604,CAGED Antigo
+T,Serviços domésticos,30–39h,1182,CAGED Antigo
+T,Serviços domésticos,40h,681,CAGED Antigo
+T,Serviços domésticos,41–43h,157,CAGED Antigo
+T,Serviços domésticos,44h (jornada máxima),55541,CAGED Antigo
+T,Serviços domésticos,Parcial (≤30h),5392,CAGED Antigo
+U,Organismos internacionais,40h,932,CAGED Antigo
+U,Organismos internacionais,44h (jornada máxima),22654,CAGED Antigo
+U,Organismos internacionais,30–39h,1295,CAGED Antigo
+U,Organismos internacionais,Parcial (≤30h),734,CAGED Antigo
+U,Organismos internacionais,41–43h,143,CAGED Antigo

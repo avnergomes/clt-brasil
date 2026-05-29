@@ -4,8 +4,9 @@ CLT-BRASIL — shared analysis engine for the Novo CAGED (MTE) formal-employment
 Provides:
   * data loading (national + per-UF panel)
   * stationarity / seasonality / heteroscedasticity diagnostics
-  * a multi-model forecasting engine (SARIMA, Holt-Winters/ETS, Seasonal Naive)
-    with backtesting metrics and forecasts-to-horizon with 95% confidence intervals.
+  * a multi-model forecasting engine (SARIMA, Holt-Winters/ETS, Seasonal Naive,
+    Random Forest, LightGBM) with backtesting metrics and forecasts-to-horizon
+    with 95% confidence intervals.
 
 The "saldo" (net balance) = admissions - dismissals of formal (CLT) jobs.
 It can be negative, so multiplicative/log transforms are not applied to the level;
@@ -169,6 +170,92 @@ def fit_snaive(s: pd.Series, steps: int):
     return fc, lo, hi
 
 
+# ---------------------------------------------------------- ML (lag-feature) models
+ML_LAGS = (1, 2, 3, 12)
+Z95 = 1.95996
+
+
+def _ml_frame(s: pd.Series, lags=ML_LAGS) -> tuple[pd.DataFrame, list[str]]:
+    """Supervised frame: lagged levels + seasonal harmonics + linear trend."""
+    df = pd.DataFrame({"y": s.astype(float)})
+    for L in lags:
+        df[f"lag{L}"] = df["y"].shift(L)
+    m = df.index.month.to_numpy()
+    df["sin"] = np.sin(2 * np.pi * m / 12)
+    df["cos"] = np.cos(2 * np.pi * m / 12)
+    df["trend"] = np.arange(len(df), dtype=float)
+    feats = [c for c in df.columns if c != "y"]
+    return df, feats
+
+
+def _ml_point_forecast(s: pd.Series, steps: int, make_model, lags=ML_LAGS) -> np.ndarray:
+    """Train once, then forecast `steps` ahead recursively (predictions feed lags)."""
+    df, feats = _ml_frame(s, lags)
+    train = df.dropna()
+    model = make_model()
+    model.fit(train[feats].to_numpy(), train["y"].to_numpy())
+    ext = list(s.astype(float).to_numpy())          # history + predictions so far
+    n0 = len(s)
+    fidx = _future_index(s)[:steps]
+    out = []
+    for i, dt_ in enumerate(fidx):
+        row = [ext[-L] for L in lags]               # lag values from the running tail
+        mth = dt_.month
+        row += [np.sin(2 * np.pi * mth / 12), np.cos(2 * np.pi * mth / 12), float(n0 + i)]
+        yhat = float(model.predict(np.asarray(row, float).reshape(1, -1))[0])
+        out.append(yhat)
+        ext.append(yhat)
+    return np.asarray(out)
+
+
+def _ml_residual_sd(s: pd.Series, make_model, lags=ML_LAGS, origins: int = 18) -> float:
+    """Honest one-step error scale from an expanding-window backtest."""
+    n = len(s)
+    start = max(n - origins, 2 * max(lags) + 4)
+    errs = []
+    for t in range(start, n):
+        tr = s.iloc[:t]
+        try:
+            f1 = _ml_point_forecast(tr, 1, make_model, lags)[0]
+            errs.append(float(s.iloc[t]) - f1)
+        except Exception:
+            continue
+    if len(errs) >= 4:
+        return float(np.std(errs))
+    res = s.values[max(lags):] - s.values[:-max(lags)]
+    return float(np.std(res))
+
+
+def _ml_forecast(s: pd.Series, steps: int, make_model, lags=ML_LAGS):
+    """Recursive point forecast + horizon-widening CI (sd * sqrt(h)) for any
+    sklearn-style regressor. Returns (mean, lower, upper)."""
+    mean = _ml_point_forecast(s, steps, make_model, lags)
+    sd = _ml_residual_sd(s, make_model, lags)
+    widen = np.sqrt(np.arange(1, steps + 1))
+    lo = mean - Z95 * sd * widen
+    hi = mean + Z95 * sd * widen
+    return mean, lo, hi
+
+
+def fit_rf(s: pd.Series, steps: int):
+    """Random Forest on lag/seasonal/trend features; recursive multi-step."""
+    from sklearn.ensemble import RandomForestRegressor
+    make = lambda: RandomForestRegressor(
+        n_estimators=400, min_samples_leaf=2, max_features="sqrt",
+        random_state=42, n_jobs=-1)
+    return _ml_forecast(s, steps, make)
+
+
+def fit_lgbm(s: pd.Series, steps: int):
+    """LightGBM gradient boosting on lag/seasonal/trend features; recursive."""
+    import lightgbm as lgb
+    make = lambda: lgb.LGBMRegressor(
+        n_estimators=300, learning_rate=0.05, num_leaves=15,
+        min_child_samples=5, subsample=0.9, colsample_bytree=0.9,
+        random_state=42, n_jobs=-1, verbose=-1)
+    return _ml_forecast(s, steps, make)
+
+
 def backtest(s: pd.Series, fitter, h: int = 12) -> dict:
     """Hold out last h months; refit; score."""
     train, test = s.iloc[:-h], s.iloc[-h:]
@@ -182,8 +269,9 @@ def backtest(s: pd.Series, fitter, h: int = 12) -> dict:
 
 def forecast_series(s: pd.Series, end=HORIZON_END) -> dict:
     """
-    Fit SARIMA, ETS, Seasonal-Naive on a series; backtest (12m holdout) and
-    forecast to `end` with 95% CI. Returns dict with per-model results + best model.
+    Fit SARIMA, ETS, Seasonal-Naive, Random Forest and LightGBM on a series;
+    backtest (12m holdout) and forecast to `end` with 95% CI. Returns dict with
+    per-model results + best model (lowest backtest RMSE).
     """
     s = s.dropna()
     fidx = _future_index(s, end)
@@ -194,6 +282,8 @@ def forecast_series(s: pd.Series, end=HORIZON_END) -> dict:
         "SARIMA": fit_sarima,
         "ETS (Holt-Winters)": fit_ets,
         "Seasonal Naive": fit_snaive,
+        "Random Forest": fit_rf,
+        "LightGBM": fit_lgbm,
     }
     for name, fitter in fitters.items():
         try:

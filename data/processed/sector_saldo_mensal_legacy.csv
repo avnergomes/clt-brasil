@@ -1,0 +1,2542 @@
+date,secao,secao_nome,saldo,admissoes,fonte
+2007-01-01,A,Agropecuária,17226,109682,CAGED Antigo
+2007-01-01,B,Indústria extrativa,2085,5478,CAGED Antigo
+2007-01-01,C,Indústria de transformação,38021,235673,CAGED Antigo
+2007-01-01,D,Eletricidade e gás,-136,897,CAGED Antigo
+2007-01-01,E,"Água, esgoto e resíduos",1264,5972,CAGED Antigo
+2007-01-01,F,Construção,11899,112702,CAGED Antigo
+2007-01-01,G,Comércio e reparação,-8409,265857,CAGED Antigo
+2007-01-01,H,Transporte e armazenagem,2831,46984,CAGED Antigo
+2007-01-01,I,Alojamento e alimentação,6045,59808,CAGED Antigo
+2007-01-01,J,Informação e comunicação,4046,23021,CAGED Antigo
+2007-01-01,K,Atividades financeiras,2936,11287,CAGED Antigo
+2007-01-01,L,Atividades imobiliárias,916,4523,CAGED Antigo
+2007-01-01,M,Atividades profissionais e científicas,5866,24779,CAGED Antigo
+2007-01-01,N,Atividades administrativas e serviços,19940,153467,CAGED Antigo
+2007-01-01,O,Administração pública,-1589,5226,CAGED Antigo
+2007-01-01,P,Educação,-5892,14622,CAGED Antigo
+2007-01-01,Q,Saúde humana e serviço social,4182,27159,CAGED Antigo
+2007-01-01,R,"Artes, cultura e esporte",1510,7997,CAGED Antigo
+2007-01-01,S,Outros serviços,2613,28292,CAGED Antigo
+2007-01-01,T,Serviços domésticos,85,534,CAGED Antigo
+2007-01-01,U,Organismos internacionais,29,83,CAGED Antigo
+2007-02-01,A,Agropecuária,21923,109763,CAGED Antigo
+2007-02-01,B,Indústria extrativa,1223,4234,CAGED Antigo
+2007-02-01,C,Indústria de transformação,28097,238569,CAGED Antigo
+2007-02-01,D,Eletricidade e gás,514,1434,CAGED Antigo
+2007-02-01,E,"Água, esgoto e resíduos",608,5579,CAGED Antigo
+2007-02-01,F,Construção,5746,98242,CAGED Antigo
+2007-02-01,G,Comércio e reparação,13539,248796,CAGED Antigo
+2007-02-01,H,Transporte e armazenagem,6873,49169,CAGED Antigo
+2007-02-01,I,Alojamento e alimentação,1320,52949,CAGED Antigo
+2007-02-01,J,Informação e comunicação,3034,19598,CAGED Antigo
+2007-02-01,K,Atividades financeiras,1776,9532,CAGED Antigo
+2007-02-01,L,Atividades imobiliárias,577,3946,CAGED Antigo
+2007-02-01,M,Atividades profissionais e científicas,3657,20812,CAGED Antigo
+2007-02-01,N,Atividades administrativas e serviços,5073,134080,CAGED Antigo
+2007-02-01,O,Administração pública,13146,18855,CAGED Antigo
+2007-02-01,P,Educação,28888,51875,CAGED Antigo
+2007-02-01,Q,Saúde humana e serviço social,841,27858,CAGED Antigo
+2007-02-01,R,"Artes, cultura e esporte",-23,6359,CAGED Antigo
+2007-02-01,S,Outros serviços,11185,35591,CAGED Antigo
+2007-02-01,T,Serviços domésticos,-6,434,CAGED Antigo
+2007-02-01,U,Organismos internacionais,28,62,CAGED Antigo
+2007-03-01,A,Agropecuária,11245,110967,CAGED Antigo
+2007-03-01,B,Indústria extrativa,953,4557,CAGED Antigo
+2007-03-01,C,Indústria de transformação,38607,269570,CAGED Antigo
+2007-03-01,D,Eletricidade e gás,309,1068,CAGED Antigo
+2007-03-01,E,"Água, esgoto e resíduos",646,6203,CAGED Antigo
+2007-03-01,F,Construção,17540,119340,CAGED Antigo
+2007-03-01,G,Comércio e reparação,13878,282836,CAGED Antigo
+2007-03-01,H,Transporte e armazenagem,8056,56978,CAGED Antigo
+2007-03-01,I,Alojamento e alimentação,-1309,55211,CAGED Antigo
+2007-03-01,J,Informação e comunicação,1315,19578,CAGED Antigo
+2007-03-01,K,Atividades financeiras,1217,10865,CAGED Antigo
+2007-03-01,L,Atividades imobiliárias,543,4936,CAGED Antigo
+2007-03-01,M,Atividades profissionais e científicas,4318,25271,CAGED Antigo
+2007-03-01,N,Atividades administrativas e serviços,19978,162569,CAGED Antigo
+2007-03-01,O,Administração pública,6311,12285,CAGED Antigo
+2007-03-01,P,Educação,14113,33893,CAGED Antigo
+2007-03-01,Q,Saúde humana e serviço social,-728,30768,CAGED Antigo
+2007-03-01,R,"Artes, cultura e esporte",92,7305,CAGED Antigo
+2007-03-01,S,Outros serviços,8261,36148,CAGED Antigo
+2007-03-01,T,Serviços domésticos,29,464,CAGED Antigo
+2007-03-01,U,Organismos internacionais,-1,57,CAGED Antigo
+2007-04-01,A,Agropecuária,40871,136410,CAGED Antigo
+2007-04-01,B,Indústria extrativa,2012,5251,CAGED Antigo
+2007-04-01,C,Indústria de transformação,100709,303417,CAGED Antigo
+2007-04-01,D,Eletricidade e gás,208,960,CAGED Antigo
+2007-04-01,E,"Água, esgoto e resíduos",1503,5729,CAGED Antigo
+2007-04-01,F,Construção,30816,116886,CAGED Antigo
+2007-04-01,G,Comércio e reparação,38004,273662,CAGED Antigo
+2007-04-01,H,Transporte e armazenagem,17716,59305,CAGED Antigo
+2007-04-01,I,Alojamento e alimentação,6455,55505,CAGED Antigo
+2007-04-01,J,Informação e comunicação,4018,20264,CAGED Antigo
+2007-04-01,K,Atividades financeiras,2157,11160,CAGED Antigo
+2007-04-01,L,Atividades imobiliárias,1142,4308,CAGED Antigo
+2007-04-01,M,Atividades profissionais e científicas,5772,24221,CAGED Antigo
+2007-04-01,N,Atividades administrativas e serviços,25881,152950,CAGED Antigo
+2007-04-01,O,Administração pública,3466,7959,CAGED Antigo
+2007-04-01,P,Educação,8585,22629,CAGED Antigo
+2007-04-01,Q,Saúde humana e serviço social,8090,30054,CAGED Antigo
+2007-04-01,R,"Artes, cultura e esporte",90,6773,CAGED Antigo
+2007-04-01,S,Outros serviços,3206,30967,CAGED Antigo
+2007-04-01,T,Serviços domésticos,88,460,CAGED Antigo
+2007-04-01,U,Organismos internacionais,21,52,CAGED Antigo
+2007-05-01,A,Agropecuária,80102,175462,CAGED Antigo
+2007-05-01,B,Indústria extrativa,1566,5263,CAGED Antigo
+2007-05-01,C,Indústria de transformação,55869,272851,CAGED Antigo
+2007-05-01,D,Eletricidade e gás,191,790,CAGED Antigo
+2007-05-01,E,"Água, esgoto e resíduos",145,5405,CAGED Antigo
+2007-05-01,F,Construção,14079,121464,CAGED Antigo
+2007-05-01,G,Comércio e reparação,17224,281583,CAGED Antigo
+2007-05-01,H,Transporte e armazenagem,9518,59398,CAGED Antigo
+2007-05-01,I,Alojamento e alimentação,677,56041,CAGED Antigo
+2007-05-01,J,Informação e comunicação,2504,21055,CAGED Antigo
+2007-05-01,K,Atividades financeiras,1863,11228,CAGED Antigo
+2007-05-01,L,Atividades imobiliárias,512,4572,CAGED Antigo
+2007-05-01,M,Atividades profissionais e científicas,1738,23086,CAGED Antigo
+2007-05-01,N,Atividades administrativas e serviços,12771,156182,CAGED Antigo
+2007-05-01,O,Administração pública,2315,7236,CAGED Antigo
+2007-05-01,P,Educação,4579,19836,CAGED Antigo
+2007-05-01,Q,Saúde humana e serviço social,4555,30248,CAGED Antigo
+2007-05-01,R,"Artes, cultura e esporte",-3574,6249,CAGED Antigo
+2007-05-01,S,Outros serviços,5256,31509,CAGED Antigo
+2007-05-01,T,Serviços domésticos,25,485,CAGED Antigo
+2007-05-01,U,Organismos internacionais,-4,67,CAGED Antigo
+2007-06-01,A,Agropecuária,66209,160883,CAGED Antigo
+2007-06-01,B,Indústria extrativa,1479,4791,CAGED Antigo
+2007-06-01,C,Indústria de transformação,26611,230513,CAGED Antigo
+2007-06-01,D,Eletricidade e gás,187,743,CAGED Antigo
+2007-06-01,E,"Água, esgoto e resíduos",1322,5832,CAGED Antigo
+2007-06-01,F,Construção,18567,120688,CAGED Antigo
+2007-06-01,G,Comércio e reparação,29333,269754,CAGED Antigo
+2007-06-01,H,Transporte e armazenagem,7931,53943,CAGED Antigo
+2007-06-01,I,Alojamento e alimentação,6254,55334,CAGED Antigo
+2007-06-01,J,Informação e comunicação,368,19725,CAGED Antigo
+2007-06-01,K,Atividades financeiras,1139,11674,CAGED Antigo
+2007-06-01,L,Atividades imobiliárias,832,4656,CAGED Antigo
+2007-06-01,M,Atividades profissionais e científicas,3477,22732,CAGED Antigo
+2007-06-01,N,Atividades administrativas e serviços,15764,146485,CAGED Antigo
+2007-06-01,O,Administração pública,-209,6598,CAGED Antigo
+2007-06-01,P,Educação,-3212,15265,CAGED Antigo
+2007-06-01,Q,Saúde humana e serviço social,5637,29771,CAGED Antigo
+2007-06-01,R,"Artes, cultura e esporte",-1801,6188,CAGED Antigo
+2007-06-01,S,Outros serviços,1439,28153,CAGED Antigo
+2007-06-01,T,Serviços domésticos,72,480,CAGED Antigo
+2007-06-01,U,Organismos internacionais,-10,41,CAGED Antigo
+2007-07-01,A,Agropecuária,7895,116221,CAGED Antigo
+2007-07-01,B,Indústria extrativa,1358,4889,CAGED Antigo
+2007-07-01,C,Indústria de transformação,26936,238118,CAGED Antigo
+2007-07-01,D,Eletricidade e gás,-124,644,CAGED Antigo
+2007-07-01,E,"Água, esgoto e resíduos",759,5452,CAGED Antigo
+2007-07-01,F,Construção,19035,127734,CAGED Antigo
+2007-07-01,G,Comércio e reparação,29201,273080,CAGED Antigo
+2007-07-01,H,Transporte e armazenagem,8217,55675,CAGED Antigo
+2007-07-01,I,Alojamento e alimentação,4232,56936,CAGED Antigo
+2007-07-01,J,Informação e comunicação,1492,21363,CAGED Antigo
+2007-07-01,K,Atividades financeiras,2512,13742,CAGED Antigo
+2007-07-01,L,Atividades imobiliárias,520,4410,CAGED Antigo
+2007-07-01,M,Atividades profissionais e científicas,6238,25223,CAGED Antigo
+2007-07-01,N,Atividades administrativas e serviços,15768,155015,CAGED Antigo
+2007-07-01,O,Administração pública,3373,8618,CAGED Antigo
+2007-07-01,P,Educação,-5929,14618,CAGED Antigo
+2007-07-01,Q,Saúde humana e serviço social,5007,30321,CAGED Antigo
+2007-07-01,R,"Artes, cultura e esporte",-2007,5946,CAGED Antigo
+2007-07-01,S,Outros serviços,2613,28873,CAGED Antigo
+2007-07-01,T,Serviços domésticos,11,445,CAGED Antigo
+2007-07-01,U,Organismos internacionais,-15,45,CAGED Antigo
+2007-08-01,A,Agropecuária,-30895,99771,CAGED Antigo
+2007-08-01,B,Indústria extrativa,794,4641,CAGED Antigo
+2007-08-01,C,Indústria de transformação,36708,262268,CAGED Antigo
+2007-08-01,D,Eletricidade e gás,254,830,CAGED Antigo
+2007-08-01,E,"Água, esgoto e resíduos",415,5297,CAGED Antigo
+2007-08-01,F,Construção,26295,133967,CAGED Antigo
+2007-08-01,G,Comércio e reparação,37832,289458,CAGED Antigo
+2007-08-01,H,Transporte e armazenagem,3625,53566,CAGED Antigo
+2007-08-01,I,Alojamento e alimentação,6320,59283,CAGED Antigo
+2007-08-01,J,Informação e comunicação,2714,22642,CAGED Antigo
+2007-08-01,K,Atividades financeiras,4692,14678,CAGED Antigo
+2007-08-01,L,Atividades imobiliárias,944,5028,CAGED Antigo
+2007-08-01,M,Atividades profissionais e científicas,3459,25424,CAGED Antigo
+2007-08-01,N,Atividades administrativas e serviços,12859,160040,CAGED Antigo
+2007-08-01,O,Administração pública,2117,7534,CAGED Antigo
+2007-08-01,P,Educação,15374,34275,CAGED Antigo
+2007-08-01,Q,Saúde humana e serviço social,3955,31190,CAGED Antigo
+2007-08-01,R,"Artes, cultura e esporte",-630,6106,CAGED Antigo
+2007-08-01,S,Outros serviços,5554,32203,CAGED Antigo
+2007-08-01,T,Serviços domésticos,5,453,CAGED Antigo
+2007-08-01,U,Organismos internacionais,-5,56,CAGED Antigo
+2007-09-01,A,Agropecuária,-18378,81248,CAGED Antigo
+2007-09-01,B,Indústria extrativa,934,4264,CAGED Antigo
+2007-09-01,C,Indústria de transformação,109173,291686,CAGED Antigo
+2007-09-01,D,Eletricidade e gás,241,681,CAGED Antigo
+2007-09-01,E,"Água, esgoto e resíduos",468,5277,CAGED Antigo
+2007-09-01,F,Construção,30801,129347,CAGED Antigo
+2007-09-01,G,Comércio e reparação,52164,285092,CAGED Antigo
+2007-09-01,H,Transporte e armazenagem,7342,52900,CAGED Antigo
+2007-09-01,I,Alojamento e alimentação,8300,56989,CAGED Antigo
+2007-09-01,J,Informação e comunicação,4414,21490,CAGED Antigo
+2007-09-01,K,Atividades financeiras,6024,14636,CAGED Antigo
+2007-09-01,L,Atividades imobiliárias,852,4480,CAGED Antigo
+2007-09-01,M,Atividades profissionais e científicas,5524,24381,CAGED Antigo
+2007-09-01,N,Atividades administrativas e serviços,21995,158033,CAGED Antigo
+2007-09-01,O,Administração pública,2111,6440,CAGED Antigo
+2007-09-01,P,Educação,6505,19546,CAGED Antigo
+2007-09-01,Q,Saúde humana e serviço social,5456,29315,CAGED Antigo
+2007-09-01,R,"Artes, cultura e esporte",1020,6546,CAGED Antigo
+2007-09-01,S,Outros serviços,5484,27850,CAGED Antigo
+2007-09-01,T,Serviços domésticos,6,412,CAGED Antigo
+2007-09-01,U,Organismos internacionais,-7,37,CAGED Antigo
+2007-10-01,A,Agropecuária,-11525,87426,CAGED Antigo
+2007-10-01,B,Indústria extrativa,962,4456,CAGED Antigo
+2007-10-01,C,Indústria de transformação,57763,269625,CAGED Antigo
+2007-10-01,D,Eletricidade e gás,66,649,CAGED Antigo
+2007-10-01,E,"Água, esgoto e resíduos",440,5104,CAGED Antigo
+2007-10-01,F,Construção,22206,136332,CAGED Antigo
+2007-10-01,G,Comércio e reparação,65069,322914,CAGED Antigo
+2007-10-01,H,Transporte e armazenagem,9241,57550,CAGED Antigo
+2007-10-01,I,Alojamento e alimentação,8473,64993,CAGED Antigo
+2007-10-01,J,Informação e comunicação,2432,19704,CAGED Antigo
+2007-10-01,K,Atividades financeiras,5114,14687,CAGED Antigo
+2007-10-01,L,Atividades imobiliárias,954,4921,CAGED Antigo
+2007-10-01,M,Atividades profissionais e científicas,6032,27096,CAGED Antigo
+2007-10-01,N,Atividades administrativas e serviços,22630,171310,CAGED Antigo
+2007-10-01,O,Administração pública,2416,6948,CAGED Antigo
+2007-10-01,P,Educação,2662,16324,CAGED Antigo
+2007-10-01,Q,Saúde humana e serviço social,4622,30278,CAGED Antigo
+2007-10-01,R,"Artes, cultura e esporte",723,6783,CAGED Antigo
+2007-10-01,S,Outros serviços,4863,29880,CAGED Antigo
+2007-10-01,T,Serviços domésticos,-58,424,CAGED Antigo
+2007-10-01,U,Organismos internacionais,4,52,CAGED Antigo
+2007-11-01,A,Agropecuária,-43107,72956,CAGED Antigo
+2007-11-01,B,Indústria extrativa,171,3833,CAGED Antigo
+2007-11-01,C,Indústria de transformação,-4098,218897,CAGED Antigo
+2007-11-01,D,Eletricidade e gás,6,559,CAGED Antigo
+2007-11-01,E,"Água, esgoto e resíduos",360,5168,CAGED Antigo
+2007-11-01,F,Construção,8340,123226,CAGED Antigo
+2007-11-01,G,Comércio e reparação,100831,337400,CAGED Antigo
+2007-11-01,H,Transporte e armazenagem,7432,54073,CAGED Antigo
+2007-11-01,I,Alojamento e alimentação,11567,63367,CAGED Antigo
+2007-11-01,J,Informação e comunicação,-4124,18089,CAGED Antigo
+2007-11-01,K,Atividades financeiras,4454,12531,CAGED Antigo
+2007-11-01,L,Atividades imobiliárias,306,4116,CAGED Antigo
+2007-11-01,M,Atividades profissionais e científicas,5945,25223,CAGED Antigo
+2007-11-01,N,Atividades administrativas e serviços,31244,166041,CAGED Antigo
+2007-11-01,O,Administração pública,28,3908,CAGED Antigo
+2007-11-01,P,Educação,-1544,11298,CAGED Antigo
+2007-11-01,Q,Saúde humana e serviço social,4426,27816,CAGED Antigo
+2007-11-01,R,"Artes, cultura e esporte",551,6254,CAGED Antigo
+2007-11-01,S,Outros serviços,2035,24656,CAGED Antigo
+2007-11-01,T,Serviços domésticos,-1,416,CAGED Antigo
+2007-11-01,U,Organismos internacionais,33,87,CAGED Antigo
+2007-12-01,A,Agropecuária,-121649,46009,CAGED Antigo
+2007-12-01,B,Indústria extrativa,563,3528,CAGED Antigo
+2007-12-01,C,Indústria de transformação,-141892,141414,CAGED Antigo
+2007-12-01,D,Eletricidade e gás,-200,555,CAGED Antigo
+2007-12-01,E,"Água, esgoto e resíduos",329,5320,CAGED Antigo
+2007-12-01,F,Construção,-25423,86312,CAGED Antigo
+2007-12-01,G,Comércio e reparação,29494,272233,CAGED Antigo
+2007-12-01,H,Transporte e armazenagem,-5489,43843,CAGED Antigo
+2007-12-01,I,Alojamento e alimentação,7808,55483,CAGED Antigo
+2007-12-01,J,Informação e comunicação,-1131,16085,CAGED Antigo
+2007-12-01,K,Atividades financeiras,2947,10145,CAGED Antigo
+2007-12-01,L,Atividades imobiliárias,-322,3166,CAGED Antigo
+2007-12-01,M,Atividades profissionais e científicas,-2131,18343,CAGED Antigo
+2007-12-01,N,Atividades administrativas e serviços,5751,145712,CAGED Antigo
+2007-12-01,O,Administração pública,-18653,3296,CAGED Antigo
+2007-12-01,P,Educação,-30698,6675,CAGED Antigo
+2007-12-01,Q,Saúde humana e serviço social,-3081,22402,CAGED Antigo
+2007-12-01,R,"Artes, cultura e esporte",-608,5514,CAGED Antigo
+2007-12-01,S,Outros serviços,-12222,19478,CAGED Antigo
+2007-12-01,T,Serviços domésticos,-178,265,CAGED Antigo
+2007-12-01,U,Organismos internacionais,-16,58,CAGED Antigo
+2008-01-01,A,Agropecuária,5873,105878,CAGED Antigo
+2008-01-01,B,Indústria extrativa,1061,4432,CAGED Antigo
+2008-01-01,C,Indústria de transformação,59290,275794,CAGED Antigo
+2008-01-01,D,Eletricidade e gás,-253,1016,CAGED Antigo
+2008-01-01,E,"Água, esgoto e resíduos",1831,6582,CAGED Antigo
+2008-01-01,F,Construção,40251,155824,CAGED Antigo
+2008-01-01,G,Comércio e reparação,-13068,302600,CAGED Antigo
+2008-01-01,H,Transporte e armazenagem,4988,55387,CAGED Antigo
+2008-01-01,I,Alojamento e alimentação,5044,64585,CAGED Antigo
+2008-01-01,J,Informação e comunicação,3703,24645,CAGED Antigo
+2008-01-01,K,Atividades financeiras,2942,14384,CAGED Antigo
+2008-01-01,L,Atividades imobiliárias,659,3199,CAGED Antigo
+2008-01-01,M,Atividades profissionais e científicas,7212,32035,CAGED Antigo
+2008-01-01,N,Atividades administrativas e serviços,17491,169643,CAGED Antigo
+2008-01-01,O,Administração pública,59,5832,CAGED Antigo
+2008-01-01,P,Educação,-5932,17470,CAGED Antigo
+2008-01-01,Q,Saúde humana e serviço social,6377,31757,CAGED Antigo
+2008-01-01,R,"Artes, cultura e esporte",1413,6974,CAGED Antigo
+2008-01-01,S,Outros serviços,3915,30227,CAGED Antigo
+2008-01-01,T,Serviços domésticos,1,520,CAGED Antigo
+2008-01-01,U,Organismos internacionais,64,138,CAGED Antigo
+2008-02-01,A,Agropecuária,19494,113525,CAGED Antigo
+2008-02-01,B,Indústria extrativa,834,4431,CAGED Antigo
+2008-02-01,C,Indústria de transformação,48841,294218,CAGED Antigo
+2008-02-01,D,Eletricidade e gás,122,816,CAGED Antigo
+2008-02-01,E,"Água, esgoto e resíduos",1209,6708,CAGED Antigo
+2008-02-01,F,Construção,28205,148893,CAGED Antigo
+2008-02-01,G,Comércio e reparação,15436,296366,CAGED Antigo
+2008-02-01,H,Transporte e armazenagem,6840,59937,CAGED Antigo
+2008-02-01,I,Alojamento e alimentação,-681,63548,CAGED Antigo
+2008-02-01,J,Informação e comunicação,3710,23841,CAGED Antigo
+2008-02-01,K,Atividades financeiras,2722,13890,CAGED Antigo
+2008-02-01,L,Atividades imobiliárias,583,2964,CAGED Antigo
+2008-02-01,M,Atividades profissionais e científicas,3933,28985,CAGED Antigo
+2008-02-01,N,Atividades administrativas e serviços,12349,161103,CAGED Antigo
+2008-02-01,O,Administração pública,15274,21393,CAGED Antigo
+2008-02-01,P,Educação,32009,60050,CAGED Antigo
+2008-02-01,Q,Saúde humana e serviço social,4292,32717,CAGED Antigo
+2008-02-01,R,"Artes, cultura e esporte",-327,5700,CAGED Antigo
+2008-02-01,S,Outros serviços,10081,37188,CAGED Antigo
+2008-02-01,T,Serviços domésticos,-15,527,CAGED Antigo
+2008-02-01,U,Organismos internacionais,52,108,CAGED Antigo
+2008-03-01,A,Agropecuária,11519,106546,CAGED Antigo
+2008-03-01,B,Indústria extrativa,1483,5182,CAGED Antigo
+2008-03-01,C,Indústria de transformação,41581,310365,CAGED Antigo
+2008-03-01,D,Eletricidade e gás,75,998,CAGED Antigo
+2008-03-01,E,"Água, esgoto e resíduos",1960,7738,CAGED Antigo
+2008-03-01,F,Construção,34795,155700,CAGED Antigo
+2008-03-01,G,Comércio e reparação,21091,321902,CAGED Antigo
+2008-03-01,H,Transporte e armazenagem,13538,65740,CAGED Antigo
+2008-03-01,I,Alojamento e alimentação,840,67101,CAGED Antigo
+2008-03-01,J,Informação e comunicação,6807,28047,CAGED Antigo
+2008-03-01,K,Atividades financeiras,3852,15572,CAGED Antigo
+2008-03-01,L,Atividades imobiliárias,710,3394,CAGED Antigo
+2008-03-01,M,Atividades profissionais e científicas,6330,31980,CAGED Antigo
+2008-03-01,N,Atividades administrativas e serviços,24027,180056,CAGED Antigo
+2008-03-01,O,Administração pública,5691,12124,CAGED Antigo
+2008-03-01,P,Educação,16930,41847,CAGED Antigo
+2008-03-01,Q,Saúde humana e serviço social,8664,36382,CAGED Antigo
+2008-03-01,R,"Artes, cultura e esporte",143,6504,CAGED Antigo
+2008-03-01,S,Outros serviços,6477,35322,CAGED Antigo
+2008-03-01,T,Serviços domésticos,28,548,CAGED Antigo
+2008-03-01,U,Organismos internacionais,15,92,CAGED Antigo
+2008-04-01,A,Agropecuária,37016,135259,CAGED Antigo
+2008-04-01,B,Indústria extrativa,2229,5672,CAGED Antigo
+2008-04-01,C,Indústria de transformação,80909,340467,CAGED Antigo
+2008-04-01,D,Eletricidade e gás,312,1148,CAGED Antigo
+2008-04-01,E,"Água, esgoto e resíduos",1638,7244,CAGED Antigo
+2008-04-01,F,Construção,33731,162044,CAGED Antigo
+2008-04-01,G,Comércio e reparação,36594,325493,CAGED Antigo
+2008-04-01,H,Transporte e armazenagem,19672,72257,CAGED Antigo
+2008-04-01,I,Alojamento e alimentação,4851,66915,CAGED Antigo
+2008-04-01,J,Informação e comunicação,2275,26580,CAGED Antigo
+2008-04-01,K,Atividades financeiras,3143,15709,CAGED Antigo
+2008-04-01,L,Atividades imobiliárias,536,3187,CAGED Antigo
+2008-04-01,M,Atividades profissionais e científicas,8787,34708,CAGED Antigo
+2008-04-01,N,Atividades administrativas e serviços,30471,182338,CAGED Antigo
+2008-04-01,O,Administração pública,5194,11507,CAGED Antigo
+2008-04-01,P,Educação,9122,30737,CAGED Antigo
+2008-04-01,Q,Saúde humana e serviço social,9812,37544,CAGED Antigo
+2008-04-01,R,"Artes, cultura e esporte",804,6439,CAGED Antigo
+2008-04-01,S,Outros serviços,7379,37262,CAGED Antigo
+2008-04-01,T,Serviços domésticos,-5,522,CAGED Antigo
+2008-04-01,U,Organismos internacionais,52,126,CAGED Antigo
+2008-06-01,A,Agropecuária,94342,187333,CAGED Antigo
+2008-06-01,B,Indústria extrativa,1977,5614,CAGED Antigo
+2008-06-01,C,Indústria de transformação,47031,286535,CAGED Antigo
+2008-06-01,D,Eletricidade e gás,-142,964,CAGED Antigo
+2008-06-01,E,"Água, esgoto e resíduos",1677,7072,CAGED Antigo
+2008-06-01,F,Construção,38976,174316,CAGED Antigo
+2008-06-01,G,Comércio e reparação,51278,329852,CAGED Antigo
+2008-06-01,H,Transporte e armazenagem,14623,69620,CAGED Antigo
+2008-06-01,I,Alojamento e alimentação,8703,66913,CAGED Antigo
+2008-06-01,J,Informação e comunicação,4933,26830,CAGED Antigo
+2008-06-01,K,Atividades financeiras,4869,16575,CAGED Antigo
+2008-06-01,L,Atividades imobiliárias,774,3348,CAGED Antigo
+2008-06-01,M,Atividades profissionais e científicas,5654,34720,CAGED Antigo
+2008-06-01,N,Atividades administrativas e serviços,21364,174655,CAGED Antigo
+2008-06-01,O,Administração pública,3608,9199,CAGED Antigo
+2008-06-01,P,Educação,-2120,21972,CAGED Antigo
+2008-06-01,Q,Saúde humana e serviço social,9646,37334,CAGED Antigo
+2008-06-01,R,"Artes, cultura e esporte",385,5769,CAGED Antigo
+2008-06-01,S,Outros serviços,1836,32796,CAGED Antigo
+2008-06-01,T,Serviços domésticos,75,539,CAGED Antigo
+2008-06-01,U,Organismos internacionais,-47,95,CAGED Antigo
+2008-07-01,A,Agropecuária,47207,151676,CAGED Antigo
+2008-07-01,B,Indústria extrativa,1596,5580,CAGED Antigo
+2008-07-01,C,Indústria de transformação,33263,292632,CAGED Antigo
+2008-07-01,D,Eletricidade e gás,142,1070,CAGED Antigo
+2008-07-01,E,"Água, esgoto e resíduos",1148,6599,CAGED Antigo
+2008-07-01,F,Construção,36929,185852,CAGED Antigo
+2008-07-01,G,Comércio e reparação,26874,337169,CAGED Antigo
+2008-07-01,H,Transporte e armazenagem,10631,67656,CAGED Antigo
+2008-07-01,I,Alojamento e alimentação,3804,69677,CAGED Antigo
+2008-07-01,J,Informação e comunicação,5412,29545,CAGED Antigo
+2008-07-01,K,Atividades financeiras,3684,15763,CAGED Antigo
+2008-07-01,L,Atividades imobiliárias,468,3333,CAGED Antigo
+2008-07-01,M,Atividades profissionais e científicas,11672,40133,CAGED Antigo
+2008-07-01,N,Atividades administrativas e serviços,12653,182928,CAGED Antigo
+2008-07-01,O,Administração pública,6521,13456,CAGED Antigo
+2008-07-01,P,Educação,-9241,19929,CAGED Antigo
+2008-07-01,Q,Saúde humana e serviço social,5885,37413,CAGED Antigo
+2008-07-01,R,"Artes, cultura e esporte",411,6138,CAGED Antigo
+2008-07-01,S,Outros serviços,4209,35698,CAGED Antigo
+2008-07-01,T,Serviços domésticos,-40,511,CAGED Antigo
+2008-07-01,U,Organismos internacionais,-10,50,CAGED Antigo
+2008-09-01,A,Agropecuária,-23846,103954,CAGED Antigo
+2008-09-01,B,Indústria extrativa,1652,5792,CAGED Antigo
+2008-09-01,C,Indústria de transformação,109810,355914,CAGED Antigo
+2008-09-01,D,Eletricidade e gás,433,1214,CAGED Antigo
+2008-09-01,E,"Água, esgoto e resíduos",865,6359,CAGED Antigo
+2008-09-01,F,Construção,34623,185873,CAGED Antigo
+2008-09-01,G,Comércio e reparação,55787,353708,CAGED Antigo
+2008-09-01,H,Transporte e armazenagem,14267,72436,CAGED Antigo
+2008-09-01,I,Alojamento e alimentação,9290,72381,CAGED Antigo
+2008-09-01,J,Informação e comunicação,11546,35424,CAGED Antigo
+2008-09-01,K,Atividades financeiras,3053,15505,CAGED Antigo
+2008-09-01,L,Atividades imobiliárias,896,3603,CAGED Antigo
+2008-09-01,M,Atividades profissionais e científicas,7036,37213,CAGED Antigo
+2008-09-01,N,Atividades administrativas e serviços,32188,192878,CAGED Antigo
+2008-09-01,O,Administração pública,908,5159,CAGED Antigo
+2008-09-01,P,Educação,8917,29290,CAGED Antigo
+2008-09-01,Q,Saúde humana e serviço social,8157,36761,CAGED Antigo
+2008-09-01,R,"Artes, cultura e esporte",1169,6571,CAGED Antigo
+2008-09-01,S,Outros serviços,6015,33845,CAGED Antigo
+2008-09-01,T,Serviços domésticos,51,589,CAGED Antigo
+2008-09-01,U,Organismos internacionais,21,99,CAGED Antigo
+2008-10-01,A,Agropecuária,-38381,97152,CAGED Antigo
+2008-10-01,B,Indústria extrativa,266,5165,CAGED Antigo
+2008-10-01,C,Indústria de transformação,6256,278369,CAGED Antigo
+2008-10-01,D,Eletricidade e gás,171,1106,CAGED Antigo
+2008-10-01,E,"Água, esgoto e resíduos",-996,5472,CAGED Antigo
+2008-10-01,F,Construção,3081,173179,CAGED Antigo
+2008-10-01,G,Comércio e reparação,56182,369272,CAGED Antigo
+2008-10-01,H,Transporte e armazenagem,9820,71971,CAGED Antigo
+2008-10-01,I,Alojamento e alimentação,7272,75516,CAGED Antigo
+2008-10-01,J,Informação e comunicação,-7328,28895,CAGED Antigo
+2008-10-01,K,Atividades financeiras,882,14834,CAGED Antigo
+2008-10-01,L,Atividades imobiliárias,468,3418,CAGED Antigo
+2008-10-01,M,Atividades profissionais e científicas,3848,35480,CAGED Antigo
+2008-10-01,N,Atividades administrativas e serviços,10046,190891,CAGED Antigo
+2008-10-01,O,Administração pública,-1189,4118,CAGED Antigo
+2008-10-01,P,Educação,3529,22419,CAGED Antigo
+2008-10-01,Q,Saúde humana e serviço social,6122,36102,CAGED Antigo
+2008-10-01,R,"Artes, cultura e esporte",498,6254,CAGED Antigo
+2008-10-01,S,Outros serviços,921,30926,CAGED Antigo
+2008-10-01,T,Serviços domésticos,7,569,CAGED Antigo
+2008-10-01,U,Organismos internacionais,-72,97,CAGED Antigo
+2008-11-01,A,Agropecuária,-50178,81630,CAGED Antigo
+2008-11-01,B,Indústria extrativa,-944,4450,CAGED Antigo
+2008-11-01,C,Indústria de transformação,-83299,202216,CAGED Antigo
+2008-11-01,D,Eletricidade e gás,61,936,CAGED Antigo
+2008-11-01,E,"Água, esgoto e resíduos",-1293,4799,CAGED Antigo
+2008-11-01,F,Construção,-22973,147217,CAGED Antigo
+2008-11-01,G,Comércio e reparação,78778,361676,CAGED Antigo
+2008-11-01,H,Transporte e armazenagem,4375,60356,CAGED Antigo
+2008-11-01,I,Alojamento e alimentação,13539,76389,CAGED Antigo
+2008-11-01,J,Informação e comunicação,3010,26169,CAGED Antigo
+2008-11-01,K,Atividades financeiras,18,12071,CAGED Antigo
+2008-11-01,L,Atividades imobiliárias,212,3187,CAGED Antigo
+2008-11-01,M,Atividades profissionais e científicas,3322,30306,CAGED Antigo
+2008-11-01,N,Atividades administrativas e serviços,10004,176390,CAGED Antigo
+2008-11-01,O,Administração pública,-1853,3169,CAGED Antigo
+2008-11-01,P,Educação,-408,16689,CAGED Antigo
+2008-11-01,Q,Saúde humana e serviço social,6184,33215,CAGED Antigo
+2008-11-01,R,"Artes, cultura e esporte",1615,7106,CAGED Antigo
+2008-11-01,S,Outros serviços,-902,27119,CAGED Antigo
+2008-11-01,T,Serviços domésticos,-65,444,CAGED Antigo
+2008-11-01,U,Organismos internacionais,-26,138,CAGED Antigo
+2008-12-01,A,Agropecuária,-133963,46188,CAGED Antigo
+2008-12-01,B,Indústria extrativa,-2908,2424,CAGED Antigo
+2008-12-01,C,Indústria de transformação,-267666,105478,CAGED Antigo
+2008-12-01,D,Eletricidade e gás,-271,732,CAGED Antigo
+2008-12-01,E,"Água, esgoto e resíduos",-1382,4010,CAGED Antigo
+2008-12-01,F,Construção,-83557,83884,CAGED Antigo
+2008-12-01,G,Comércio e reparação,-17815,278967,CAGED Antigo
+2008-12-01,H,Transporte e armazenagem,-17179,45695,CAGED Antigo
+2008-12-01,I,Alojamento e alimentação,1475,62276,CAGED Antigo
+2008-12-01,J,Informação e comunicação,-1942,19317,CAGED Antigo
+2008-12-01,K,Atividades financeiras,-2545,8469,CAGED Antigo
+2008-12-01,L,Atividades imobiliárias,-238,2420,CAGED Antigo
+2008-12-01,M,Atividades profissionais e científicas,-6569,21286,CAGED Antigo
+2008-12-01,N,Atividades administrativas e serviços,-21608,144952,CAGED Antigo
+2008-12-01,O,Administração pública,-28512,2393,CAGED Antigo
+2008-12-01,P,Educação,-42189,9374,CAGED Antigo
+2008-12-01,Q,Saúde humana e serviço social,-4967,25017,CAGED Antigo
+2008-12-01,R,"Artes, cultura e esporte",-1365,4997,CAGED Antigo
+2008-12-01,S,Outros serviços,-21406,19081,CAGED Antigo
+2008-12-01,T,Serviços domésticos,-239,295,CAGED Antigo
+2008-12-01,U,Organismos internacionais,-100,44,CAGED Antigo
+2009-01-01,A,Agropecuária,-12335,90533,CAGED Antigo
+2009-01-01,B,Indústria extrativa,-336,3490,CAGED Antigo
+2009-01-01,C,Indústria de transformação,-54209,200299,CAGED Antigo
+2009-01-01,D,Eletricidade e gás,-193,887,CAGED Antigo
+2009-01-01,E,"Água, esgoto e resíduos",523,7042,CAGED Antigo
+2009-01-01,F,Construção,12388,156164,CAGED Antigo
+2009-01-01,G,Comércio e reparação,-50651,296024,CAGED Antigo
+2009-01-01,H,Transporte e armazenagem,-8120,51698,CAGED Antigo
+2009-01-01,I,Alojamento e alimentação,929,71794,CAGED Antigo
+2009-01-01,J,Informação e comunicação,1251,23852,CAGED Antigo
+2009-01-01,K,Atividades financeiras,-1218,9932,CAGED Antigo
+2009-01-01,L,Atividades imobiliárias,984,3516,CAGED Antigo
+2009-01-01,M,Atividades profissionais e científicas,6293,35153,CAGED Antigo
+2009-01-01,N,Atividades administrativas e serviços,-3435,161158,CAGED Antigo
+2009-01-01,O,Administração pública,2238,11534,CAGED Antigo
+2009-01-01,P,Educação,-5826,20261,CAGED Antigo
+2009-01-01,Q,Saúde humana e serviço social,6239,34272,CAGED Antigo
+2009-01-01,R,"Artes, cultura e esporte",1261,7180,CAGED Antigo
+2009-01-01,S,Outros serviços,2333,31036,CAGED Antigo
+2009-01-01,T,Serviços domésticos,70,565,CAGED Antigo
+2009-01-01,U,Organismos internacionais,63,157,CAGED Antigo
+2009-02-01,A,Agropecuária,660,89947,CAGED Antigo
+2009-02-01,B,Indústria extrativa,-597,3356,CAGED Antigo
+2009-02-01,C,Indústria de transformação,-56680,204138,CAGED Antigo
+2009-02-01,D,Eletricidade e gás,178,896,CAGED Antigo
+2009-02-01,E,"Água, esgoto e resíduos",-1,6646,CAGED Antigo
+2009-02-01,F,Construção,4071,143550,CAGED Antigo
+2009-02-01,G,Comércio e reparação,-8963,282817,CAGED Antigo
+2009-02-01,H,Transporte e armazenagem,1004,54993,CAGED Antigo
+2009-02-01,I,Alojamento e alimentação,660,66126,CAGED Antigo
+2009-02-01,J,Informação e comunicação,2547,22790,CAGED Antigo
+2009-02-01,K,Atividades financeiras,24,9703,CAGED Antigo
+2009-02-01,L,Atividades imobiliárias,764,3280,CAGED Antigo
+2009-02-01,M,Atividades profissionais e científicas,2810,29736,CAGED Antigo
+2009-02-01,N,Atividades administrativas e serviços,-4312,150657,CAGED Antigo
+2009-02-01,O,Administração pública,14476,20418,CAGED Antigo
+2009-02-01,P,Educação,35975,65193,CAGED Antigo
+2009-02-01,Q,Saúde humana e serviço social,6659,36211,CAGED Antigo
+2009-02-01,R,"Artes, cultura e esporte",1108,6526,CAGED Antigo
+2009-02-01,S,Outros serviços,8635,35920,CAGED Antigo
+2009-02-01,T,Serviços domésticos,92,499,CAGED Antigo
+2009-02-01,U,Organismos internacionais,69,152,CAGED Antigo
+2009-03-01,A,Agropecuária,7186,116238,CAGED Antigo
+2009-03-01,B,Indústria extrativa,96,3747,CAGED Antigo
+2009-03-01,C,Indústria de transformação,-35035,263270,CAGED Antigo
+2009-03-01,D,Eletricidade e gás,172,1039,CAGED Antigo
+2009-03-01,E,"Água, esgoto e resíduos",-3,7020,CAGED Antigo
+2009-03-01,F,Construção,17168,173776,CAGED Antigo
+2009-03-01,G,Comércio e reparação,-9379,322279,CAGED Antigo
+2009-03-01,H,Transporte e armazenagem,6661,65555,CAGED Antigo
+2009-03-01,I,Alojamento e alimentação,-4980,70432,CAGED Antigo
+2009-03-01,J,Informação e comunicação,444,23647,CAGED Antigo
+2009-03-01,K,Atividades financeiras,-402,10773,CAGED Antigo
+2009-03-01,L,Atividades imobiliárias,94,3195,CAGED Antigo
+2009-03-01,M,Atividades profissionais e científicas,5185,35287,CAGED Antigo
+2009-03-01,N,Atividades administrativas e serviços,12549,178131,CAGED Antigo
+2009-03-01,O,Administração pública,7128,14088,CAGED Antigo
+2009-03-01,P,Educação,19169,47481,CAGED Antigo
+2009-03-01,Q,Saúde humana e serviço social,5446,39765,CAGED Antigo
+2009-03-01,R,"Artes, cultura e esporte",24,6969,CAGED Antigo
+2009-03-01,S,Outros serviços,3105,36018,CAGED Antigo
+2009-03-01,T,Serviços domésticos,9,536,CAGED Antigo
+2009-03-01,U,Organismos internacionais,179,262,CAGED Antigo
+2009-04-01,A,Agropecuária,22116,118957,CAGED Antigo
+2009-04-01,B,Indústria extrativa,-447,3812,CAGED Antigo
+2009-04-01,C,Indústria de transformação,290,263488,CAGED Antigo
+2009-04-01,D,Eletricidade e gás,105,1062,CAGED Antigo
+2009-04-01,E,"Água, esgoto e resíduos",319,6920,CAGED Antigo
+2009-04-01,F,Construção,15326,158531,CAGED Antigo
+2009-04-01,G,Comércio e reparação,6476,306135,CAGED Antigo
+2009-04-01,H,Transporte e armazenagem,12496,66141,CAGED Antigo
+2009-04-01,I,Alojamento e alimentação,182,66368,CAGED Antigo
+2009-04-01,J,Informação e comunicação,516,23031,CAGED Antigo
+2009-04-01,K,Atividades financeiras,-89,10137,CAGED Antigo
+2009-04-01,L,Atividades imobiliárias,745,3393,CAGED Antigo
+2009-04-01,M,Atividades profissionais e científicas,5264,34433,CAGED Antigo
+2009-04-01,N,Atividades administrativas e serviços,9666,163205,CAGED Antigo
+2009-04-01,O,Administração pública,4998,10141,CAGED Antigo
+2009-04-01,P,Educação,10090,31498,CAGED Antigo
+2009-04-01,Q,Saúde humana e serviço social,9777,39671,CAGED Antigo
+2009-04-01,R,"Artes, cultura e esporte",441,6349,CAGED Antigo
+2009-04-01,S,Outros serviços,7504,36204,CAGED Antigo
+2009-04-01,T,Serviços domésticos,55,513,CAGED Antigo
+2009-04-01,U,Organismos internacionais,366,447,CAGED Antigo
+2009-05-01,A,Agropecuária,52844,141896,CAGED Antigo
+2009-05-01,B,Indústria extrativa,199,4034,CAGED Antigo
+2009-05-01,C,Indústria de transformação,87,231439,CAGED Antigo
+2009-05-01,D,Eletricidade e gás,320,1174,CAGED Antigo
+2009-05-01,E,"Água, esgoto e resíduos",-60,6138,CAGED Antigo
+2009-05-01,F,Construção,18253,167594,CAGED Antigo
+2009-05-01,G,Comércio e reparação,15653,311442,CAGED Antigo
+2009-05-01,H,Transporte e armazenagem,4585,64438,CAGED Antigo
+2009-05-01,I,Alojamento e alimentação,287,67395,CAGED Antigo
+2009-05-01,J,Informação e comunicação,1966,23239,CAGED Antigo
+2009-05-01,K,Atividades financeiras,1045,10669,CAGED Antigo
+2009-05-01,L,Atividades imobiliárias,626,3400,CAGED Antigo
+2009-05-01,M,Atividades profissionais e científicas,4519,34064,CAGED Antigo
+2009-05-01,N,Atividades administrativas e serviços,6063,166597,CAGED Antigo
+2009-05-01,O,Administração pública,1474,8292,CAGED Antigo
+2009-05-01,P,Educação,8025,28206,CAGED Antigo
+2009-05-01,Q,Saúde humana e serviço social,8040,37267,CAGED Antigo
+2009-05-01,R,"Artes, cultura e esporte",216,6150,CAGED Antigo
+2009-05-01,S,Outros serviços,7288,34416,CAGED Antigo
+2009-05-01,T,Serviços domésticos,50,497,CAGED Antigo
+2009-05-01,U,Organismos internacionais,78,227,CAGED Antigo
+2009-07-01,A,Agropecuária,29070,134751,CAGED Antigo
+2009-07-01,B,Indústria extrativa,372,4285,CAGED Antigo
+2009-07-01,C,Indústria de transformação,16377,244695,CAGED Antigo
+2009-07-01,D,Eletricidade e gás,-24,1062,CAGED Antigo
+2009-07-01,E,"Água, esgoto e resíduos",2723,8402,CAGED Antigo
+2009-07-01,F,Construção,34121,187043,CAGED Antigo
+2009-07-01,G,Comércio e reparação,29055,330667,CAGED Antigo
+2009-07-01,H,Transporte e armazenagem,6446,65414,CAGED Antigo
+2009-07-01,I,Alojamento e alimentação,641,68220,CAGED Antigo
+2009-07-01,J,Informação e comunicação,-400,25121,CAGED Antigo
+2009-07-01,K,Atividades financeiras,1139,11077,CAGED Antigo
+2009-07-01,L,Atividades imobiliárias,666,3573,CAGED Antigo
+2009-07-01,M,Atividades profissionais e científicas,6361,36867,CAGED Antigo
+2009-07-01,N,Atividades administrativas e serviços,9612,167918,CAGED Antigo
+2009-07-01,O,Administração pública,1768,8750,CAGED Antigo
+2009-07-01,P,Educação,-10269,20988,CAGED Antigo
+2009-07-01,Q,Saúde humana e serviço social,8475,39600,CAGED Antigo
+2009-07-01,R,"Artes, cultura e esporte",779,6655,CAGED Antigo
+2009-07-01,S,Outros serviços,1391,32311,CAGED Antigo
+2009-07-01,T,Serviços domésticos,24,535,CAGED Antigo
+2009-07-01,U,Organismos internacionais,76,247,CAGED Antigo
+2009-09-01,A,Agropecuária,-17237,95172,CAGED Antigo
+2009-09-01,B,Indústria extrativa,1195,4679,CAGED Antigo
+2009-09-01,C,Indústria de transformação,120565,329417,CAGED Antigo
+2009-09-01,D,Eletricidade e gás,412,1223,CAGED Antigo
+2009-09-01,E,"Água, esgoto e resíduos",-2140,5794,CAGED Antigo
+2009-09-01,F,Construção,34042,189132,CAGED Antigo
+2009-09-01,G,Comércio e reparação,51906,350620,CAGED Antigo
+2009-09-01,H,Transporte e armazenagem,10840,68483,CAGED Antigo
+2009-09-01,I,Alojamento e alimentação,7088,74361,CAGED Antigo
+2009-09-01,J,Informação e comunicação,5562,28495,CAGED Antigo
+2009-09-01,K,Atividades financeiras,1427,11600,CAGED Antigo
+2009-09-01,L,Atividades imobiliárias,412,3570,CAGED Antigo
+2009-09-01,M,Atividades profissionais e científicas,3523,36511,CAGED Antigo
+2009-09-01,N,Atividades administrativas e serviços,16779,179750,CAGED Antigo
+2009-09-01,O,Administração pública,1507,6809,CAGED Antigo
+2009-09-01,P,Educação,6569,28417,CAGED Antigo
+2009-09-01,Q,Saúde humana e serviço social,6480,38474,CAGED Antigo
+2009-09-01,R,"Artes, cultura e esporte",880,6633,CAGED Antigo
+2009-09-01,S,Outros serviços,2783,31773,CAGED Antigo
+2009-09-01,T,Serviços domésticos,38,511,CAGED Antigo
+2009-09-01,U,Organismos internacionais,-9,156,CAGED Antigo
+2009-12-01,A,Agropecuária,-116931,47782,CAGED Antigo
+2009-12-01,B,Indústria extrativa,-269,3431,CAGED Antigo
+2009-12-01,C,Indústria de transformação,-162226,155592,CAGED Antigo
+2009-12-01,D,Eletricidade e gás,-310,930,CAGED Antigo
+2009-12-01,E,"Água, esgoto e resíduos",-817,5339,CAGED Antigo
+2009-12-01,F,Construção,-52297,116350,CAGED Antigo
+2009-12-01,G,Comércio e reparação,8974,321482,CAGED Antigo
+2009-12-01,H,Transporte e armazenagem,-7834,57616,CAGED Antigo
+2009-12-01,I,Alojamento e alimentação,1811,67804,CAGED Antigo
+2009-12-01,J,Informação e comunicação,426,19818,CAGED Antigo
+2009-12-01,K,Atividades financeiras,446,10226,CAGED Antigo
+2009-12-01,L,Atividades imobiliárias,-215,2545,CAGED Antigo
+2009-12-01,M,Atividades profissionais e científicas,-3151,27220,CAGED Antigo
+2009-12-01,N,Atividades administrativas e serviços,228,161920,CAGED Antigo
+2009-12-01,O,Administração pública,-22267,3109,CAGED Antigo
+2009-12-01,P,Educação,-44044,9492,CAGED Antigo
+2009-12-01,Q,Saúde humana e serviço social,-2266,29303,CAGED Antigo
+2009-12-01,R,"Artes, cultura e esporte",-1046,5569,CAGED Antigo
+2009-12-01,S,Outros serviços,-13187,22433,CAGED Antigo
+2009-12-01,T,Serviços domésticos,-182,343,CAGED Antigo
+2009-12-01,U,Organismos internacionais,-35,177,CAGED Antigo
+2010-01-01,A,Agropecuária,4286,91807,CAGED Antigo
+2010-01-01,B,Indústria extrativa,1351,4280,CAGED Antigo
+2010-01-01,C,Indústria de transformação,66028,277744,CAGED Antigo
+2010-01-01,D,Eletricidade e gás,486,1395,CAGED Antigo
+2010-01-01,E,"Água, esgoto e resíduos",2180,8169,CAGED Antigo
+2010-01-01,F,Construção,57608,198405,CAGED Antigo
+2010-01-01,G,Comércio e reparação,-4828,326320,CAGED Antigo
+2010-01-01,H,Transporte e armazenagem,2772,63257,CAGED Antigo
+2010-01-01,I,Alojamento e alimentação,6276,77583,CAGED Antigo
+2010-01-01,J,Informação e comunicação,5365,25729,CAGED Antigo
+2010-01-01,K,Atividades financeiras,3080,12366,CAGED Antigo
+2010-01-01,L,Atividades imobiliárias,1273,4029,CAGED Antigo
+2010-01-01,M,Atividades profissionais e científicas,12135,40733,CAGED Antigo
+2010-01-01,N,Atividades administrativas e serviços,18292,176768,CAGED Antigo
+2010-01-01,O,Administração pública,-881,5206,CAGED Antigo
+2010-01-01,P,Educação,-3541,21321,CAGED Antigo
+2010-01-01,Q,Saúde humana e serviço social,5518,36207,CAGED Antigo
+2010-01-01,R,"Artes, cultura e esporte",1387,7071,CAGED Antigo
+2010-01-01,S,Outros serviços,2582,31476,CAGED Antigo
+2010-01-01,T,Serviços domésticos,58,512,CAGED Antigo
+2010-01-01,U,Organismos internacionais,-8,84,CAGED Antigo
+2010-02-01,A,Agropecuária,3756,98111,CAGED Antigo
+2010-02-01,B,Indústria extrativa,1669,4931,CAGED Antigo
+2010-02-01,C,Indústria de transformação,58807,305313,CAGED Antigo
+2010-02-01,D,Eletricidade e gás,558,1401,CAGED Antigo
+2010-02-01,E,"Água, esgoto e resíduos",1660,7954,CAGED Antigo
+2010-02-01,F,Construção,37091,196740,CAGED Antigo
+2010-02-01,G,Comércio e reparação,12388,334409,CAGED Antigo
+2010-02-01,H,Transporte e armazenagem,10690,70964,CAGED Antigo
+2010-02-01,I,Alojamento e alimentação,1396,75864,CAGED Antigo
+2010-02-01,J,Informação e comunicação,4087,27739,CAGED Antigo
+2010-02-01,K,Atividades financeiras,2781,12379,CAGED Antigo
+2010-02-01,L,Atividades imobiliárias,448,3784,CAGED Antigo
+2010-02-01,M,Atividades profissionais e científicas,6447,37235,CAGED Antigo
+2010-02-01,N,Atividades administrativas e serviços,12457,180211,CAGED Antigo
+2010-02-01,O,Administração pública,8139,19621,CAGED Antigo
+2010-02-01,P,Educação,32625,63787,CAGED Antigo
+2010-02-01,Q,Saúde humana e serviço social,6018,38229,CAGED Antigo
+2010-02-01,R,"Artes, cultura e esporte",153,6734,CAGED Antigo
+2010-02-01,S,Outros serviços,8224,40250,CAGED Antigo
+2010-02-01,T,Serviços domésticos,20,537,CAGED Antigo
+2010-02-01,U,Organismos internacionais,11,128,CAGED Antigo
+2010-03-01,A,Agropecuária,10119,115910,CAGED Antigo
+2010-03-01,B,Indústria extrativa,1640,5970,CAGED Antigo
+2010-03-01,C,Indústria de transformação,69692,383575,CAGED Antigo
+2010-03-01,D,Eletricidade e gás,173,1380,CAGED Antigo
+2010-03-01,E,"Água, esgoto e resíduos",1753,9324,CAGED Antigo
+2010-03-01,F,Construção,40912,236211,CAGED Antigo
+2010-03-01,G,Comércio e reparação,31491,408332,CAGED Antigo
+2010-03-01,H,Transporte e armazenagem,19606,91613,CAGED Antigo
+2010-03-01,I,Alojamento e alimentação,2993,88327,CAGED Antigo
+2010-03-01,J,Informação e comunicação,4418,30332,CAGED Antigo
+2010-03-01,K,Atividades financeiras,3127,15574,CAGED Antigo
+2010-03-01,L,Atividades imobiliárias,1001,5127,CAGED Antigo
+2010-03-01,M,Atividades profissionais e científicas,9085,45987,CAGED Antigo
+2010-03-01,N,Atividades administrativas e serviços,34346,221738,CAGED Antigo
+2010-03-01,O,Administração pública,6157,13604,CAGED Antigo
+2010-03-01,P,Educação,17556,50730,CAGED Antigo
+2010-03-01,Q,Saúde humana e serviço social,6161,44939,CAGED Antigo
+2010-03-01,R,"Artes, cultura e esporte",-145,7381,CAGED Antigo
+2010-03-01,S,Outros serviços,6238,43158,CAGED Antigo
+2010-03-01,T,Serviços domésticos,-9,608,CAGED Antigo
+2010-03-01,U,Organismos internacionais,101,225,CAGED Antigo
+2010-04-01,A,Agropecuária,38574,125651,CAGED Antigo
+2010-04-01,B,Indústria extrativa,1507,5776,CAGED Antigo
+2010-04-01,C,Indústria de transformação,79713,341466,CAGED Antigo
+2010-04-01,D,Eletricidade e gás,415,1227,CAGED Antigo
+2010-04-01,E,"Água, esgoto e resíduos",1615,7774,CAGED Antigo
+2010-04-01,F,Construção,41516,216219,CAGED Antigo
+2010-04-01,G,Comércio e reparação,42163,374296,CAGED Antigo
+2010-04-01,H,Transporte e armazenagem,24188,84595,CAGED Antigo
+2010-04-01,I,Alojamento e alimentação,6008,81685,CAGED Antigo
+2010-04-01,J,Informação e comunicação,2792,27514,CAGED Antigo
+2010-04-01,K,Atividades financeiras,3868,15726,CAGED Antigo
+2010-04-01,L,Atividades imobiliárias,1233,4700,CAGED Antigo
+2010-04-01,M,Atividades profissionais e científicas,9361,42513,CAGED Antigo
+2010-04-01,N,Atividades administrativas e serviços,16234,192408,CAGED Antigo
+2010-04-01,O,Administração pública,4229,10384,CAGED Antigo
+2010-04-01,P,Educação,11501,36417,CAGED Antigo
+2010-04-01,Q,Saúde humana e serviço social,11024,44585,CAGED Antigo
+2010-04-01,R,"Artes, cultura e esporte",131,7209,CAGED Antigo
+2010-04-01,S,Outros serviços,8814,39166,CAGED Antigo
+2010-04-01,T,Serviços domésticos,45,554,CAGED Antigo
+2010-04-01,U,Organismos internacionais,137,210,CAGED Antigo
+2010-08-01,A,Agropecuária,-11582,96795,CAGED Antigo
+2010-08-01,B,Indústria extrativa,1821,5709,CAGED Antigo
+2010-08-01,C,Indústria de transformação,66045,332261,CAGED Antigo
+2010-08-01,D,Eletricidade e gás,1132,2165,CAGED Antigo
+2010-08-01,E,"Água, esgoto e resíduos",1738,8204,CAGED Antigo
+2010-08-01,F,Construção,43823,248010,CAGED Antigo
+2010-08-01,G,Comércio e reparação,68215,402977,CAGED Antigo
+2010-08-01,H,Transporte e armazenagem,16470,84614,CAGED Antigo
+2010-08-01,I,Alojamento e alimentação,9115,87080,CAGED Antigo
+2010-08-01,J,Informação e comunicação,16024,41142,CAGED Antigo
+2010-08-01,K,Atividades financeiras,5405,17359,CAGED Antigo
+2010-08-01,L,Atividades imobiliárias,1260,4965,CAGED Antigo
+2010-08-01,M,Atividades profissionais e científicas,9211,46579,CAGED Antigo
+2010-08-01,N,Atividades administrativas e serviços,25173,205882,CAGED Antigo
+2010-08-01,O,Administração pública,2410,8125,CAGED Antigo
+2010-08-01,P,Educação,22895,53612,CAGED Antigo
+2010-08-01,Q,Saúde humana e serviço social,10756,46040,CAGED Antigo
+2010-08-01,R,"Artes, cultura e esporte",1461,7723,CAGED Antigo
+2010-08-01,S,Outros serviços,7904,40484,CAGED Antigo
+2010-08-01,T,Serviços domésticos,56,693,CAGED Antigo
+2010-08-01,U,Organismos internacionais,83,240,CAGED Antigo
+2010-09-01,A,Agropecuária,-23058,88663,CAGED Antigo
+2010-09-01,B,Indústria extrativa,2329,6240,CAGED Antigo
+2010-09-01,C,Indústria de transformação,92174,347702,CAGED Antigo
+2010-09-01,D,Eletricidade e gás,107,1265,CAGED Antigo
+2010-09-01,E,"Água, esgoto e resíduos",967,7571,CAGED Antigo
+2010-09-01,F,Construção,23940,231476,CAGED Antigo
+2010-09-01,G,Comércio e reparação,57483,404475,CAGED Antigo
+2010-09-01,H,Transporte e armazenagem,14437,83261,CAGED Antigo
+2010-09-01,I,Alojamento e alimentação,8309,86993,CAGED Antigo
+2010-09-01,J,Informação e comunicação,8449,33578,CAGED Antigo
+2010-09-01,K,Atividades financeiras,5684,16901,CAGED Antigo
+2010-09-01,L,Atividades imobiliárias,945,4782,CAGED Antigo
+2010-09-01,M,Atividades profissionais e científicas,6728,42935,CAGED Antigo
+2010-09-01,N,Atividades administrativas e serviços,24512,207698,CAGED Antigo
+2010-09-01,O,Administração pública,1693,6121,CAGED Antigo
+2010-09-01,P,Educação,8521,32815,CAGED Antigo
+2010-09-01,Q,Saúde humana e serviço social,6850,41615,CAGED Antigo
+2010-09-01,R,"Artes, cultura e esporte",919,7211,CAGED Antigo
+2010-09-01,S,Outros serviços,5802,36437,CAGED Antigo
+2010-09-01,T,Serviços domésticos,60,646,CAGED Antigo
+2010-09-01,U,Organismos internacionais,24,200,CAGED Antigo
+2010-11-01,A,Agropecuária,-57706,78333,CAGED Antigo
+2010-11-01,B,Indústria extrativa,1437,5189,CAGED Antigo
+2010-11-01,C,Indústria de transformação,-10760,256470,CAGED Antigo
+2010-11-01,D,Eletricidade e gás,147,1129,CAGED Antigo
+2010-11-01,E,"Água, esgoto e resíduos",1058,7012,CAGED Antigo
+2010-11-01,F,Construção,-5072,205302,CAGED Antigo
+2010-11-01,G,Comércio e reparação,133227,457277,CAGED Antigo
+2010-11-01,H,Transporte e armazenagem,7442,79734,CAGED Antigo
+2010-11-01,I,Alojamento e alimentação,15955,91657,CAGED Antigo
+2010-11-01,J,Informação e comunicação,5905,28300,CAGED Antigo
+2010-11-01,K,Atividades financeiras,5088,15131,CAGED Antigo
+2010-11-01,L,Atividades imobiliárias,895,4497,CAGED Antigo
+2010-11-01,M,Atividades profissionais e científicas,7952,41142,CAGED Antigo
+2010-11-01,N,Atividades administrativas e serviços,24181,203161,CAGED Antigo
+2010-11-01,O,Administração pública,135,4305,CAGED Antigo
+2010-11-01,P,Educação,-133,20958,CAGED Antigo
+2010-11-01,Q,Saúde humana e serviço social,6444,38106,CAGED Antigo
+2010-11-01,R,"Artes, cultura e esporte",339,6538,CAGED Antigo
+2010-11-01,S,Outros serviços,1737,31981,CAGED Antigo
+2010-11-01,T,Serviços domésticos,-56,537,CAGED Antigo
+2010-11-01,U,Organismos internacionais,32,113,CAGED Antigo
+2011-01-01,A,Agropecuária,8128,94992,CAGED Antigo
+2011-01-01,B,Indústria extrativa,1907,5527,CAGED Antigo
+2011-01-01,C,Indústria de transformação,52254,310310,CAGED Antigo
+2011-01-01,D,Eletricidade e gás,316,1612,CAGED Antigo
+2011-01-01,E,"Água, esgoto e resíduos",1128,9291,CAGED Antigo
+2011-01-01,F,Construção,37592,231992,CAGED Antigo
+2011-01-01,G,Comércio e reparação,-16278,385571,CAGED Antigo
+2011-01-01,H,Transporte e armazenagem,7512,80303,CAGED Antigo
+2011-01-01,I,Alojamento e alimentação,4983,92299,CAGED Antigo
+2011-01-01,J,Informação e comunicação,6454,30238,CAGED Antigo
+2011-01-01,K,Atividades financeiras,5340,16314,CAGED Antigo
+2011-01-01,L,Atividades imobiliárias,973,4847,CAGED Antigo
+2011-01-01,M,Atividades profissionais e científicas,11743,47633,CAGED Antigo
+2011-01-01,N,Atividades administrativas e serviços,20453,218630,CAGED Antigo
+2011-01-01,O,Administração pública,-1122,7831,CAGED Antigo
+2011-01-01,P,Educação,-3670,26156,CAGED Antigo
+2011-01-01,Q,Saúde humana e serviço social,9217,43722,CAGED Antigo
+2011-01-01,R,"Artes, cultura e esporte",1670,8354,CAGED Antigo
+2011-01-01,S,Outros serviços,3370,35016,CAGED Antigo
+2011-01-01,T,Serviços domésticos,112,662,CAGED Antigo
+2011-01-01,U,Organismos internacionais,45,136,CAGED Antigo
+2011-02-01,A,Agropecuária,20650,100200,CAGED Antigo
+2011-02-01,B,Indústria extrativa,1942,5996,CAGED Antigo
+2011-02-01,C,Indústria de transformação,55721,340418,CAGED Antigo
+2011-02-01,D,Eletricidade e gás,71,1460,CAGED Antigo
+2011-02-01,E,"Água, esgoto e resíduos",961,8318,CAGED Antigo
+2011-02-01,F,Construção,35399,231291,CAGED Antigo
+2011-02-01,G,Comércio e reparação,19212,402260,CAGED Antigo
+2011-02-01,H,Transporte e armazenagem,15565,90036,CAGED Antigo
+2011-02-01,I,Alojamento e alimentação,9107,95717,CAGED Antigo
+2011-02-01,J,Informação e comunicação,3962,30107,CAGED Antigo
+2011-02-01,K,Atividades financeiras,3858,15987,CAGED Antigo
+2011-02-01,L,Atividades imobiliárias,607,4749,CAGED Antigo
+2011-02-01,M,Atividades profissionais e científicas,7563,45672,CAGED Antigo
+2011-02-01,N,Atividades administrativas e serviços,31453,226636,CAGED Antigo
+2011-02-01,O,Administração pública,15056,21964,CAGED Antigo
+2011-02-01,P,Educação,39835,75546,CAGED Antigo
+2011-02-01,Q,Saúde humana e serviço social,8350,47850,CAGED Antigo
+2011-02-01,R,"Artes, cultura e esporte",966,7913,CAGED Antigo
+2011-02-01,S,Outros serviços,10479,44381,CAGED Antigo
+2011-02-01,T,Serviços domésticos,-49,574,CAGED Antigo
+2011-02-01,U,Organismos internacionais,91,142,CAGED Antigo
+2011-04-01,A,Agropecuária,27854,114124,CAGED Antigo
+2011-04-01,B,Indústria extrativa,2334,6177,CAGED Antigo
+2011-04-01,C,Indústria de transformação,48540,348432,CAGED Antigo
+2011-04-01,D,Eletricidade e gás,291,1351,CAGED Antigo
+2011-04-01,E,"Água, esgoto e resíduos",1718,9316,CAGED Antigo
+2011-04-01,F,Construção,33900,227572,CAGED Antigo
+2011-04-01,G,Comércio e reparação,43594,408749,CAGED Antigo
+2011-04-01,H,Transporte e armazenagem,29176,100744,CAGED Antigo
+2011-04-01,I,Alojamento e alimentação,7313,91055,CAGED Antigo
+2011-04-01,J,Informação e comunicação,6877,32411,CAGED Antigo
+2011-04-01,K,Atividades financeiras,4124,16421,CAGED Antigo
+2011-04-01,L,Atividades imobiliárias,1358,5065,CAGED Antigo
+2011-04-01,M,Atividades profissionais e científicas,10485,46739,CAGED Antigo
+2011-04-01,N,Atividades administrativas e serviços,21213,220789,CAGED Antigo
+2011-04-01,O,Administração pública,2989,8332,CAGED Antigo
+2011-04-01,P,Educação,13162,39296,CAGED Antigo
+2011-04-01,Q,Saúde humana e serviço social,11356,48435,CAGED Antigo
+2011-04-01,R,"Artes, cultura e esporte",817,7736,CAGED Antigo
+2011-04-01,S,Outros serviços,5048,40901,CAGED Antigo
+2011-04-01,T,Serviços domésticos,25,571,CAGED Antigo
+2011-04-01,U,Organismos internacionais,51,162,CAGED Antigo
+2011-05-01,A,Agropecuária,79471,172622,CAGED Antigo
+2011-05-01,B,Indústria extrativa,1973,6261,CAGED Antigo
+2011-05-01,C,Indústria de transformação,40796,348282,CAGED Antigo
+2011-05-01,D,Eletricidade e gás,230,1325,CAGED Antigo
+2011-05-01,E,"Água, esgoto e resíduos",1403,8881,CAGED Antigo
+2011-05-01,F,Construção,31235,255615,CAGED Antigo
+2011-05-01,G,Comércio e reparação,26449,432172,CAGED Antigo
+2011-05-01,H,Transporte e armazenagem,15115,101805,CAGED Antigo
+2011-05-01,I,Alojamento e alimentação,2569,96473,CAGED Antigo
+2011-05-01,J,Informação e comunicação,4811,32444,CAGED Antigo
+2011-05-01,K,Atividades financeiras,3045,17788,CAGED Antigo
+2011-05-01,L,Atividades imobiliárias,648,5248,CAGED Antigo
+2011-05-01,M,Atividades profissionais e científicas,6937,49655,CAGED Antigo
+2011-05-01,N,Atividades administrativas e serviços,12251,235246,CAGED Antigo
+2011-05-01,O,Administração pública,1624,7840,CAGED Antigo
+2011-05-01,P,Educação,8519,37037,CAGED Antigo
+2011-05-01,Q,Saúde humana e serviço social,7800,50560,CAGED Antigo
+2011-05-01,R,"Artes, cultura e esporte",276,8203,CAGED Antigo
+2011-05-01,S,Outros serviços,6778,44342,CAGED Antigo
+2011-05-01,T,Serviços domésticos,85,690,CAGED Antigo
+2011-05-01,U,Organismos internacionais,52,176,CAGED Antigo
+2011-06-01,A,Agropecuária,75001,165849,CAGED Antigo
+2011-06-01,B,Indústria extrativa,2037,6435,CAGED Antigo
+2011-06-01,C,Indústria de transformação,21531,304559,CAGED Antigo
+2011-06-01,D,Eletricidade e gás,294,1441,CAGED Antigo
+2011-06-01,E,"Água, esgoto e resíduos",99,8029,CAGED Antigo
+2011-06-01,F,Construção,33174,249278,CAGED Antigo
+2011-06-01,G,Comércio e reparação,31943,416358,CAGED Antigo
+2011-06-01,H,Transporte e armazenagem,10879,92540,CAGED Antigo
+2011-06-01,I,Alojamento e alimentação,7181,91128,CAGED Antigo
+2011-06-01,J,Informação e comunicação,3639,30136,CAGED Antigo
+2011-06-01,K,Atividades financeiras,2152,15897,CAGED Antigo
+2011-06-01,L,Atividades imobiliárias,934,5345,CAGED Antigo
+2011-06-01,M,Atividades profissionais e científicas,8006,48765,CAGED Antigo
+2011-06-01,N,Atividades administrativas e serviços,5590,212921,CAGED Antigo
+2011-06-01,O,Administração pública,1387,6369,CAGED Antigo
+2011-06-01,P,Educação,-2937,30152,CAGED Antigo
+2011-06-01,Q,Saúde humana e serviço social,9370,48643,CAGED Antigo
+2011-06-01,R,"Artes, cultura e esporte",608,7648,CAGED Antigo
+2011-06-01,S,Outros serviços,4457,39518,CAGED Antigo
+2011-06-01,T,Serviços domésticos,4,618,CAGED Antigo
+2011-06-01,U,Organismos internacionais,44,188,CAGED Antigo
+2011-07-01,A,Agropecuária,13668,114724,CAGED Antigo
+2011-07-01,B,Indústria extrativa,2320,6702,CAGED Antigo
+2011-07-01,C,Indústria de transformação,22640,299221,CAGED Antigo
+2011-07-01,D,Eletricidade e gás,622,1648,CAGED Antigo
+2011-07-01,E,"Água, esgoto e resíduos",479,7671,CAGED Antigo
+2011-07-01,F,Construção,27533,246819,CAGED Antigo
+2011-07-01,G,Comércio e reparação,30340,403898,CAGED Antigo
+2011-07-01,H,Transporte e armazenagem,9046,84746,CAGED Antigo
+2011-07-01,I,Alojamento e alimentação,3869,89606,CAGED Antigo
+2011-07-01,J,Informação e comunicação,4479,31470,CAGED Antigo
+2011-07-01,K,Atividades financeiras,3156,15970,CAGED Antigo
+2011-07-01,L,Atividades imobiliárias,793,5035,CAGED Antigo
+2011-07-01,M,Atividades profissionais e científicas,9002,50059,CAGED Antigo
+2011-07-01,N,Atividades administrativas e serviços,7957,213996,CAGED Antigo
+2011-07-01,O,Administração pública,-39,6057,CAGED Antigo
+2011-07-01,P,Educação,-8622,25747,CAGED Antigo
+2011-07-01,Q,Saúde humana e serviço social,8562,47361,CAGED Antigo
+2011-07-01,R,"Artes, cultura e esporte",1067,7672,CAGED Antigo
+2011-07-01,S,Outros serviços,3563,37648,CAGED Antigo
+2011-07-01,T,Serviços domésticos,75,630,CAGED Antigo
+2011-07-01,U,Organismos internacionais,53,183,CAGED Antigo
+2011-08-01,A,Agropecuária,-19640,100375,CAGED Antigo
+2011-08-01,B,Indústria extrativa,2414,6765,CAGED Antigo
+2011-08-01,C,Indústria de transformação,35131,332064,CAGED Antigo
+2011-08-01,D,Eletricidade e gás,504,1578,CAGED Antigo
+2011-08-01,E,"Água, esgoto e resíduos",-389,8093,CAGED Antigo
+2011-08-01,F,Construção,34179,257341,CAGED Antigo
+2011-08-01,G,Comércio e reparação,45982,432376,CAGED Antigo
+2011-08-01,H,Transporte e armazenagem,12041,91589,CAGED Antigo
+2011-08-01,I,Alojamento e alimentação,6373,96069,CAGED Antigo
+2011-08-01,J,Informação e comunicação,4824,34103,CAGED Antigo
+2011-08-01,K,Atividades financeiras,4069,17524,CAGED Antigo
+2011-08-01,L,Atividades imobiliárias,708,5215,CAGED Antigo
+2011-08-01,M,Atividades profissionais e científicas,8130,51725,CAGED Antigo
+2011-08-01,N,Atividades administrativas e serviços,15852,230326,CAGED Antigo
+2011-08-01,O,Administração pública,1701,8205,CAGED Antigo
+2011-08-01,P,Educação,22273,56474,CAGED Antigo
+2011-08-01,Q,Saúde humana e serviço social,8029,48030,CAGED Antigo
+2011-08-01,R,"Artes, cultura e esporte",1221,8332,CAGED Antigo
+2011-08-01,S,Outros serviços,6999,43306,CAGED Antigo
+2011-08-01,T,Serviços domésticos,43,683,CAGED Antigo
+2011-08-01,U,Organismos internacionais,2,148,CAGED Antigo
+2011-09-01,A,Agropecuária,-21227,91610,CAGED Antigo
+2011-09-01,B,Indústria extrativa,2119,6324,CAGED Antigo
+2011-09-01,C,Indústria de transformação,64080,335043,CAGED Antigo
+2011-09-01,D,Eletricidade e gás,631,1508,CAGED Antigo
+2011-09-01,E,"Água, esgoto e resíduos",365,7571,CAGED Antigo
+2011-09-01,F,Construção,27111,244745,CAGED Antigo
+2011-09-01,G,Comércio e reparação,43882,424277,CAGED Antigo
+2011-09-01,H,Transporte e armazenagem,12544,88575,CAGED Antigo
+2011-09-01,I,Alojamento e alimentação,9205,93355,CAGED Antigo
+2011-09-01,J,Informação e comunicação,3592,32196,CAGED Antigo
+2011-09-01,K,Atividades financeiras,4124,15769,CAGED Antigo
+2011-09-01,L,Atividades imobiliárias,949,5205,CAGED Antigo
+2011-09-01,M,Atividades profissionais e científicas,9243,52033,CAGED Antigo
+2011-09-01,N,Atividades administrativas e serviços,25208,228707,CAGED Antigo
+2011-09-01,O,Administração pública,1696,7194,CAGED Antigo
+2011-09-01,P,Educação,9639,35351,CAGED Antigo
+2011-09-01,Q,Saúde humana e serviço social,7958,46398,CAGED Antigo
+2011-09-01,R,"Artes, cultura e esporte",1775,8209,CAGED Antigo
+2011-09-01,S,Outros serviços,6053,38158,CAGED Antigo
+2011-09-01,T,Serviços domésticos,59,615,CAGED Antigo
+2011-09-01,U,Organismos internacionais,72,183,CAGED Antigo
+2011-10-01,A,Agropecuária,-30079,85272,CAGED Antigo
+2011-10-01,B,Indústria extrativa,1579,5593,CAGED Antigo
+2011-10-01,C,Indústria de transformação,4759,282084,CAGED Antigo
+2011-10-01,D,Eletricidade e gás,368,1410,CAGED Antigo
+2011-10-01,E,"Água, esgoto e resíduos",-30,7159,CAGED Antigo
+2011-10-01,F,Construção,12614,227055,CAGED Antigo
+2011-10-01,G,Comércio e reparação,62537,428635,CAGED Antigo
+2011-10-01,H,Transporte e armazenagem,13562,89042,CAGED Antigo
+2011-10-01,I,Alojamento e alimentação,5127,90967,CAGED Antigo
+2011-10-01,J,Informação e comunicação,3922,30513,CAGED Antigo
+2011-10-01,K,Atividades financeiras,3768,15170,CAGED Antigo
+2011-10-01,L,Atividades imobiliárias,1202,5316,CAGED Antigo
+2011-10-01,M,Atividades profissionais e científicas,6774,47826,CAGED Antigo
+2011-10-01,N,Atividades administrativas e serviços,24158,226544,CAGED Antigo
+2011-10-01,O,Administração pública,869,5615,CAGED Antigo
+2011-10-01,P,Educação,4445,27457,CAGED Antigo
+2011-10-01,Q,Saúde humana e serviço social,8387,45188,CAGED Antigo
+2011-10-01,R,"Artes, cultura e esporte",243,7272,CAGED Antigo
+2011-10-01,S,Outros serviços,1931,35682,CAGED Antigo
+2011-10-01,T,Serviços domésticos,-54,603,CAGED Antigo
+2011-10-01,U,Organismos internacionais,61,163,CAGED Antigo
+2011-11-01,A,Agropecuária,-42556,79569,CAGED Antigo
+2011-11-01,B,Indústria extrativa,391,4698,CAGED Antigo
+2011-11-01,C,Indústria de transformação,-54341,243926,CAGED Antigo
+2011-11-01,D,Eletricidade e gás,-54,930,CAGED Antigo
+2011-11-01,E,"Água, esgoto e resíduos",-362,7117,CAGED Antigo
+2011-11-01,F,Construção,-20918,210906,CAGED Antigo
+2011-11-01,G,Comércio e reparação,108520,468395,CAGED Antigo
+2011-11-01,H,Transporte e armazenagem,2199,86496,CAGED Antigo
+2011-11-01,I,Alojamento e alimentação,13009,96605,CAGED Antigo
+2011-11-01,J,Informação e comunicação,5396,30121,CAGED Antigo
+2011-11-01,K,Atividades financeiras,2116,14683,CAGED Antigo
+2011-11-01,L,Atividades imobiliárias,503,4764,CAGED Antigo
+2011-11-01,M,Atividades profissionais e científicas,5755,45730,CAGED Antigo
+2011-11-01,N,Atividades administrativas e serviços,16435,214717,CAGED Antigo
+2011-11-01,O,Administração pública,194,4844,CAGED Antigo
+2011-11-01,P,Educação,-1398,22209,CAGED Antigo
+2011-11-01,Q,Saúde humana e serviço social,6670,42231,CAGED Antigo
+2011-11-01,R,"Artes, cultura e esporte",1068,8009,CAGED Antigo
+2011-11-01,S,Outros serviços,301,33807,CAGED Antigo
+2011-11-01,T,Serviços domésticos,-226,534,CAGED Antigo
+2011-11-01,U,Organismos internacionais,33,131,CAGED Antigo
+2011-12-01,A,Agropecuária,-73686,53100,CAGED Antigo
+2011-12-01,B,Indústria extrativa,494,4760,CAGED Antigo
+2011-12-01,C,Indústria de transformação,-141153,165822,CAGED Antigo
+2011-12-01,D,Eletricidade e gás,-568,712,CAGED Antigo
+2011-12-01,E,"Água, esgoto e resíduos",-1153,12091,CAGED Antigo
+2011-12-01,F,Construção,-79682,156664,CAGED Antigo
+2011-12-01,G,Comércio e reparação,-11029,389019,CAGED Antigo
+2011-12-01,H,Transporte e armazenagem,-6425,71153,CAGED Antigo
+2011-12-01,I,Alojamento e alimentação,1570,87297,CAGED Antigo
+2011-12-01,J,Informação e comunicação,-1637,24118,CAGED Antigo
+2011-12-01,K,Atividades financeiras,1075,12407,CAGED Antigo
+2011-12-01,L,Atividades imobiliárias,-88,3938,CAGED Antigo
+2011-12-01,M,Atividades profissionais e científicas,-8692,35357,CAGED Antigo
+2011-12-01,N,Atividades administrativas e serviços,-782,199396,CAGED Antigo
+2011-12-01,O,Administração pública,-17500,4175,CAGED Antigo
+2011-12-01,P,Educação,-50326,12999,CAGED Antigo
+2011-12-01,Q,Saúde humana e serviço social,-1071,39071,CAGED Antigo
+2011-12-01,R,"Artes, cultura e esporte",-1103,6313,CAGED Antigo
+2011-12-01,S,Outros serviços,-16037,26148,CAGED Antigo
+2011-12-01,T,Serviços domésticos,-419,350,CAGED Antigo
+2011-12-01,U,Organismos internacionais,40,161,CAGED Antigo
+2012-01-01,A,Agropecuária,12413,97031,CAGED Antigo
+2012-01-01,B,Indústria extrativa,1581,6029,CAGED Antigo
+2012-01-01,C,Indústria de transformação,35120,302004,CAGED Antigo
+2012-01-01,D,Eletricidade e gás,295,1461,CAGED Antigo
+2012-01-01,E,"Água, esgoto e resíduos",645,8585,CAGED Antigo
+2012-01-01,F,Construção,46874,253233,CAGED Antigo
+2012-01-01,G,Comércio e reparação,-35128,398599,CAGED Antigo
+2012-01-01,H,Transporte e armazenagem,3460,85040,CAGED Antigo
+2012-01-01,I,Alojamento e alimentação,6363,100506,CAGED Antigo
+2012-01-01,J,Informação e comunicação,3762,30836,CAGED Antigo
+2012-01-01,K,Atividades financeiras,1497,14301,CAGED Antigo
+2012-01-01,L,Atividades imobiliárias,1180,5525,CAGED Antigo
+2012-01-01,M,Atividades profissionais e científicas,10706,52195,CAGED Antigo
+2012-01-01,N,Atividades administrativas e serviços,20512,225136,CAGED Antigo
+2012-01-01,O,Administração pública,-398,7492,CAGED Antigo
+2012-01-01,P,Educação,-2979,30621,CAGED Antigo
+2012-01-01,Q,Saúde humana e serviço social,8697,46561,CAGED Antigo
+2012-01-01,R,"Artes, cultura e esporte",2344,9766,CAGED Antigo
+2012-01-01,S,Outros serviços,1717,35474,CAGED Antigo
+2012-01-01,T,Serviços domésticos,84,661,CAGED Antigo
+2012-01-01,U,Organismos internacionais,150,434,CAGED Antigo
+2012-02-01,A,Agropecuária,-561,95988,CAGED Antigo
+2012-02-01,B,Indústria extrativa,1596,5906,CAGED Antigo
+2012-02-01,C,Indústria de transformação,18296,306752,CAGED Antigo
+2012-02-01,D,Eletricidade e gás,-136,1509,CAGED Antigo
+2012-02-01,E,"Água, esgoto e resíduos",1178,8312,CAGED Antigo
+2012-02-01,F,Construção,30241,240522,CAGED Antigo
+2012-02-01,G,Comércio e reparação,-5912,388123,CAGED Antigo
+2012-02-01,H,Transporte e armazenagem,8475,86489,CAGED Antigo
+2012-02-01,I,Alojamento e alimentação,-1322,94270,CAGED Antigo
+2012-02-01,J,Informação e comunicação,2680,29054,CAGED Antigo
+2012-02-01,K,Atividades financeiras,899,13137,CAGED Antigo
+2012-02-01,L,Atividades imobiliárias,643,5158,CAGED Antigo
+2012-02-01,M,Atividades profissionais e científicas,4503,45075,CAGED Antigo
+2012-02-01,N,Atividades administrativas e serviços,16215,215735,CAGED Antigo
+2012-02-01,O,Administração pública,14653,21380,CAGED Antigo
+2012-02-01,P,Educação,41665,79054,CAGED Antigo
+2012-02-01,Q,Saúde humana e serviço social,9662,49868,CAGED Antigo
+2012-02-01,R,"Artes, cultura e esporte",530,8303,CAGED Antigo
+2012-02-01,S,Outros serviços,7167,44510,CAGED Antigo
+2012-02-01,T,Serviços domésticos,57,620,CAGED Antigo
+2012-02-01,U,Organismos internacionais,71,297,CAGED Antigo
+2012-03-01,A,Agropecuária,-17146,92477,CAGED Antigo
+2012-03-01,B,Indústria extrativa,1804,6888,CAGED Antigo
+2012-03-01,C,Indústria de transformação,-4655,339351,CAGED Antigo
+2012-03-01,D,Eletricidade e gás,469,1663,CAGED Antigo
+2012-03-01,E,"Água, esgoto e resíduos",443,9001,CAGED Antigo
+2012-03-01,F,Construção,38648,266294,CAGED Antigo
+2012-03-01,G,Comércio e reparação,6502,440022,CAGED Antigo
+2012-03-01,H,Transporte e armazenagem,15017,98939,CAGED Antigo
+2012-03-01,I,Alojamento e alimentação,-5112,97868,CAGED Antigo
+2012-03-01,J,Informação e comunicação,524,31973,CAGED Antigo
+2012-03-01,K,Atividades financeiras,1425,15396,CAGED Antigo
+2012-03-01,L,Atividades imobiliárias,1271,6371,CAGED Antigo
+2012-03-01,M,Atividades profissionais e científicas,4136,49671,CAGED Antigo
+2012-03-01,N,Atividades administrativas e serviços,24699,243169,CAGED Antigo
+2012-03-01,O,Administração pública,5780,13362,CAGED Antigo
+2012-03-01,P,Educação,23206,59769,CAGED Antigo
+2012-03-01,Q,Saúde humana e serviço social,8608,54143,CAGED Antigo
+2012-03-01,R,"Artes, cultura e esporte",356,8942,CAGED Antigo
+2012-03-01,S,Outros serviços,5714,44952,CAGED Antigo
+2012-03-01,T,Serviços domésticos,27,621,CAGED Antigo
+2012-03-01,U,Organismos internacionais,30,255,CAGED Antigo
+2012-04-01,A,Agropecuária,21577,110906,CAGED Antigo
+2012-04-01,B,Indústria extrativa,1970,6296,CAGED Antigo
+2012-04-01,C,Indústria de transformação,28758,329958,CAGED Antigo
+2012-04-01,D,Eletricidade e gás,151,1529,CAGED Antigo
+2012-04-01,E,"Água, esgoto e resíduos",1951,9195,CAGED Antigo
+2012-04-01,F,Construção,43422,249791,CAGED Antigo
+2012-04-01,G,Comércio e reparação,34811,414013,CAGED Antigo
+2012-04-01,H,Transporte e armazenagem,20440,98907,CAGED Antigo
+2012-04-01,I,Alojamento e alimentação,2401,92608,CAGED Antigo
+2012-04-01,J,Informação e comunicação,4783,32032,CAGED Antigo
+2012-04-01,K,Atividades financeiras,2273,15844,CAGED Antigo
+2012-04-01,L,Atividades imobiliárias,1331,5762,CAGED Antigo
+2012-04-01,M,Atividades profissionais e científicas,6566,47381,CAGED Antigo
+2012-04-01,N,Atividades administrativas e serviços,9753,229035,CAGED Antigo
+2012-04-01,O,Administração pública,3862,10651,CAGED Antigo
+2012-04-01,P,Educação,12632,41896,CAGED Antigo
+2012-04-01,Q,Saúde humana e serviço social,12171,51919,CAGED Antigo
+2012-04-01,R,"Artes, cultura e esporte",201,7997,CAGED Antigo
+2012-04-01,S,Outros serviços,7952,41626,CAGED Antigo
+2012-04-01,T,Serviços domésticos,-15,518,CAGED Antigo
+2012-04-01,U,Organismos internacionais,-16,237,CAGED Antigo
+2012-07-01,A,Agropecuária,23606,117518,CAGED Antigo
+2012-07-01,B,Indústria extrativa,2237,6843,CAGED Antigo
+2012-07-01,C,Indústria de transformação,24279,302231,CAGED Antigo
+2012-07-01,D,Eletricidade e gás,401,1748,CAGED Antigo
+2012-07-01,E,"Água, esgoto e resíduos",1318,9308,CAGED Antigo
+2012-07-01,F,Construção,26784,258636,CAGED Antigo
+2012-07-01,G,Comércio e reparação,23360,408370,CAGED Antigo
+2012-07-01,H,Transporte e armazenagem,5581,88450,CAGED Antigo
+2012-07-01,I,Alojamento e alimentação,562,91897,CAGED Antigo
+2012-07-01,J,Informação e comunicação,4647,32323,CAGED Antigo
+2012-07-01,K,Atividades financeiras,837,14684,CAGED Antigo
+2012-07-01,L,Atividades imobiliárias,1060,6060,CAGED Antigo
+2012-07-01,M,Atividades profissionais e científicas,5435,49272,CAGED Antigo
+2012-07-01,N,Atividades administrativas e serviços,9710,222682,CAGED Antigo
+2012-07-01,O,Administração pública,3216,10320,CAGED Antigo
+2012-07-01,P,Educação,-6885,29952,CAGED Antigo
+2012-07-01,Q,Saúde humana e serviço social,11429,54169,CAGED Antigo
+2012-07-01,R,"Artes, cultura e esporte",465,8222,CAGED Antigo
+2012-07-01,S,Outros serviços,4441,39759,CAGED Antigo
+2012-07-01,T,Serviços domésticos,6,581,CAGED Antigo
+2012-07-01,U,Organismos internacionais,7,216,CAGED Antigo
+2012-09-01,A,Agropecuária,-19349,84078,CAGED Antigo
+2012-09-01,B,Indústria extrativa,989,5616,CAGED Antigo
+2012-09-01,C,Indústria de transformação,65625,321035,CAGED Antigo
+2012-09-01,D,Eletricidade e gás,-166,1261,CAGED Antigo
+2012-09-01,E,"Água, esgoto e resíduos",908,7836,CAGED Antigo
+2012-09-01,F,Construção,11106,227871,CAGED Antigo
+2012-09-01,G,Comércio e reparação,36979,406414,CAGED Antigo
+2012-09-01,H,Transporte e armazenagem,6113,83430,CAGED Antigo
+2012-09-01,I,Alojamento e alimentação,3271,90192,CAGED Antigo
+2012-09-01,J,Informação e comunicação,4197,32454,CAGED Antigo
+2012-09-01,K,Atividades financeiras,2941,14423,CAGED Antigo
+2012-09-01,L,Atividades imobiliárias,939,5648,CAGED Antigo
+2012-09-01,M,Atividades profissionais e científicas,5538,44877,CAGED Antigo
+2012-09-01,N,Atividades administrativas e serviços,5994,205089,CAGED Antigo
+2012-09-01,O,Administração pública,302,4627,CAGED Antigo
+2012-09-01,P,Educação,10252,36643,CAGED Antigo
+2012-09-01,Q,Saúde humana e serviço social,8087,47899,CAGED Antigo
+2012-09-01,R,"Artes, cultura e esporte",1452,8248,CAGED Antigo
+2012-09-01,S,Outros serviços,5044,36222,CAGED Antigo
+2012-09-01,T,Serviços domésticos,26,540,CAGED Antigo
+2012-09-01,U,Organismos internacionais,86,344,CAGED Antigo
+2012-11-01,A,Agropecuária,-32650,75751,CAGED Antigo
+2012-11-01,B,Indústria extrativa,-92,4660,CAGED Antigo
+2012-11-01,C,Indústria de transformação,-25306,253073,CAGED Antigo
+2012-11-01,D,Eletricidade e gás,-64,1250,CAGED Antigo
+2012-11-01,E,"Água, esgoto e resíduos",-1748,6544,CAGED Antigo
+2012-11-01,F,Construção,-41859,205007,CAGED Antigo
+2012-11-01,G,Comércio e reparação,109807,480033,CAGED Antigo
+2012-11-01,H,Transporte e armazenagem,5130,83794,CAGED Antigo
+2012-11-01,I,Alojamento e alimentação,10302,99766,CAGED Antigo
+2012-11-01,J,Informação e comunicação,1689,28680,CAGED Antigo
+2012-11-01,K,Atividades financeiras,2161,13580,CAGED Antigo
+2012-11-01,L,Atividades imobiliárias,851,5650,CAGED Antigo
+2012-11-01,M,Atividades profissionais e científicas,-108,39658,CAGED Antigo
+2012-11-01,N,Atividades administrativas e serviços,16705,215436,CAGED Antigo
+2012-11-01,O,Administração pública,-2591,2754,CAGED Antigo
+2012-11-01,P,Educação,-1811,22590,CAGED Antigo
+2012-11-01,Q,Saúde humana e serviço social,5782,44535,CAGED Antigo
+2012-11-01,R,"Artes, cultura e esporte",1093,8417,CAGED Antigo
+2012-11-01,S,Outros serviços,-1082,32302,CAGED Antigo
+2012-11-01,T,Serviços domésticos,-100,520,CAGED Antigo
+2012-11-01,U,Organismos internacionais,-14,306,CAGED Antigo
+2012-12-01,A,Agropecuária,-82550,46203,CAGED Antigo
+2012-12-01,B,Indústria extrativa,-1591,3547,CAGED Antigo
+2012-12-01,C,Indústria de transformação,-173128,155775,CAGED Antigo
+2012-12-01,D,Eletricidade e gás,-869,895,CAGED Antigo
+2012-12-01,E,"Água, esgoto e resíduos",-195,6391,CAGED Antigo
+2012-12-01,F,Construção,-95607,128208,CAGED Antigo
+2012-12-01,G,Comércio e reparação,1004,380956,CAGED Antigo
+2012-12-01,H,Transporte e armazenagem,-18609,67645,CAGED Antigo
+2012-12-01,I,Alojamento e alimentação,-1683,84814,CAGED Antigo
+2012-12-01,J,Informação e comunicação,-3167,21939,CAGED Antigo
+2012-12-01,K,Atividades financeiras,-1155,10884,CAGED Antigo
+2012-12-01,L,Atividades imobiliárias,-1269,3904,CAGED Antigo
+2012-12-01,M,Atividades profissionais e científicas,-10147,28732,CAGED Antigo
+2012-12-01,N,Atividades administrativas e serviços,-5272,189347,CAGED Antigo
+2012-12-01,O,Administração pública,-27710,1880,CAGED Antigo
+2012-12-01,P,Educação,-50257,12869,CAGED Antigo
+2012-12-01,Q,Saúde humana e serviço social,-5663,36422,CAGED Antigo
+2012-12-01,R,"Artes, cultura e esporte",-691,6612,CAGED Antigo
+2012-12-01,S,Outros serviços,-18313,23449,CAGED Antigo
+2012-12-01,T,Serviços domésticos,-241,341,CAGED Antigo
+2012-12-01,U,Organismos internacionais,169,403,CAGED Antigo
+2013-02-01,A,Agropecuária,-9955,86657,CAGED Antigo
+2013-02-01,B,Indústria extrativa,371,5240,CAGED Antigo
+2013-02-01,C,Indústria de transformação,30522,325330,CAGED Antigo
+2013-02-01,D,Eletricidade e gás,-7,1528,CAGED Antigo
+2013-02-01,E,"Água, esgoto e resíduos",93,9424,CAGED Antigo
+2013-02-01,F,Construção,17867,233697,CAGED Antigo
+2013-02-01,G,Comércio e reparação,-9396,400929,CAGED Antigo
+2013-02-01,H,Transporte e armazenagem,7888,90842,CAGED Antigo
+2013-02-01,I,Alojamento e alimentação,-1478,100410,CAGED Antigo
+2013-02-01,J,Informação e comunicação,2722,30915,CAGED Antigo
+2013-02-01,K,Atividades financeiras,1597,13592,CAGED Antigo
+2013-02-01,L,Atividades imobiliárias,628,5659,CAGED Antigo
+2013-02-01,M,Atividades profissionais e científicas,-60,43646,CAGED Antigo
+2013-02-01,N,Atividades administrativas e serviços,13582,218396,CAGED Antigo
+2013-02-01,O,Administração pública,12399,19569,CAGED Antigo
+2013-02-01,P,Educação,42469,83139,CAGED Antigo
+2013-02-01,Q,Saúde humana e serviço social,6147,53493,CAGED Antigo
+2013-02-01,R,"Artes, cultura e esporte",197,8716,CAGED Antigo
+2013-02-01,S,Outros serviços,7602,42184,CAGED Antigo
+2013-02-01,T,Serviços domésticos,145,752,CAGED Antigo
+2013-02-01,U,Organismos internacionais,113,293,CAGED Antigo
+2013-03-01,A,Agropecuária,-4589,90837,CAGED Antigo
+2013-03-01,B,Indústria extrativa,815,5611,CAGED Antigo
+2013-03-01,C,Indústria de transformação,23633,345088,CAGED Antigo
+2013-03-01,D,Eletricidade e gás,-98,1437,CAGED Antigo
+2013-03-01,E,"Água, esgoto e resíduos",57,9208,CAGED Antigo
+2013-03-01,F,Construção,22120,248279,CAGED Antigo
+2013-03-01,G,Comércio e reparação,3554,431878,CAGED Antigo
+2013-03-01,H,Transporte e armazenagem,13845,101549,CAGED Antigo
+2013-03-01,I,Alojamento e alimentação,-1537,102290,CAGED Antigo
+2013-03-01,J,Informação e comunicação,1131,32981,CAGED Antigo
+2013-03-01,K,Atividades financeiras,829,14399,CAGED Antigo
+2013-03-01,L,Atividades imobiliárias,1245,6427,CAGED Antigo
+2013-03-01,M,Atividades profissionais e científicas,1260,46942,CAGED Antigo
+2013-03-01,N,Atividades administrativas e serviços,8651,230872,CAGED Antigo
+2013-03-01,O,Administração pública,6535,13166,CAGED Antigo
+2013-03-01,P,Educação,20422,57834,CAGED Antigo
+2013-03-01,Q,Saúde humana e serviço social,9205,59082,CAGED Antigo
+2013-03-01,R,"Artes, cultura e esporte",-372,9088,CAGED Antigo
+2013-03-01,S,Outros serviços,5318,40973,CAGED Antigo
+2013-03-01,T,Serviços domésticos,196,786,CAGED Antigo
+2013-03-01,U,Organismos internacionais,230,421,CAGED Antigo
+2013-04-01,A,Agropecuária,24498,112262,CAGED Antigo
+2013-04-01,B,Indústria extrativa,782,5992,CAGED Antigo
+2013-04-01,C,Indústria de transformação,39636,366169,CAGED Antigo
+2013-04-01,D,Eletricidade e gás,114,1739,CAGED Antigo
+2013-04-01,E,"Água, esgoto e resíduos",2317,10649,CAGED Antigo
+2013-04-01,F,Construção,35270,261421,CAGED Antigo
+2013-04-01,G,Comércio e reparação,17564,448142,CAGED Antigo
+2013-04-01,H,Transporte e armazenagem,22131,109500,CAGED Antigo
+2013-04-01,I,Alojamento e alimentação,3146,106042,CAGED Antigo
+2013-04-01,J,Informação e comunicação,3217,35893,CAGED Antigo
+2013-04-01,K,Atividades financeiras,828,14536,CAGED Antigo
+2013-04-01,L,Atividades imobiliárias,1004,6579,CAGED Antigo
+2013-04-01,M,Atividades profissionais e científicas,4633,48976,CAGED Antigo
+2013-04-01,N,Atividades administrativas e serviços,4715,237288,CAGED Antigo
+2013-04-01,O,Administração pública,3838,10920,CAGED Antigo
+2013-04-01,P,Educação,14198,48170,CAGED Antigo
+2013-04-01,Q,Saúde humana e serviço social,11522,60384,CAGED Antigo
+2013-04-01,R,"Artes, cultura e esporte",599,9321,CAGED Antigo
+2013-04-01,S,Outros serviços,5918,42315,CAGED Antigo
+2013-04-01,T,Serviços domésticos,740,1432,CAGED Antigo
+2013-04-01,U,Organismos internacionais,243,439,CAGED Antigo
+2013-05-01,A,Agropecuária,33604,122669,CAGED Antigo
+2013-05-01,B,Indústria extrativa,-45,5499,CAGED Antigo
+2013-05-01,C,Indústria de transformação,13958,316809,CAGED Antigo
+2013-05-01,D,Eletricidade e gás,-329,1365,CAGED Antigo
+2013-05-01,E,"Água, esgoto e resíduos",602,8760,CAGED Antigo
+2013-05-01,F,Construção,-2804,246487,CAGED Antigo
+2013-05-01,G,Comércio e reparação,106,431501,CAGED Antigo
+2013-05-01,H,Transporte e armazenagem,7871,98808,CAGED Antigo
+2013-05-01,I,Alojamento e alimentação,-1272,102880,CAGED Antigo
+2013-05-01,J,Informação e comunicação,4049,36753,CAGED Antigo
+2013-05-01,K,Atividades financeiras,1200,14780,CAGED Antigo
+2013-05-01,L,Atividades imobiliárias,722,6505,CAGED Antigo
+2013-05-01,M,Atividades profissionais e científicas,1824,47974,CAGED Antigo
+2013-05-01,N,Atividades administrativas e serviços,-2031,230051,CAGED Antigo
+2013-05-01,O,Administração pública,2832,9368,CAGED Antigo
+2013-05-01,P,Educação,6914,40187,CAGED Antigo
+2013-05-01,Q,Saúde humana e serviço social,6101,56373,CAGED Antigo
+2013-05-01,R,"Artes, cultura e esporte",174,9036,CAGED Antigo
+2013-05-01,S,Outros serviços,-2273,39515,CAGED Antigo
+2013-05-01,T,Serviços domésticos,779,1466,CAGED Antigo
+2013-05-01,U,Organismos internacionais,46,336,CAGED Antigo
+2013-06-01,A,Agropecuária,58370,143356,CAGED Antigo
+2013-06-01,B,Indústria extrativa,546,5758,CAGED Antigo
+2013-06-01,C,Indústria de transformação,8238,295056,CAGED Antigo
+2013-06-01,D,Eletricidade e gás,-316,1366,CAGED Antigo
+2013-06-01,E,"Água, esgoto e resíduos",888,9584,CAGED Antigo
+2013-06-01,F,Construção,1769,240467,CAGED Antigo
+2013-06-01,G,Comércio e reparação,9207,417659,CAGED Antigo
+2013-06-01,H,Transporte e armazenagem,9491,94524,CAGED Antigo
+2013-06-01,I,Alojamento e alimentação,5162,97935,CAGED Antigo
+2013-06-01,J,Informação e comunicação,3275,33143,CAGED Antigo
+2013-06-01,K,Atividades financeiras,1577,14553,CAGED Antigo
+2013-06-01,L,Atividades imobiliárias,634,6126,CAGED Antigo
+2013-06-01,M,Atividades profissionais e científicas,2775,46885,CAGED Antigo
+2013-06-01,N,Atividades administrativas e serviços,6236,218638,CAGED Antigo
+2013-06-01,O,Administração pública,1225,7160,CAGED Antigo
+2013-06-01,P,Educação,-1248,33677,CAGED Antigo
+2013-06-01,Q,Saúde humana e serviço social,10864,58560,CAGED Antigo
+2013-06-01,R,"Artes, cultura e esporte",1349,9215,CAGED Antigo
+2013-06-01,S,Outros serviços,3281,37083,CAGED Antigo
+2013-06-01,T,Serviços domésticos,426,1183,CAGED Antigo
+2013-06-01,U,Organismos internacionais,87,266,CAGED Antigo
+2013-07-01,A,Agropecuária,18068,109866,CAGED Antigo
+2013-07-01,B,Indústria extrativa,-312,5477,CAGED Antigo
+2013-07-01,C,Indústria de transformação,7726,310601,CAGED Antigo
+2013-07-01,D,Eletricidade e gás,-888,1152,CAGED Antigo
+2013-07-01,E,"Água, esgoto e resíduos",-600,8444,CAGED Antigo
+2013-07-01,F,Construção,4373,252029,CAGED Antigo
+2013-07-01,G,Comércio e reparação,1774,425521,CAGED Antigo
+2013-07-01,H,Transporte e armazenagem,5155,93381,CAGED Antigo
+2013-07-01,I,Alojamento e alimentação,1016,101497,CAGED Antigo
+2013-07-01,J,Informação e comunicação,2786,33092,CAGED Antigo
+2013-07-01,K,Atividades financeiras,369,14345,CAGED Antigo
+2013-07-01,L,Atividades imobiliárias,415,6331,CAGED Antigo
+2013-07-01,M,Atividades profissionais e científicas,5201,50090,CAGED Antigo
+2013-07-01,N,Atividades administrativas e serviços,-2589,225755,CAGED Antigo
+2013-07-01,O,Administração pública,48,7206,CAGED Antigo
+2013-07-01,P,Educação,-8903,32225,CAGED Antigo
+2013-07-01,Q,Saúde humana e serviço social,8893,58132,CAGED Antigo
+2013-07-01,R,"Artes, cultura e esporte",215,8749,CAGED Antigo
+2013-07-01,S,Outros serviços,-1475,36091,CAGED Antigo
+2013-07-01,T,Serviços domésticos,144,1052,CAGED Antigo
+2013-07-01,U,Organismos internacionais,47,272,CAGED Antigo
+2013-08-01,A,Agropecuária,-12153,89561,CAGED Antigo
+2013-08-01,B,Indústria extrativa,-105,5877,CAGED Antigo
+2013-08-01,C,Indústria de transformação,11342,310952,CAGED Antigo
+2013-08-01,D,Eletricidade e gás,-473,1100,CAGED Antigo
+2013-08-01,E,"Água, esgoto e resíduos",-47,8693,CAGED Antigo
+2013-08-01,F,Construção,12661,259503,CAGED Antigo
+2013-08-01,G,Comércio e reparação,51249,456054,CAGED Antigo
+2013-08-01,H,Transporte e armazenagem,7068,95140,CAGED Antigo
+2013-08-01,I,Alojamento e alimentação,8599,109543,CAGED Antigo
+2013-08-01,J,Informação e comunicação,2845,34326,CAGED Antigo
+2013-08-01,K,Atividades financeiras,-260,14351,CAGED Antigo
+2013-08-01,L,Atividades imobiliárias,450,6370,CAGED Antigo
+2013-08-01,M,Atividades profissionais e científicas,4253,50963,CAGED Antigo
+2013-08-01,N,Atividades administrativas e serviços,2277,225040,CAGED Antigo
+2013-08-01,O,Administração pública,2663,8535,CAGED Antigo
+2013-08-01,P,Educação,22424,60241,CAGED Antigo
+2013-08-01,Q,Saúde humana e serviço social,9644,58304,CAGED Antigo
+2013-08-01,R,"Artes, cultura e esporte",900,9446,CAGED Antigo
+2013-08-01,S,Outros serviços,4078,40547,CAGED Antigo
+2013-08-01,T,Serviços domésticos,237,1104,CAGED Antigo
+2013-08-01,U,Organismos internacionais,-4,265,CAGED Antigo
+2013-09-01,A,Agropecuária,-10491,84215,CAGED Antigo
+2013-09-01,B,Indústria extrativa,463,5452,CAGED Antigo
+2013-09-01,C,Indústria de transformação,62819,331390,CAGED Antigo
+2013-09-01,D,Eletricidade e gás,-376,1166,CAGED Antigo
+2013-09-01,E,"Água, esgoto e resíduos",1344,9672,CAGED Antigo
+2013-09-01,F,Construção,30124,253184,CAGED Antigo
+2013-09-01,G,Comércio e reparação,55115,445448,CAGED Antigo
+2013-09-01,H,Transporte e armazenagem,9492,91726,CAGED Antigo
+2013-09-01,I,Alojamento e alimentação,10545,103190,CAGED Antigo
+2013-09-01,J,Informação e comunicação,1724,32492,CAGED Antigo
+2013-09-01,K,Atividades financeiras,1925,13897,CAGED Antigo
+2013-09-01,L,Atividades imobiliárias,1088,6447,CAGED Antigo
+2013-09-01,M,Atividades profissionais e científicas,6978,49699,CAGED Antigo
+2013-09-01,N,Atividades administrativas e serviços,11825,226987,CAGED Antigo
+2013-09-01,O,Administração pública,2050,7263,CAGED Antigo
+2013-09-01,P,Educação,10122,39947,CAGED Antigo
+2013-09-01,Q,Saúde humana e serviço social,10163,55543,CAGED Antigo
+2013-09-01,R,"Artes, cultura e esporte",1726,10244,CAGED Antigo
+2013-09-01,S,Outros serviços,4109,36159,CAGED Antigo
+2013-09-01,T,Serviços domésticos,205,994,CAGED Antigo
+2013-09-01,U,Organismos internacionais,118,343,CAGED Antigo
+2013-11-01,A,Agropecuária,-33188,69829,CAGED Antigo
+2013-11-01,B,Indústria extrativa,-1443,4258,CAGED Antigo
+2013-11-01,C,Indústria de transformação,-34228,238048,CAGED Antigo
+2013-11-01,D,Eletricidade e gás,-958,1048,CAGED Antigo
+2013-11-01,E,"Água, esgoto e resíduos",1027,7557,CAGED Antigo
+2013-11-01,F,Construção,-32934,205853,CAGED Antigo
+2013-11-01,G,Comércio e reparação,103525,475036,CAGED Antigo
+2013-11-01,H,Transporte e armazenagem,4327,84972,CAGED Antigo
+2013-11-01,I,Alojamento e alimentação,15128,106838,CAGED Antigo
+2013-11-01,J,Informação e comunicação,2812,30357,CAGED Antigo
+2013-11-01,K,Atividades financeiras,468,12353,CAGED Antigo
+2013-11-01,L,Atividades imobiliárias,885,5984,CAGED Antigo
+2013-11-01,M,Atividades profissionais e científicas,4185,43865,CAGED Antigo
+2013-11-01,N,Atividades administrativas e serviços,10464,210172,CAGED Antigo
+2013-11-01,O,Administração pública,-654,4930,CAGED Antigo
+2013-11-01,P,Educação,-1164,25942,CAGED Antigo
+2013-11-01,Q,Saúde humana e serviço social,7881,50668,CAGED Antigo
+2013-11-01,R,"Artes, cultura e esporte",850,8402,CAGED Antigo
+2013-11-01,S,Outros serviços,617,31444,CAGED Antigo
+2013-11-01,T,Serviços domésticos,-124,684,CAGED Antigo
+2013-11-01,U,Organismos internacionais,10,186,CAGED Antigo
+2013-12-01,A,Agropecuária,-71367,39845,CAGED Antigo
+2013-12-01,B,Indústria extrativa,-1775,3294,CAGED Antigo
+2013-12-01,C,Indústria de transformação,-160961,135310,CAGED Antigo
+2013-12-01,D,Eletricidade e gás,-2429,690,CAGED Antigo
+2013-12-01,E,"Água, esgoto e resíduos",367,6483,CAGED Antigo
+2013-12-01,F,Construção,-84839,112381,CAGED Antigo
+2013-12-01,G,Comércio e reparação,-4990,353788,CAGED Antigo
+2013-12-01,H,Transporte e armazenagem,-20056,64442,CAGED Antigo
+2013-12-01,I,Alojamento e alimentação,-1191,74949,CAGED Antigo
+2013-12-01,J,Informação e comunicação,-2146,21793,CAGED Antigo
+2013-12-01,K,Atividades financeiras,-780,9195,CAGED Antigo
+2013-12-01,L,Atividades imobiliárias,-461,3724,CAGED Antigo
+2013-12-01,M,Atividades profissionais e científicas,-7765,28177,CAGED Antigo
+2013-12-01,N,Atividades administrativas e serviços,-8012,158352,CAGED Antigo
+2013-12-01,O,Administração pública,-15063,3876,CAGED Antigo
+2013-12-01,P,Educação,-48346,12717,CAGED Antigo
+2013-12-01,Q,Saúde humana e serviço social,-4700,37263,CAGED Antigo
+2013-12-01,R,"Artes, cultura e esporte",-781,6552,CAGED Antigo
+2013-12-01,S,Outros serviços,-13847,21099,CAGED Antigo
+2013-12-01,T,Serviços domésticos,-308,458,CAGED Antigo
+2013-12-01,U,Organismos internacionais,6,134,CAGED Antigo
+2014-01-01,A,Agropecuária,3448,90542,CAGED Antigo
+2014-01-01,B,Indústria extrativa,392,5442,CAGED Antigo
+2014-01-01,C,Indústria de transformação,37243,311755,CAGED Antigo
+2014-01-01,D,Eletricidade e gás,112,1124,CAGED Antigo
+2014-01-01,E,"Água, esgoto e resíduos",1130,9375,CAGED Antigo
+2014-01-01,F,Construção,39345,258139,CAGED Antigo
+2014-01-01,G,Comércio e reparação,-77351,411465,CAGED Antigo
+2014-01-01,H,Transporte e armazenagem,-3853,88618,CAGED Antigo
+2014-01-01,I,Alojamento e alimentação,-2663,110894,CAGED Antigo
+2014-01-01,J,Informação e comunicação,1762,31526,CAGED Antigo
+2014-01-01,K,Atividades financeiras,-425,12782,CAGED Antigo
+2014-01-01,L,Atividades imobiliárias,1115,6550,CAGED Antigo
+2014-01-01,M,Atividades profissionais e científicas,6686,52358,CAGED Antigo
+2014-01-01,N,Atividades administrativas e serviços,6979,233685,CAGED Antigo
+2014-01-01,O,Administração pública,1166,7820,CAGED Antigo
+2014-01-01,P,Educação,4131,42860,CAGED Antigo
+2014-01-01,Q,Saúde humana e serviço social,7622,55212,CAGED Antigo
+2014-01-01,R,"Artes, cultura e esporte",1636,10473,CAGED Antigo
+2014-01-01,S,Outros serviços,1115,36277,CAGED Antigo
+2014-01-01,T,Serviços domésticos,10,932,CAGED Antigo
+2014-01-01,U,Organismos internacionais,-5,248,CAGED Antigo
+2014-02-01,A,Agropecuária,5795,88639,CAGED Antigo
+2014-02-01,B,Indústria extrativa,707,5757,CAGED Antigo
+2014-02-01,C,Indústria de transformação,48292,350196,CAGED Antigo
+2014-02-01,D,Eletricidade e gás,-78,1368,CAGED Antigo
+2014-02-01,E,"Água, esgoto e resíduos",1953,10879,CAGED Antigo
+2014-02-01,F,Construção,27617,265079,CAGED Antigo
+2014-02-01,G,Comércio e reparação,20994,456082,CAGED Antigo
+2014-02-01,H,Transporte e armazenagem,12880,104466,CAGED Antigo
+2014-02-01,I,Alojamento e alimentação,10856,116654,CAGED Antigo
+2014-02-01,J,Informação e comunicação,4396,34745,CAGED Antigo
+2014-02-01,K,Atividades financeiras,1676,14790,CAGED Antigo
+2014-02-01,L,Atividades imobiliárias,1205,7280,CAGED Antigo
+2014-02-01,M,Atividades profissionais e científicas,2920,50128,CAGED Antigo
+2014-02-01,N,Atividades administrativas e serviços,37069,248160,CAGED Antigo
+2014-02-01,O,Administração pública,12693,19263,CAGED Antigo
+2014-02-01,P,Educação,49517,94478,CAGED Antigo
+2014-02-01,Q,Saúde humana e serviço social,11031,62616,CAGED Antigo
+2014-02-01,R,"Artes, cultura e esporte",1295,10393,CAGED Antigo
+2014-02-01,S,Outros serviços,9843,46840,CAGED Antigo
+2014-02-01,T,Serviços domésticos,9,916,CAGED Antigo
+2014-02-01,U,Organismos internacionais,153,452,CAGED Antigo
+2014-04-01,A,Agropecuária,13877,101143,CAGED Antigo
+2014-04-01,B,Indústria extrativa,593,5393,CAGED Antigo
+2014-04-01,C,Indústria de transformação,-5722,321706,CAGED Antigo
+2014-04-01,D,Eletricidade e gás,-23,1249,CAGED Antigo
+2014-04-01,E,"Água, esgoto e resíduos",1250,9935,CAGED Antigo
+2014-04-01,F,Construção,4644,237330,CAGED Antigo
+2014-04-01,G,Comércio e reparação,17215,449789,CAGED Antigo
+2014-04-01,H,Transporte e armazenagem,19098,105553,CAGED Antigo
+2014-04-01,I,Alojamento e alimentação,4518,112286,CAGED Antigo
+2014-04-01,J,Informação e comunicação,4026,34538,CAGED Antigo
+2014-04-01,K,Atividades financeiras,905,14628,CAGED Antigo
+2014-04-01,L,Atividades imobiliárias,1154,6642,CAGED Antigo
+2014-04-01,M,Atividades profissionais e científicas,623,48976,CAGED Antigo
+2014-04-01,N,Atividades administrativas e serviços,9950,239503,CAGED Antigo
+2014-04-01,O,Administração pública,3479,9490,CAGED Antigo
+2014-04-01,P,Educação,12378,49679,CAGED Antigo
+2014-04-01,Q,Saúde humana e serviço social,12188,63034,CAGED Antigo
+2014-04-01,R,"Artes, cultura e esporte",67,9258,CAGED Antigo
+2014-04-01,S,Outros serviços,4961,41033,CAGED Antigo
+2014-04-01,T,Serviços domésticos,15,844,CAGED Antigo
+2014-04-01,U,Organismos internacionais,188,506,CAGED Antigo
+2014-06-01,A,Agropecuária,40748,123078,CAGED Antigo
+2014-06-01,B,Indústria extrativa,-204,4958,CAGED Antigo
+2014-06-01,C,Indústria de transformação,-27828,250947,CAGED Antigo
+2014-06-01,D,Eletricidade e gás,297,1286,CAGED Antigo
+2014-06-01,E,"Água, esgoto e resíduos",-459,7580,CAGED Antigo
+2014-06-01,F,Construção,-13543,218156,CAGED Antigo
+2014-06-01,G,Comércio e reparação,-6909,390605,CAGED Antigo
+2014-06-01,H,Transporte e armazenagem,1790,88361,CAGED Antigo
+2014-06-01,I,Alojamento e alimentação,2025,99547,CAGED Antigo
+2014-06-01,J,Informação e comunicação,462,29188,CAGED Antigo
+2014-06-01,K,Atividades financeiras,2037,14274,CAGED Antigo
+2014-06-01,L,Atividades imobiliárias,1690,7337,CAGED Antigo
+2014-06-01,M,Atividades profissionais e científicas,1765,45045,CAGED Antigo
+2014-06-01,N,Atividades administrativas e serviços,15995,217575,CAGED Antigo
+2014-06-01,O,Administração pública,1578,6555,CAGED Antigo
+2014-06-01,P,Educação,-8142,31348,CAGED Antigo
+2014-06-01,Q,Saúde humana e serviço social,11041,58951,CAGED Antigo
+2014-06-01,R,"Artes, cultura e esporte",471,8315,CAGED Antigo
+2014-06-01,S,Outros serviços,2397,35092,CAGED Antigo
+2014-06-01,T,Serviços domésticos,75,867,CAGED Antigo
+2014-06-01,U,Organismos internacionais,77,342,CAGED Antigo
+2014-07-01,A,Agropecuária,9902,103485,CAGED Antigo
+2014-07-01,B,Indústria extrativa,80,6065,CAGED Antigo
+2014-07-01,C,Indústria de transformação,-15116,276493,CAGED Antigo
+2014-07-01,D,Eletricidade e gás,93,1139,CAGED Antigo
+2014-07-01,E,"Água, esgoto e resíduos",539,8754,CAGED Antigo
+2014-07-01,F,Construção,2566,246568,CAGED Antigo
+2014-07-01,G,Comércio e reparação,919,426123,CAGED Antigo
+2014-07-01,H,Transporte e armazenagem,6536,93150,CAGED Antigo
+2014-07-01,I,Alojamento e alimentação,-3665,105851,CAGED Antigo
+2014-07-01,J,Informação e comunicação,630,31498,CAGED Antigo
+2014-07-01,K,Atividades financeiras,1502,14887,CAGED Antigo
+2014-07-01,L,Atividades imobiliárias,465,6592,CAGED Antigo
+2014-07-01,M,Atividades profissionais e científicas,2782,46722,CAGED Antigo
+2014-07-01,N,Atividades administrativas e serviços,-2050,223951,CAGED Antigo
+2014-07-01,O,Administração pública,1167,7154,CAGED Antigo
+2014-07-01,P,Educação,-2991,39489,CAGED Antigo
+2014-07-01,Q,Saúde humana e serviço social,9253,61143,CAGED Antigo
+2014-07-01,R,"Artes, cultura e esporte",-294,8984,CAGED Antigo
+2014-07-01,S,Outros serviços,-402,37459,CAGED Antigo
+2014-07-01,T,Serviços domésticos,-64,902,CAGED Antigo
+2014-07-01,U,Organismos internacionais,-56,388,CAGED Antigo
+2014-08-01,A,Agropecuária,-9825,83775,CAGED Antigo
+2014-08-01,B,Indústria extrativa,333,5421,CAGED Antigo
+2014-08-01,C,Indústria de transformação,-4807,277141,CAGED Antigo
+2014-08-01,D,Eletricidade e gás,86,1260,CAGED Antigo
+2014-08-01,E,"Água, esgoto e resíduos",65,8500,CAGED Antigo
+2014-08-01,F,Construção,2441,236602,CAGED Antigo
+2014-08-01,G,Comércio e reparação,42004,434124,CAGED Antigo
+2014-08-01,H,Transporte e armazenagem,4309,90771,CAGED Antigo
+2014-08-01,I,Alojamento e alimentação,8178,109192,CAGED Antigo
+2014-08-01,J,Informação e comunicação,5041,34898,CAGED Antigo
+2014-08-01,K,Atividades financeiras,2008,15125,CAGED Antigo
+2014-08-01,L,Atividades imobiliárias,545,6584,CAGED Antigo
+2014-08-01,M,Atividades profissionais e científicas,1943,46858,CAGED Antigo
+2014-08-01,N,Atividades administrativas e serviços,7186,216846,CAGED Antigo
+2014-08-01,O,Administração pública,652,6060,CAGED Antigo
+2014-08-01,P,Educação,23108,62433,CAGED Antigo
+2014-08-01,Q,Saúde humana e serviço social,12005,62082,CAGED Antigo
+2014-08-01,R,"Artes, cultura e esporte",693,9370,CAGED Antigo
+2014-08-01,S,Outros serviços,5134,40217,CAGED Antigo
+2014-08-01,T,Serviços domésticos,305,1184,CAGED Antigo
+2014-08-01,U,Organismos internacionais,21,375,CAGED Antigo
+2014-10-01,A,Agropecuária,-19833,73974,CAGED Antigo
+2014-10-01,B,Indústria extrativa,-459,4869,CAGED Antigo
+2014-10-01,C,Indústria de transformação,-12161,275842,CAGED Antigo
+2014-10-01,D,Eletricidade e gás,67,1022,CAGED Antigo
+2014-10-01,E,"Água, esgoto e resíduos",-210,7876,CAGED Antigo
+2014-10-01,F,Construção,-35588,221008,CAGED Antigo
+2014-10-01,G,Comércio e reparação,33534,465497,CAGED Antigo
+2014-10-01,H,Transporte e armazenagem,1684,92332,CAGED Antigo
+2014-10-01,I,Alojamento e alimentação,4578,113993,CAGED Antigo
+2014-10-01,J,Informação e comunicação,-8432,32582,CAGED Antigo
+2014-10-01,K,Atividades financeiras,836,13680,CAGED Antigo
+2014-10-01,L,Atividades imobiliárias,-81,6457,CAGED Antigo
+2014-10-01,M,Atividades profissionais e científicas,-317,45245,CAGED Antigo
+2014-10-01,N,Atividades administrativas e serviços,-3733,218674,CAGED Antigo
+2014-10-01,O,Administração pública,177,4202,CAGED Antigo
+2014-10-01,P,Educação,1672,34436,CAGED Antigo
+2014-10-01,Q,Saúde humana e serviço social,7166,59664,CAGED Antigo
+2014-10-01,R,"Artes, cultura e esporte",712,9542,CAGED Antigo
+2014-10-01,S,Outros serviços,31,36169,CAGED Antigo
+2014-10-01,T,Serviços domésticos,-37,886,CAGED Antigo
+2014-10-01,U,Organismos internacionais,111,423,CAGED Antigo
+2014-11-01,A,Agropecuária,-32437,67948,CAGED Antigo
+2014-11-01,B,Indústria extrativa,-963,4487,CAGED Antigo
+2014-11-01,C,Indústria de transformação,-43044,233049,CAGED Antigo
+2014-11-01,D,Eletricidade e gás,93,1295,CAGED Antigo
+2014-11-01,E,"Água, esgoto e resíduos",-291,6696,CAGED Antigo
+2014-11-01,F,Construção,-49394,190753,CAGED Antigo
+2014-11-01,G,Comércio e reparação,105580,482853,CAGED Antigo
+2014-11-01,H,Transporte e armazenagem,15,84729,CAGED Antigo
+2014-11-01,I,Alojamento e alimentação,13690,111656,CAGED Antigo
+2014-11-01,J,Informação e comunicação,5020,31354,CAGED Antigo
+2014-11-01,K,Atividades financeiras,872,13123,CAGED Antigo
+2014-11-01,L,Atividades imobiliárias,-159,5780,CAGED Antigo
+2014-11-01,M,Atividades profissionais e científicas,-4014,38705,CAGED Antigo
+2014-11-01,N,Atividades administrativas e serviços,6529,212836,CAGED Antigo
+2014-11-01,O,Administração pública,-830,3877,CAGED Antigo
+2014-11-01,P,Educação,-2134,27234,CAGED Antigo
+2014-11-01,Q,Saúde humana e serviço social,7077,53875,CAGED Antigo
+2014-11-01,R,"Artes, cultura e esporte",1008,8951,CAGED Antigo
+2014-11-01,S,Outros serviços,1783,32676,CAGED Antigo
+2014-11-01,T,Serviços domésticos,20,789,CAGED Antigo
+2014-11-01,U,Organismos internacionais,-40,340,CAGED Antigo
+2015-02-01,A,Agropecuária,-9544,77489,CAGED Antigo
+2015-02-01,B,Indústria extrativa,-1465,4310,CAGED Antigo
+2015-02-01,C,Indústria de transformação,2170,277750,CAGED Antigo
+2015-02-01,D,Eletricidade e gás,366,1351,CAGED Antigo
+2015-02-01,E,"Água, esgoto e resíduos",-789,8255,CAGED Antigo
+2015-02-01,F,Construção,-26817,195520,CAGED Antigo
+2015-02-01,G,Comércio e reparação,-30006,388584,CAGED Antigo
+2015-02-01,H,Transporte e armazenagem,138,84561,CAGED Antigo
+2015-02-01,I,Alojamento e alimentação,-2652,107526,CAGED Antigo
+2015-02-01,J,Informação e comunicação,-4,28866,CAGED Antigo
+2015-02-01,K,Atividades financeiras,221,11939,CAGED Antigo
+2015-02-01,L,Atividades imobiliárias,194,5820,CAGED Antigo
+2015-02-01,M,Atividades profissionais e científicas,-4770,38050,CAGED Antigo
+2015-02-01,N,Atividades administrativas e serviços,10728,210404,CAGED Antigo
+2015-02-01,O,Administração pública,10529,16883,CAGED Antigo
+2015-02-01,P,Educação,39224,83988,CAGED Antigo
+2015-02-01,Q,Saúde humana e serviço social,4577,54586,CAGED Antigo
+2015-02-01,R,"Artes, cultura e esporte",251,9553,CAGED Antigo
+2015-02-01,S,Outros serviços,4781,39633,CAGED Antigo
+2015-02-01,T,Serviços domésticos,-57,876,CAGED Antigo
+2015-02-01,U,Organismos internacionais,510,759,CAGED Antigo
+2015-04-01,A,Agropecuária,8557,87775,CAGED Antigo
+2015-04-01,B,Indústria extrativa,-1109,4272,CAGED Antigo
+2015-04-01,C,Indústria de transformação,-52284,251026,CAGED Antigo
+2015-04-01,D,Eletricidade e gás,747,1846,CAGED Antigo
+2015-04-01,E,"Água, esgoto e resíduos",-789,7304,CAGED Antigo
+2015-04-01,F,Construção,-24015,174046,CAGED Antigo
+2015-04-01,G,Comércio e reparação,-21027,381859,CAGED Antigo
+2015-04-01,H,Transporte e armazenagem,4293,88664,CAGED Antigo
+2015-04-01,I,Alojamento e alimentação,-5110,98972,CAGED Antigo
+2015-04-01,J,Informação e comunicação,-388,30461,CAGED Antigo
+2015-04-01,K,Atividades financeiras,542,13394,CAGED Antigo
+2015-04-01,L,Atividades imobiliárias,638,5881,CAGED Antigo
+2015-04-01,M,Atividades profissionais e científicas,-378,39508,CAGED Antigo
+2015-04-01,N,Atividades administrativas e serviços,-24003,192627,CAGED Antigo
+2015-04-01,O,Administração pública,-48,6718,CAGED Antigo
+2015-04-01,P,Educação,6762,41820,CAGED Antigo
+2015-04-01,Q,Saúde humana e serviço social,7707,56109,CAGED Antigo
+2015-04-01,R,"Artes, cultura e esporte",-11,8753,CAGED Antigo
+2015-04-01,S,Outros serviços,2100,35295,CAGED Antigo
+2015-04-01,T,Serviços domésticos,-3,819,CAGED Antigo
+2015-04-01,U,Organismos internacionais,-9,532,CAGED Antigo
+2015-05-01,A,Agropecuária,28352,107844,CAGED Antigo
+2015-05-01,B,Indústria extrativa,-1044,3996,CAGED Antigo
+2015-05-01,C,Indústria de transformação,-59861,215223,CAGED Antigo
+2015-05-01,D,Eletricidade e gás,694,1604,CAGED Antigo
+2015-05-01,E,"Água, esgoto e resíduos",-831,7218,CAGED Antigo
+2015-05-01,F,Construção,-32259,176509,CAGED Antigo
+2015-05-01,G,Comércio e reparação,-19265,366278,CAGED Antigo
+2015-05-01,H,Transporte e armazenagem,-4397,79888,CAGED Antigo
+2015-05-01,I,Alojamento e alimentação,-4848,96599,CAGED Antigo
+2015-05-01,J,Informação e comunicação,-2997,25967,CAGED Antigo
+2015-05-01,K,Atividades financeiras,493,13996,CAGED Antigo
+2015-05-01,L,Atividades imobiliárias,86,5350,CAGED Antigo
+2015-05-01,M,Atividades profissionais e científicas,-4582,36946,CAGED Antigo
+2015-05-01,N,Atividades administrativas e serviços,-23459,186626,CAGED Antigo
+2015-05-01,O,Administração pública,-31,5228,CAGED Antigo
+2015-05-01,P,Educação,3688,37121,CAGED Antigo
+2015-05-01,Q,Saúde humana e serviço social,2759,53899,CAGED Antigo
+2015-05-01,R,"Artes, cultura e esporte",-297,8334,CAGED Antigo
+2015-05-01,S,Outros serviços,2033,34704,CAGED Antigo
+2015-05-01,T,Serviços domésticos,35,834,CAGED Antigo
+2015-05-01,U,Organismos internacionais,132,481,CAGED Antigo
+2015-06-01,A,Agropecuária,44665,120482,CAGED Antigo
+2015-06-01,B,Indústria extrativa,-1170,3921,CAGED Antigo
+2015-06-01,C,Indústria de transformação,-61850,204319,CAGED Antigo
+2015-06-01,D,Eletricidade e gás,643,1546,CAGED Antigo
+2015-06-01,E,"Água, esgoto e resíduos",-2489,7110,CAGED Antigo
+2015-06-01,F,Construção,-27089,181489,CAGED Antigo
+2015-06-01,G,Comércio e reparação,-25470,363595,CAGED Antigo
+2015-06-01,H,Transporte e armazenagem,-9220,75475,CAGED Antigo
+2015-06-01,I,Alojamento e alimentação,-640,96448,CAGED Antigo
+2015-06-01,J,Informação e comunicação,-3580,25649,CAGED Antigo
+2015-06-01,K,Atividades financeiras,1266,13467,CAGED Antigo
+2015-06-01,L,Atividades imobiliárias,198,5962,CAGED Antigo
+2015-06-01,M,Atividades profissionais e científicas,-2481,37568,CAGED Antigo
+2015-06-01,N,Atividades administrativas e serviços,-17859,181088,CAGED Antigo
+2015-06-01,O,Administração pública,-717,4920,CAGED Antigo
+2015-06-01,P,Educação,-10802,30350,CAGED Antigo
+2015-06-01,Q,Saúde humana e serviço social,5778,57142,CAGED Antigo
+2015-06-01,R,"Artes, cultura e esporte",-69,8427,CAGED Antigo
+2015-06-01,S,Outros serviços,-614,32896,CAGED Antigo
+2015-06-01,T,Serviços domésticos,167,1005,CAGED Antigo
+2015-06-01,U,Organismos internacionais,134,476,CAGED Antigo
+2015-08-01,A,Agropecuária,-4210,83181,CAGED Antigo
+2015-08-01,B,Indústria extrativa,-1229,3476,CAGED Antigo
+2015-08-01,C,Indústria de transformação,-45025,202111,CAGED Antigo
+2015-08-01,D,Eletricidade e gás,740,1849,CAGED Antigo
+2015-08-01,E,"Água, esgoto e resíduos",-1813,5712,CAGED Antigo
+2015-08-01,F,Construção,-27526,173038,CAGED Antigo
+2015-08-01,G,Comércio e reparação,-12744,340449,CAGED Antigo
+2015-08-01,H,Transporte e armazenagem,-3096,72057,CAGED Antigo
+2015-08-01,I,Alojamento e alimentação,-2583,93466,CAGED Antigo
+2015-08-01,J,Informação e comunicação,-3523,24793,CAGED Antigo
+2015-08-01,K,Atividades financeiras,888,13246,CAGED Antigo
+2015-08-01,L,Atividades imobiliárias,87,5407,CAGED Antigo
+2015-08-01,M,Atividades profissionais e científicas,-1594,37473,CAGED Antigo
+2015-08-01,N,Atividades administrativas e serviços,-11742,179613,CAGED Antigo
+2015-08-01,O,Administração pública,759,6046,CAGED Antigo
+2015-08-01,P,Educação,17552,54376,CAGED Antigo
+2015-08-01,Q,Saúde humana e serviço social,5926,53270,CAGED Antigo
+2015-08-01,R,"Artes, cultura e esporte",416,8692,CAGED Antigo
+2015-08-01,S,Outros serviços,2058,32771,CAGED Antigo
+2015-08-01,T,Serviços domésticos,-83,768,CAGED Antigo
+2015-08-01,U,Organismos internacionais,199,549,CAGED Antigo
+2015-09-01,A,Agropecuária,-3329,81914,CAGED Antigo
+2015-09-01,B,Indústria extrativa,-799,3268,CAGED Antigo
+2015-09-01,C,Indústria de transformação,-8327,211840,CAGED Antigo
+2015-09-01,D,Eletricidade e gás,411,1304,CAGED Antigo
+2015-09-01,E,"Água, esgoto e resíduos",-1439,5131,CAGED Antigo
+2015-09-01,F,Construção,-30820,158850,CAGED Antigo
+2015-09-01,G,Comércio e reparação,-17326,333169,CAGED Antigo
+2015-09-01,H,Transporte e armazenagem,-7767,66790,CAGED Antigo
+2015-09-01,I,Alojamento e alimentação,-2339,88649,CAGED Antigo
+2015-09-01,J,Informação e comunicação,-6229,23438,CAGED Antigo
+2015-09-01,K,Atividades financeiras,509,11662,CAGED Antigo
+2015-09-01,L,Atividades imobiliárias,-243,5139,CAGED Antigo
+2015-09-01,M,Atividades profissionais e científicas,-3345,35103,CAGED Antigo
+2015-09-01,N,Atividades administrativas e serviços,-19936,170470,CAGED Antigo
+2015-09-01,O,Administração pública,-1072,4085,CAGED Antigo
+2015-09-01,P,Educação,1406,34014,CAGED Antigo
+2015-09-01,Q,Saúde humana e serviço social,4973,50771,CAGED Antigo
+2015-09-01,R,"Artes, cultura e esporte",993,9922,CAGED Antigo
+2015-09-01,S,Outros serviços,-875,29977,CAGED Antigo
+2015-09-01,T,Serviços domésticos,-5,822,CAGED Antigo
+2015-09-01,U,Organismos internacionais,-43,417,CAGED Antigo
+2015-10-01,A,Agropecuária,-17018,68950,CAGED Antigo
+2015-10-01,B,Indústria extrativa,-1755,2887,CAGED Antigo
+2015-10-01,C,Indústria de transformação,-45958,178292,CAGED Antigo
+2015-10-01,D,Eletricidade e gás,237,1200,CAGED Antigo
+2015-10-01,E,"Água, esgoto e resíduos",-1828,4708,CAGED Antigo
+2015-10-01,F,Construção,-52188,143798,CAGED Antigo
+2015-10-01,G,Comércio e reparação,-4707,339803,CAGED Antigo
+2015-10-01,H,Transporte e armazenagem,-6111,64493,CAGED Antigo
+2015-10-01,I,Alojamento e alimentação,-5278,85303,CAGED Antigo
+2015-10-01,J,Informação e comunicação,-3157,24566,CAGED Antigo
+2015-10-01,K,Atividades financeiras,161,10499,CAGED Antigo
+2015-10-01,L,Atividades imobiliárias,-903,4576,CAGED Antigo
+2015-10-01,M,Atividades profissionais e científicas,-4375,33300,CAGED Antigo
+2015-10-01,N,Atividades administrativas e serviços,-21208,164427,CAGED Antigo
+2015-10-01,O,Administração pública,-545,3789,CAGED Antigo
+2015-10-01,P,Educação,-1769,26516,CAGED Antigo
+2015-10-01,Q,Saúde humana e serviço social,-1904,43092,CAGED Antigo
+2015-10-01,R,"Artes, cultura e esporte",286,7901,CAGED Antigo
+2015-10-01,S,Outros serviços,-1137,28271,CAGED Antigo
+2015-10-01,T,Serviços domésticos,-107,645,CAGED Antigo
+2015-10-01,U,Organismos internacionais,133,438,CAGED Antigo
+2015-12-01,A,Agropecuária,-58368,39558,CAGED Antigo
+2015-12-01,B,Indústria extrativa,-2484,2061,CAGED Antigo
+2015-12-01,C,Indústria de transformação,-185917,91748,CAGED Antigo
+2015-12-01,D,Eletricidade e gás,-682,934,CAGED Antigo
+2015-12-01,E,"Água, esgoto e resíduos",-1726,4089,CAGED Antigo
+2015-12-01,F,Construção,-109429,78339,CAGED Antigo
+2015-12-01,G,Comércio e reparação,-41498,314310,CAGED Antigo
+2015-12-01,H,Transporte e armazenagem,-31893,48069,CAGED Antigo
+2015-12-01,I,Alojamento e alimentação,-6426,76838,CAGED Antigo
+2015-12-01,J,Informação e comunicação,-5674,16876,CAGED Antigo
+2015-12-01,K,Atividades financeiras,-2830,7686,CAGED Antigo
+2015-12-01,L,Atividades imobiliárias,-1742,3158,CAGED Antigo
+2015-12-01,M,Atividades profissionais e científicas,-15238,20636,CAGED Antigo
+2015-12-01,N,Atividades administrativas e serviços,-20984,136682,CAGED Antigo
+2015-12-01,O,Administração pública,-18483,3413,CAGED Antigo
+2015-12-01,P,Educação,-64980,10491,CAGED Antigo
+2015-12-01,Q,Saúde humana e serviço social,-7096,36180,CAGED Antigo
+2015-12-01,R,"Artes, cultura e esporte",-1359,6774,CAGED Antigo
+2015-12-01,S,Outros serviços,-18714,18595,CAGED Antigo
+2015-12-01,T,Serviços domésticos,-396,338,CAGED Antigo
+2015-12-01,U,Organismos internacionais,-289,256,CAGED Antigo
+2016-01-01,A,Agropecuária,8546,77376,CAGED Antigo
+2016-01-01,B,Indústria extrativa,-2132,2886,CAGED Antigo
+2016-01-01,C,Indústria de transformação,-16068,180096,CAGED Antigo
+2016-01-01,D,Eletricidade e gás,43,1090,CAGED Antigo
+2016-01-01,E,"Água, esgoto e resíduos",-846,5622,CAGED Antigo
+2016-01-01,F,Construção,-2660,144155,CAGED Antigo
+2016-01-01,G,Comércio e reparação,-69516,294651,CAGED Antigo
+2016-01-01,H,Transporte e armazenagem,-16363,55420,CAGED Antigo
+2016-01-01,I,Alojamento e alimentação,-2461,86889,CAGED Antigo
+2016-01-01,J,Informação e comunicação,156,22873,CAGED Antigo
+2016-01-01,K,Atividades financeiras,748,11277,CAGED Antigo
+2016-01-01,L,Atividades imobiliárias,227,4761,CAGED Antigo
+2016-01-01,M,Atividades profissionais e científicas,2666,35512,CAGED Antigo
+2016-01-01,N,Atividades administrativas e serviços,-8661,161284,CAGED Antigo
+2016-01-01,O,Administração pública,-252,4576,CAGED Antigo
+2016-01-01,P,Educação,1722,34822,CAGED Antigo
+2016-01-01,Q,Saúde humana e serviço social,2939,42271,CAGED Antigo
+2016-01-01,R,"Artes, cultura e esporte",1168,9496,CAGED Antigo
+2016-01-01,S,Outros serviços,976,29025,CAGED Antigo
+2016-01-01,T,Serviços domésticos,-170,490,CAGED Antigo
+2016-01-01,U,Organismos internacionais,244,468,CAGED Antigo
+2016-02-01,A,Agropecuária,-3765,74546,CAGED Antigo
+2016-02-01,B,Indústria extrativa,-1143,3385,CAGED Antigo
+2016-02-01,C,Indústria de transformação,-26013,205202,CAGED Antigo
+2016-02-01,D,Eletricidade e gás,117,1197,CAGED Antigo
+2016-02-01,E,"Água, esgoto e resíduos",-1215,7393,CAGED Antigo
+2016-02-01,F,Construção,-19551,138998,CAGED Antigo
+2016-02-01,G,Comércio e reparação,-55623,295424,CAGED Antigo
+2016-02-01,H,Transporte e armazenagem,-8962,64729,CAGED Antigo
+2016-02-01,I,Alojamento e alimentação,-9796,85470,CAGED Antigo
+2016-02-01,J,Informação e comunicação,-4493,21815,CAGED Antigo
+2016-02-01,K,Atividades financeiras,-695,10138,CAGED Antigo
+2016-02-01,L,Atividades imobiliárias,-624,4518,CAGED Antigo
+2016-02-01,M,Atividades profissionais e científicas,-4815,31830,CAGED Antigo
+2016-02-01,N,Atividades administrativas e serviços,-12878,156664,CAGED Antigo
+2016-02-01,O,Administração pública,8563,13715,CAGED Antigo
+2016-02-01,P,Educação,32471,72784,CAGED Antigo
+2016-02-01,Q,Saúde humana e serviço social,2090,46621,CAGED Antigo
+2016-02-01,R,"Artes, cultura e esporte",-815,7888,CAGED Antigo
+2016-02-01,S,Outros serviços,2707,33437,CAGED Antigo
+2016-02-01,T,Serviços domésticos,-144,466,CAGED Antigo
+2016-02-01,U,Organismos internacionais,2,400,CAGED Antigo
+2016-04-01,A,Agropecuária,7721,81201,CAGED Antigo
+2016-04-01,B,Indústria extrativa,-818,3200,CAGED Antigo
+2016-04-01,C,Indústria de transformação,-15711,198675,CAGED Antigo
+2016-04-01,D,Eletricidade e gás,-337,977,CAGED Antigo
+2016-04-01,E,"Água, esgoto e resíduos",67,7271,CAGED Antigo
+2016-04-01,F,Construção,-17056,136596,CAGED Antigo
+2016-04-01,G,Comércio e reparação,-30423,311064,CAGED Antigo
+2016-04-01,H,Transporte e armazenagem,-177,66947,CAGED Antigo
+2016-04-01,I,Alojamento e alimentação,-9426,81634,CAGED Antigo
+2016-04-01,J,Informação e comunicação,-1605,23875,CAGED Antigo
+2016-04-01,K,Atividades financeiras,-1312,11179,CAGED Antigo
+2016-04-01,L,Atividades imobiliárias,399,5124,CAGED Antigo
+2016-04-01,M,Atividades profissionais e científicas,-3033,32866,CAGED Antigo
+2016-04-01,N,Atividades administrativas e serviços,-7218,162973,CAGED Antigo
+2016-04-01,O,Administração pública,2281,6288,CAGED Antigo
+2016-04-01,P,Educação,5217,37423,CAGED Antigo
+2016-04-01,Q,Saúde humana e serviço social,8263,52512,CAGED Antigo
+2016-04-01,R,"Artes, cultura e esporte",15,8595,CAGED Antigo
+2016-04-01,S,Outros serviços,357,29759,CAGED Antigo
+2016-04-01,T,Serviços domésticos,-24,463,CAGED Antigo
+2016-04-01,U,Organismos internacionais,-24,348,CAGED Antigo
+2016-06-01,A,Agropecuária,38571,109876,CAGED Antigo
+2016-06-01,B,Indústria extrativa,-1400,3192,CAGED Antigo
+2016-06-01,C,Indústria de transformação,-29819,173468,CAGED Antigo
+2016-06-01,D,Eletricidade e gás,-376,1143,CAGED Antigo
+2016-06-01,E,"Água, esgoto e resíduos",-724,5410,CAGED Antigo
+2016-06-01,F,Construção,-30644,132900,CAGED Antigo
+2016-06-01,G,Comércio e reparação,-26937,299775,CAGED Antigo
+2016-06-01,H,Transporte e armazenagem,-8282,61531,CAGED Antigo
+2016-06-01,I,Alojamento e alimentação,-5439,74731,CAGED Antigo
+2016-06-01,J,Informação e comunicação,-2144,23146,CAGED Antigo
+2016-06-01,K,Atividades financeiras,-427,10812,CAGED Antigo
+2016-06-01,L,Atividades imobiliárias,-212,4889,CAGED Antigo
+2016-06-01,M,Atividades profissionais e científicas,-3065,32058,CAGED Antigo
+2016-06-01,N,Atividades administrativas e serviços,-15172,151810,CAGED Antigo
+2016-06-01,O,Administração pública,775,5130,CAGED Antigo
+2016-06-01,P,Educação,-9929,27325,CAGED Antigo
+2016-06-01,Q,Saúde humana e serviço social,4041,48072,CAGED Antigo
+2016-06-01,R,"Artes, cultura e esporte",813,8721,CAGED Antigo
+2016-06-01,S,Outros serviços,-593,30034,CAGED Antigo
+2016-06-01,T,Serviços domésticos,-40,399,CAGED Antigo
+2016-06-01,U,Organismos internacionais,-29,341,CAGED Antigo
+2016-07-01,A,Agropecuária,4476,82428,CAGED Antigo
+2016-07-01,B,Indústria extrativa,-1312,3246,CAGED Antigo
+2016-07-01,C,Indústria de transformação,-13928,175706,CAGED Antigo
+2016-07-01,D,Eletricidade e gás,190,1290,CAGED Antigo
+2016-07-01,E,"Água, esgoto e resíduos",-532,5688,CAGED Antigo
+2016-07-01,F,Construção,-29424,130942,CAGED Antigo
+2016-07-01,G,Comércio e reparação,-16736,287923,CAGED Antigo
+2016-07-01,H,Transporte e armazenagem,-4031,61915,CAGED Antigo
+2016-07-01,I,Alojamento e alimentação,-3975,77455,CAGED Antigo
+2016-07-01,J,Informação e comunicação,-29,24553,CAGED Antigo
+2016-07-01,K,Atividades financeiras,-538,10932,CAGED Antigo
+2016-07-01,L,Atividades imobiliárias,-246,4668,CAGED Antigo
+2016-07-01,M,Atividades profissionais e científicas,-927,33191,CAGED Antigo
+2016-07-01,N,Atividades administrativas e serviços,-13856,156486,CAGED Antigo
+2016-07-01,O,Administração pública,271,4248,CAGED Antigo
+2016-07-01,P,Educação,-12665,25548,CAGED Antigo
+2016-07-01,Q,Saúde humana e serviço social,-128,45404,CAGED Antigo
+2016-07-01,R,"Artes, cultura e esporte",1050,9050,CAGED Antigo
+2016-07-01,S,Outros serviços,-2317,26576,CAGED Antigo
+2016-07-01,T,Serviços domésticos,-54,360,CAGED Antigo
+2016-07-01,U,Organismos internacionais,-13,402,CAGED Antigo
+2016-08-01,A,Agropecuária,-15044,73810,CAGED Antigo
+2016-08-01,B,Indústria extrativa,160,3647,CAGED Antigo
+2016-08-01,C,Indústria de transformação,8577,204462,CAGED Antigo
+2016-08-01,D,Eletricidade e gás,310,1250,CAGED Antigo
+2016-08-01,E,"Água, esgoto e resíduos",-883,6198,CAGED Antigo
+2016-08-01,F,Construção,-23742,134373,CAGED Antigo
+2016-08-01,G,Comércio e reparação,1581,307272,CAGED Antigo
+2016-08-01,H,Transporte e armazenagem,-7669,61056,CAGED Antigo
+2016-08-01,I,Alojamento e alimentação,-2965,81469,CAGED Antigo
+2016-08-01,J,Informação e comunicação,-742,25064,CAGED Antigo
+2016-08-01,K,Atividades financeiras,-865,11427,CAGED Antigo
+2016-08-01,L,Atividades imobiliárias,-281,4698,CAGED Antigo
+2016-08-01,M,Atividades profissionais e científicas,-796,35179,CAGED Antigo
+2016-08-01,N,Atividades administrativas e serviços,-8742,162672,CAGED Antigo
+2016-08-01,O,Administração pública,-431,3608,CAGED Antigo
+2016-08-01,P,Educação,14831,49074,CAGED Antigo
+2016-08-01,Q,Saúde humana e serviço social,4777,48790,CAGED Antigo
+2016-08-01,R,"Artes, cultura e esporte",-2069,8484,CAGED Antigo
+2016-08-01,S,Outros serviços,151,30542,CAGED Antigo
+2016-08-01,T,Serviços domésticos,-43,414,CAGED Antigo
+2016-08-01,U,Organismos internacionais,-68,239,CAGED Antigo
+2016-09-01,A,Agropecuária,-8297,72932,CAGED Antigo
+2016-09-01,B,Indústria extrativa,-1036,2689,CAGED Antigo
+2016-09-01,C,Indústria de transformação,10595,186752,CAGED Antigo
+2016-09-01,D,Eletricidade e gás,-112,840,CAGED Antigo
+2016-09-01,E,"Água, esgoto e resíduos",-305,4841,CAGED Antigo
+2016-09-01,F,Construção,-29236,113974,CAGED Antigo
+2016-09-01,G,Comércio e reparação,4453,296705,CAGED Antigo
+2016-09-01,H,Transporte e armazenagem,-4892,55770,CAGED Antigo
+2016-09-01,I,Alojamento e alimentação,-220,76758,CAGED Antigo
+2016-09-01,J,Informação e comunicação,2178,25967,CAGED Antigo
+2016-09-01,K,Atividades financeiras,76,11026,CAGED Antigo
+2016-09-01,L,Atividades imobiliárias,-195,4332,CAGED Antigo
+2016-09-01,M,Atividades profissionais e científicas,-1740,31993,CAGED Antigo
+2016-09-01,N,Atividades administrativas e serviços,-16523,143861,CAGED Antigo
+2016-09-01,O,Administração pública,-403,2365,CAGED Antigo
+2016-09-01,P,Educação,3287,29986,CAGED Antigo
+2016-09-01,Q,Saúde humana e serviço social,4106,45275,CAGED Antigo
+2016-09-01,R,"Artes, cultura e esporte",-3008,7666,CAGED Antigo
+2016-09-01,S,Outros serviços,1957,28382,CAGED Antigo
+2016-09-01,T,Serviços domésticos,-51,314,CAGED Antigo
+2016-09-01,U,Organismos internacionais,84,369,CAGED Antigo
+2016-10-01,A,Agropecuária,-12135,64905,CAGED Antigo
+2016-10-01,B,Indústria extrativa,-1318,2656,CAGED Antigo
+2016-10-01,C,Indústria de transformação,-4102,174403,CAGED Antigo
+2016-10-01,D,Eletricidade e gás,199,1089,CAGED Antigo
+2016-10-01,E,"Água, esgoto e resíduos",-1991,3723,CAGED Antigo
+2016-10-01,F,Construção,-35398,110144,CAGED Antigo
+2016-10-01,G,Comércio e reparação,12313,308454,CAGED Antigo
+2016-10-01,H,Transporte e armazenagem,-8224,55033,CAGED Antigo
+2016-10-01,I,Alojamento e alimentação,-1730,76607,CAGED Antigo
+2016-10-01,J,Informação e comunicação,-4070,22918,CAGED Antigo
+2016-10-01,K,Atividades financeiras,-1447,9727,CAGED Antigo
+2016-10-01,L,Atividades imobiliárias,-108,4390,CAGED Antigo
+2016-10-01,M,Atividades profissionais e científicas,-2969,28731,CAGED Antigo
+2016-10-01,N,Atividades administrativas e serviços,-10016,143337,CAGED Antigo
+2016-10-01,O,Administração pública,-2535,1822,CAGED Antigo
+2016-10-01,P,Educação,-1010,23114,CAGED Antigo
+2016-10-01,Q,Saúde humana e serviço social,2366,41485,CAGED Antigo
+2016-10-01,R,"Artes, cultura e esporte",-869,6925,CAGED Antigo
+2016-10-01,S,Outros serviços,-1694,24376,CAGED Antigo
+2016-10-01,T,Serviços domésticos,-71,273,CAGED Antigo
+2016-10-01,U,Organismos internacionais,61,319,CAGED Antigo
+2016-11-01,A,Agropecuária,-25911,59669,CAGED Antigo
+2016-11-01,B,Indústria extrativa,-2080,2493,CAGED Antigo
+2016-11-01,C,Indústria de transformação,-50273,150836,CAGED Antigo
+2016-11-01,D,Eletricidade e gás,9,945,CAGED Antigo
+2016-11-01,E,"Água, esgoto e resíduos",-2933,3591,CAGED Antigo
+2016-11-01,F,Construção,-53831,102640,CAGED Antigo
+2016-11-01,G,Comércio e reparação,57926,347530,CAGED Antigo
+2016-11-01,H,Transporte e armazenagem,-9399,57601,CAGED Antigo
+2016-11-01,I,Alojamento e alimentação,6347,82933,CAGED Antigo
+2016-11-01,J,Informação e comunicação,-382,21529,CAGED Antigo
+2016-11-01,K,Atividades financeiras,-1129,9431,CAGED Antigo
+2016-11-01,L,Atividades imobiliárias,-237,4266,CAGED Antigo
+2016-11-01,M,Atividades profissionais e científicas,-5843,27094,CAGED Antigo
+2016-11-01,N,Atividades administrativas e serviços,-9178,141957,CAGED Antigo
+2016-11-01,O,Administração pública,-4376,1777,CAGED Antigo
+2016-11-01,P,Educação,-8159,18143,CAGED Antigo
+2016-11-01,Q,Saúde humana e serviço social,-1636,40598,CAGED Antigo
+2016-11-01,R,"Artes, cultura e esporte",-280,6876,CAGED Antigo
+2016-11-01,S,Outros serviços,-5189,23364,CAGED Antigo
+2016-11-01,T,Serviços domésticos,-36,299,CAGED Antigo
+2016-11-01,U,Organismos internacionais,-157,195,CAGED Antigo
+2016-12-01,A,Agropecuária,-47741,39770,CAGED Antigo
+2016-12-01,B,Indústria extrativa,-2946,1816,CAGED Antigo
+2016-12-01,C,Indústria de transformação,-125028,93675,CAGED Antigo
+2016-12-01,D,Eletricidade e gás,-280,930,CAGED Antigo
+2016-12-01,E,"Água, esgoto e resíduos",-2174,3628,CAGED Antigo
+2016-12-01,F,Construção,-86768,67047,CAGED Antigo
+2016-12-01,G,Comércio e reparação,-21033,294574,CAGED Antigo
+2016-12-01,H,Transporte e armazenagem,-24343,45645,CAGED Antigo
+2016-12-01,I,Alojamento e alimentação,-264,73844,CAGED Antigo
+2016-12-01,J,Informação e comunicação,-3044,18562,CAGED Antigo
+2016-12-01,K,Atividades financeiras,-9720,7770,CAGED Antigo
+2016-12-01,L,Atividades imobiliárias,-990,3297,CAGED Antigo
+2016-12-01,M,Atividades profissionais e científicas,-12956,19694,CAGED Antigo
+2016-12-01,N,Atividades administrativas e serviços,-14797,124441,CAGED Antigo
+2016-12-01,O,Administração pública,-19571,1748,CAGED Antigo
+2016-12-01,P,Educação,-60162,10694,CAGED Antigo
+2016-12-01,Q,Saúde humana e serviço social,-6301,37980,CAGED Antigo
+2016-12-01,R,"Artes, cultura e esporte",-1956,5883,CAGED Antigo
+2016-12-01,S,Outros serviços,-22114,18039,CAGED Antigo
+2016-12-01,T,Serviços domésticos,-102,223,CAGED Antigo
+2016-12-01,U,Organismos internacionais,-76,179,CAGED Antigo
+2017-01-01,A,Agropecuária,10309,81585,CAGED Antigo
+2017-01-01,B,Indústria extrativa,45,3650,CAGED Antigo
+2017-01-01,C,Indústria de transformação,18364,199525,CAGED Antigo
+2017-01-01,D,Eletricidade e gás,233,1222,CAGED Antigo
+2017-01-01,E,"Água, esgoto e resíduos",638,7633,CAGED Antigo
+2017-01-01,F,Construção,-1196,124992,CAGED Antigo
+2017-01-01,G,Comércio e reparação,-59230,300235,CAGED Antigo
+2017-01-01,H,Transporte e armazenagem,-12034,56315,CAGED Antigo
+2017-01-01,I,Alojamento e alimentação,-2230,84977,CAGED Antigo
+2017-01-01,J,Informação e comunicação,1994,24950,CAGED Antigo
+2017-01-01,K,Atividades financeiras,-236,11137,CAGED Antigo
+2017-01-01,L,Atividades imobiliárias,215,5091,CAGED Antigo
+2017-01-01,M,Atividades profissionais e científicas,3200,36701,CAGED Antigo
+2017-01-01,N,Atividades administrativas e serviços,-6173,157220,CAGED Antigo
+2017-01-01,O,Administração pública,681,7148,CAGED Antigo
+2017-01-01,P,Educação,2575,37298,CAGED Antigo
+2017-01-01,Q,Saúde humana e serviço social,2980,46605,CAGED Antigo
+2017-01-01,R,"Artes, cultura e esporte",1091,9611,CAGED Antigo
+2017-01-01,S,Outros serviços,-2169,28692,CAGED Antigo
+2017-01-01,T,Serviços domésticos,-6,341,CAGED Antigo
+2017-01-01,U,Organismos internacionais,85,334,CAGED Antigo
+2017-02-01,A,Agropecuária,6077,78373,CAGED Antigo
+2017-02-01,B,Indústria extrativa,-583,3123,CAGED Antigo
+2017-02-01,C,Indústria de transformação,2765,205905,CAGED Antigo
+2017-02-01,D,Eletricidade e gás,288,1119,CAGED Antigo
+2017-02-01,E,"Água, esgoto e resíduos",1007,6583,CAGED Antigo
+2017-02-01,F,Construção,-13761,111665,CAGED Antigo
+2017-02-01,G,Comércio e reparação,-20627,294148,CAGED Antigo
+2017-02-01,H,Transporte e armazenagem,2328,62749,CAGED Antigo
+2017-02-01,I,Alojamento e alimentação,-673,83220,CAGED Antigo
+2017-02-01,J,Informação e comunicação,748,22923,CAGED Antigo
+2017-02-01,K,Atividades financeiras,-1301,10035,CAGED Antigo
+2017-02-01,L,Atividades imobiliárias,241,4617,CAGED Antigo
+2017-02-01,M,Atividades profissionais e científicas,-413,32894,CAGED Antigo
+2017-02-01,N,Atividades administrativas e serviços,1709,150972,CAGED Antigo
+2017-02-01,O,Administração pública,8339,13256,CAGED Antigo
+2017-02-01,P,Educação,35966,76390,CAGED Antigo
+2017-02-01,Q,Saúde humana e serviço social,5845,49223,CAGED Antigo
+2017-02-01,R,"Artes, cultura e esporte",304,8213,CAGED Antigo
+2017-02-01,S,Outros serviços,7232,34718,CAGED Antigo
+2017-02-01,T,Serviços domésticos,-17,295,CAGED Antigo
+2017-02-01,U,Organismos internacionais,138,410,CAGED Antigo
+2017-03-01,A,Agropecuária,-3646,77975,CAGED Antigo
+2017-03-01,B,Indústria extrativa,-620,3312,CAGED Antigo
+2017-03-01,C,Indústria de transformação,-902,210543,CAGED Antigo
+2017-03-01,D,Eletricidade e gás,-336,1023,CAGED Antigo
+2017-03-01,E,"Água, esgoto e resíduos",-305,6813,CAGED Antigo
+2017-03-01,F,Construção,-10207,117708,CAGED Antigo
+2017-03-01,G,Comércio e reparação,-34064,315544,CAGED Antigo
+2017-03-01,H,Transporte e armazenagem,-604,67902,CAGED Antigo
+2017-03-01,I,Alojamento e alimentação,-15323,80391,CAGED Antigo
+2017-03-01,J,Informação e comunicação,-1471,24710,CAGED Antigo
+2017-03-01,K,Atividades financeiras,-4593,10386,CAGED Antigo
+2017-03-01,L,Atividades imobiliárias,-104,4807,CAGED Antigo
+2017-03-01,M,Atividades profissionais e científicas,1976,38342,CAGED Antigo
+2017-03-01,N,Atividades administrativas e serviços,-10280,153715,CAGED Antigo
+2017-03-01,O,Administração pública,4598,8958,CAGED Antigo
+2017-03-01,P,Educação,11037,47919,CAGED Antigo
+2017-03-01,Q,Saúde humana e serviço social,2731,50215,CAGED Antigo
+2017-03-01,R,"Artes, cultura e esporte",-1338,8330,CAGED Antigo
+2017-03-01,S,Outros serviços,-197,32151,CAGED Antigo
+2017-03-01,T,Serviços domésticos,-63,306,CAGED Antigo
+2017-03-01,U,Organismos internacionais,87,282,CAGED Antigo
+2017-05-01,A,Agropecuária,45916,118740,CAGED Antigo
+2017-05-01,B,Indústria extrativa,-513,3111,CAGED Antigo
+2017-05-01,C,Indústria de transformação,992,191658,CAGED Antigo
+2017-05-01,D,Eletricidade e gás,-603,1074,CAGED Antigo
+2017-05-01,E,"Água, esgoto e resíduos",209,6321,CAGED Antigo
+2017-05-01,F,Construção,-4469,119679,CAGED Antigo
+2017-05-01,G,Comércio e reparação,-10941,307933,CAGED Antigo
+2017-05-01,H,Transporte e armazenagem,-2020,63552,CAGED Antigo
+2017-05-01,I,Alojamento e alimentação,-3580,78776,CAGED Antigo
+2017-05-01,J,Informação e comunicação,-879,23555,CAGED Antigo
+2017-05-01,K,Atividades financeiras,515,11983,CAGED Antigo
+2017-05-01,L,Atividades imobiliárias,94,4925,CAGED Antigo
+2017-05-01,M,Atividades profissionais e científicas,-237,34107,CAGED Antigo
+2017-05-01,N,Atividades administrativas e serviços,-1031,148828,CAGED Antigo
+2017-05-01,O,Administração pública,958,5577,CAGED Antigo
+2017-05-01,P,Educação,2922,32383,CAGED Antigo
+2017-05-01,Q,Saúde humana e serviço social,6218,51260,CAGED Antigo
+2017-05-01,R,"Artes, cultura e esporte",-606,8039,CAGED Antigo
+2017-05-01,S,Outros serviços,1250,30455,CAGED Antigo
+2017-05-01,T,Serviços domésticos,5,283,CAGED Antigo
+2017-05-01,U,Organismos internacionais,54,194,CAGED Antigo
+2017-07-01,A,Agropecuária,7148,82224,CAGED Antigo
+2017-07-01,B,Indústria extrativa,-274,3050,CAGED Antigo
+2017-07-01,C,Indústria de transformação,13899,186864,CAGED Antigo
+2017-07-01,D,Eletricidade e gás,-27,1054,CAGED Antigo
+2017-07-01,E,"Água, esgoto e resíduos",-1215,4955,CAGED Antigo
+2017-07-01,F,Construção,-38,118119,CAGED Antigo
+2017-07-01,G,Comércio e reparação,10983,296681,CAGED Antigo
+2017-07-01,H,Transporte e armazenagem,553,58465,CAGED Antigo
+2017-07-01,I,Alojamento e alimentação,-568,76480,CAGED Antigo
+2017-07-01,J,Informação e comunicação,2408,25688,CAGED Antigo
+2017-07-01,K,Atividades financeiras,1867,12329,CAGED Antigo
+2017-07-01,L,Atividades imobiliárias,322,4475,CAGED Antigo
+2017-07-01,M,Atividades profissionais e científicas,5164,35668,CAGED Antigo
+2017-07-01,N,Atividades administrativas e serviços,2881,145639,CAGED Antigo
+2017-07-01,O,Administração pública,-1001,3444,CAGED Antigo
+2017-07-01,P,Educação,-9961,26913,CAGED Antigo
+2017-07-01,Q,Saúde humana e serviço social,5946,50585,CAGED Antigo
+2017-07-01,R,"Artes, cultura e esporte",319,7317,CAGED Antigo
+2017-07-01,S,Outros serviços,-2534,27353,CAGED Antigo
+2017-07-01,T,Serviços domésticos,18,284,CAGED Antigo
+2017-07-01,U,Organismos internacionais,10,183,CAGED Antigo
+2017-08-01,A,Agropecuária,-12513,71004,CAGED Antigo
+2017-08-01,B,Indústria extrativa,76,3447,CAGED Antigo
+2017-08-01,C,Indústria de transformação,13078,202094,CAGED Antigo
+2017-08-01,D,Eletricidade e gás,-375,955,CAGED Antigo
+2017-08-01,E,"Água, esgoto e resíduos",-22,5595,CAGED Antigo
+2017-08-01,F,Construção,-241,126240,CAGED Antigo
+2017-08-01,G,Comércio e reparação,11598,313657,CAGED Antigo
+2017-08-01,H,Transporte e armazenagem,787,64618,CAGED Antigo
+2017-08-01,I,Alojamento e alimentação,564,81298,CAGED Antigo
+2017-08-01,J,Informação e comunicação,-285,24865,CAGED Antigo
+2017-08-01,K,Atividades financeiras,-2809,12686,CAGED Antigo
+2017-08-01,L,Atividades imobiliárias,-162,4680,CAGED Antigo
+2017-08-01,M,Atividades profissionais e científicas,3593,38846,CAGED Antigo
+2017-08-01,N,Atividades administrativas e serviços,-4141,156650,CAGED Antigo
+2017-08-01,O,Administração pública,529,4861,CAGED Antigo
+2017-08-01,P,Educação,18074,52648,CAGED Antigo
+2017-08-01,Q,Saúde humana e serviço social,6823,52236,CAGED Antigo
+2017-08-01,R,"Artes, cultura e esporte",-35,7992,CAGED Antigo
+2017-08-01,S,Outros serviços,1094,30097,CAGED Antigo
+2017-08-01,T,Serviços domésticos,6,285,CAGED Antigo
+2017-08-01,U,Organismos internacionais,-182,197,CAGED Antigo
+2017-09-01,A,Agropecuária,-8591,67453,CAGED Antigo
+2017-09-01,B,Indústria extrativa,97,2874,CAGED Antigo
+2017-09-01,C,Indústria de transformação,25756,194164,CAGED Antigo
+2017-09-01,D,Eletricidade e gás,45,1009,CAGED Antigo
+2017-09-01,E,"Água, esgoto e resíduos",-1303,4588,CAGED Antigo
+2017-09-01,F,Construção,-452,110771,CAGED Antigo
+2017-09-01,G,Comércio e reparação,15996,301270,CAGED Antigo
+2017-09-01,H,Transporte e armazenagem,-243,51378,CAGED Antigo
+2017-09-01,I,Alojamento e alimentação,3109,79623,CAGED Antigo
+2017-09-01,J,Informação e comunicação,235,23484,CAGED Antigo
+2017-09-01,K,Atividades financeiras,-1003,11943,CAGED Antigo
+2017-09-01,L,Atividades imobiliárias,103,4348,CAGED Antigo
+2017-09-01,M,Atividades profissionais e científicas,3497,35819,CAGED Antigo
+2017-09-01,N,Atividades administrativas e serviços,-8810,140807,CAGED Antigo
+2017-09-01,O,Administração pública,-705,3542,CAGED Antigo
+2017-09-01,P,Educação,4896,31878,CAGED Antigo
+2017-09-01,Q,Saúde humana e serviço social,2187,48310,CAGED Antigo
+2017-09-01,R,"Artes, cultura e esporte",-275,8377,CAGED Antigo
+2017-09-01,S,Outros serviços,-87,26238,CAGED Antigo
+2017-09-01,T,Serviços domésticos,-16,252,CAGED Antigo
+2017-09-01,U,Organismos internacionais,-44,179,CAGED Antigo
+2017-10-01,A,Agropecuária,-3745,69914,CAGED Antigo
+2017-10-01,B,Indústria extrativa,-369,2528,CAGED Antigo
+2017-10-01,C,Indústria de transformação,33559,202344,CAGED Antigo
+2017-10-01,D,Eletricidade e gás,-267,932,CAGED Antigo
+2017-10-01,E,"Água, esgoto e resíduos",-444,4881,CAGED Antigo
+2017-10-01,F,Construção,-5397,109009,CAGED Antigo
+2017-10-01,G,Comércio e reparação,38411,329123,CAGED Antigo
+2017-10-01,H,Transporte e armazenagem,3249,56370,CAGED Antigo
+2017-10-01,I,Alojamento e alimentação,3006,80759,CAGED Antigo
+2017-10-01,J,Informação e comunicação,544,23342,CAGED Antigo
+2017-10-01,K,Atividades financeiras,82,12802,CAGED Antigo
+2017-10-01,L,Atividades imobiliárias,25,4413,CAGED Antigo
+2017-10-01,M,Atividades profissionais e científicas,2638,34179,CAGED Antigo
+2017-10-01,N,Atividades administrativas e serviços,1308,148517,CAGED Antigo
+2017-10-01,O,Administração pública,-244,2930,CAGED Antigo
+2017-10-01,P,Educação,749,25939,CAGED Antigo
+2017-10-01,Q,Saúde humana e serviço social,5167,47444,CAGED Antigo
+2017-10-01,R,"Artes, cultura e esporte",53,7250,CAGED Antigo
+2017-10-01,S,Outros serviços,-1522,24767,CAGED Antigo
+2017-10-01,T,Serviços domésticos,-62,246,CAGED Antigo
+2017-10-01,U,Organismos internacionais,-142,130,CAGED Antigo
+2017-11-01,A,Agropecuária,-21522,59360,CAGED Antigo
+2017-11-01,B,Indústria extrativa,-1109,2299,CAGED Antigo
+2017-11-01,C,Indústria de transformação,-28252,152739,CAGED Antigo
+2017-11-01,D,Eletricidade e gás,-596,911,CAGED Antigo
+2017-11-01,E,"Água, esgoto e resíduos",-275,4403,CAGED Antigo
+2017-11-01,F,Construção,-24490,96382,CAGED Antigo
+2017-11-01,G,Comércio e reparação,68340,349843,CAGED Antigo
+2017-11-01,H,Transporte e armazenagem,2048,56830,CAGED Antigo
+2017-11-01,I,Alojamento e alimentação,4199,78795,CAGED Antigo
+2017-11-01,J,Informação e comunicação,1807,22379,CAGED Antigo
+2017-11-01,K,Atividades financeiras,1128,11473,CAGED Antigo
+2017-11-01,L,Atividades imobiliárias,12,4242,CAGED Antigo
+2017-11-01,M,Atividades profissionais e científicas,-633,31478,CAGED Antigo
+2017-11-01,N,Atividades administrativas e serviços,-2753,142378,CAGED Antigo
+2017-11-01,O,Administração pública,-2345,2509,CAGED Antigo
+2017-11-01,P,Educação,-5206,20365,CAGED Antigo
+2017-11-01,Q,Saúde humana e serviço social,208,44211,CAGED Antigo
+2017-11-01,R,"Artes, cultura e esporte",45,7425,CAGED Antigo
+2017-11-01,S,Outros serviços,-2813,23445,CAGED Antigo
+2017-11-01,T,Serviços domésticos,-18,220,CAGED Antigo
+2017-11-01,U,Organismos internacionais,-67,111,CAGED Antigo
+2018-01-01,A,Agropecuária,15596,83318,CAGED Antigo
+2018-01-01,B,Indústria extrativa,-356,3048,CAGED Antigo
+2018-01-01,C,Indústria de transformação,48543,219743,CAGED Antigo
+2018-01-01,D,Eletricidade e gás,136,1090,CAGED Antigo
+2018-01-01,E,"Água, esgoto e resíduos",1212,6775,CAGED Antigo
+2018-01-01,F,Construção,16013,123598,CAGED Antigo
+2018-01-01,G,Comércio e reparação,-47338,309007,CAGED Antigo
+2018-01-01,H,Transporte e armazenagem,-5333,54635,CAGED Antigo
+2018-01-01,I,Alojamento e alimentação,4405,91183,CAGED Antigo
+2018-01-01,J,Informação e comunicação,4925,27313,CAGED Antigo
+2018-01-01,K,Atividades financeiras,3120,13597,CAGED Antigo
+2018-01-01,L,Atividades imobiliárias,637,5064,CAGED Antigo
+2018-01-01,M,Atividades profissionais e científicas,5980,42337,CAGED Antigo
+2018-01-01,N,Atividades administrativas e serviços,12552,164640,CAGED Antigo
+2018-01-01,O,Administração pública,-817,3786,CAGED Antigo
+2018-01-01,P,Educação,7628,43526,CAGED Antigo
+2018-01-01,Q,Saúde humana e serviço social,9077,52803,CAGED Antigo
+2018-01-01,R,"Artes, cultura e esporte",1476,9915,CAGED Antigo
+2018-01-01,S,Outros serviços,410,28781,CAGED Antigo
+2018-01-01,T,Serviços domésticos,23,248,CAGED Antigo
+2018-01-01,U,Organismos internacionais,-67,91,CAGED Antigo
+2018-02-01,A,Agropecuária,-4048,75800,CAGED Antigo
+2018-02-01,B,Indústria extrativa,497,3753,CAGED Antigo
+2018-02-01,C,Indústria de transformação,14583,213406,CAGED Antigo
+2018-02-01,D,Eletricidade e gás,119,1135,CAGED Antigo
+2018-02-01,E,"Água, esgoto e resíduos",701,6013,CAGED Antigo
+2018-02-01,F,Construção,-3786,106241,CAGED Antigo
+2018-02-01,G,Comércio e reparação,-23855,296476,CAGED Antigo
+2018-02-01,H,Transporte e armazenagem,2853,60978,CAGED Antigo
+2018-02-01,I,Alojamento e alimentação,-3295,85030,CAGED Antigo
+2018-02-01,J,Informação e comunicação,902,25043,CAGED Antigo
+2018-02-01,K,Atividades financeiras,811,11870,CAGED Antigo
+2018-02-01,L,Atividades imobiliárias,255,4714,CAGED Antigo
+2018-02-01,M,Atividades profissionais e científicas,4125,37729,CAGED Antigo
+2018-02-01,N,Atividades administrativas e serviços,4723,152395,CAGED Antigo
+2018-02-01,O,Administração pública,9567,14253,CAGED Antigo
+2018-02-01,P,Educação,44619,84211,CAGED Antigo
+2018-02-01,Q,Saúde humana e serviço social,5762,53046,CAGED Antigo
+2018-02-01,R,"Artes, cultura e esporte",-612,7939,CAGED Antigo
+2018-02-01,S,Outros serviços,7259,34600,CAGED Antigo
+2018-02-01,T,Serviços domésticos,35,227,CAGED Antigo
+2018-02-01,U,Organismos internacionais,-27,106,CAGED Antigo
+2018-03-01,A,Agropecuária,-17953,76819,CAGED Antigo
+2018-03-01,B,Indústria extrativa,209,3461,CAGED Antigo
+2018-03-01,C,Indústria de transformação,8919,218191,CAGED Antigo
+2018-03-01,D,Eletricidade e gás,-73,1025,CAGED Antigo
+2018-03-01,E,"Água, esgoto e resíduos",572,6863,CAGED Antigo
+2018-03-01,F,Construção,7823,119623,CAGED Antigo
+2018-03-01,G,Comércio e reparação,-5172,332462,CAGED Antigo
+2018-03-01,H,Transporte e armazenagem,9623,68243,CAGED Antigo
+2018-03-01,I,Alojamento e alimentação,-5222,86683,CAGED Antigo
+2018-03-01,J,Informação e comunicação,3155,27348,CAGED Antigo
+2018-03-01,K,Atividades financeiras,252,13414,CAGED Antigo
+2018-03-01,L,Atividades imobiliárias,638,5429,CAGED Antigo
+2018-03-01,M,Atividades profissionais e científicas,3967,42824,CAGED Antigo
+2018-03-01,N,Atividades administrativas e serviços,15342,173454,CAGED Antigo
+2018-03-01,O,Administração pública,3714,7869,CAGED Antigo
+2018-03-01,P,Educação,18978,55150,CAGED Antigo
+2018-03-01,Q,Saúde humana e serviço social,8874,58183,CAGED Antigo
+2018-03-01,R,"Artes, cultura e esporte",-370,9087,CAGED Antigo
+2018-03-01,S,Outros serviços,2898,33717,CAGED Antigo
+2018-03-01,T,Serviços domésticos,-34,216,CAGED Antigo
+2018-03-01,U,Organismos internacionais,11,92,CAGED Antigo
+2018-04-01,A,Agropecuária,1238,79124,CAGED Antigo
+2018-04-01,B,Indústria extrativa,655,3592,CAGED Antigo
+2018-04-01,C,Indústria de transformação,22583,215138,CAGED Antigo
+2018-04-01,D,Eletricidade e gás,214,1171,CAGED Antigo
+2018-04-01,E,"Água, esgoto e resíduos",532,6520,CAGED Antigo
+2018-04-01,F,Construção,15044,121894,CAGED Antigo
+2018-04-01,G,Comércio e reparação,10212,326097,CAGED Antigo
+2018-04-01,H,Transporte e armazenagem,12527,68692,CAGED Antigo
+2018-04-01,I,Alojamento e alimentação,599,82434,CAGED Antigo
+2018-04-01,J,Informação e comunicação,4987,28480,CAGED Antigo
+2018-04-01,K,Atividades financeiras,1958,14160,CAGED Antigo
+2018-04-01,L,Atividades imobiliárias,904,5484,CAGED Antigo
+2018-04-01,M,Atividades profissionais e científicas,3903,39767,CAGED Antigo
+2018-04-01,N,Atividades administrativas e serviços,11471,166032,CAGED Antigo
+2018-04-01,O,Administração pública,1005,5451,CAGED Antigo
+2018-04-01,P,Educação,10032,41501,CAGED Antigo
+2018-04-01,Q,Saúde humana e serviço social,12721,59458,CAGED Antigo
+2018-04-01,R,"Artes, cultura e esporte",542,8228,CAGED Antigo
+2018-04-01,S,Outros serviços,4698,31622,CAGED Antigo
+2018-04-01,T,Serviços domésticos,9,217,CAGED Antigo
+2018-04-01,U,Organismos internacionais,64,163,CAGED Antigo
+2018-05-01,A,Agropecuária,29275,102977,CAGED Antigo
+2018-05-01,B,Indústria extrativa,-12,3364,CAGED Antigo
+2018-05-01,C,Indústria de transformação,-6208,191621,CAGED Antigo
+2018-05-01,D,Eletricidade e gás,-11,1223,CAGED Antigo
+2018-05-01,E,"Água, esgoto e resíduos",573,6733,CAGED Antigo
+2018-05-01,F,Construção,2429,124536,CAGED Antigo
+2018-05-01,G,Comércio e reparação,-11534,317264,CAGED Antigo
+2018-05-01,H,Transporte e armazenagem,119,61794,CAGED Antigo
+2018-05-01,I,Alojamento e alimentação,-6834,79388,CAGED Antigo
+2018-05-01,J,Informação e comunicação,3047,27848,CAGED Antigo
+2018-05-01,K,Atividades financeiras,1613,13786,CAGED Antigo
+2018-05-01,L,Atividades imobiliárias,17,5375,CAGED Antigo
+2018-05-01,M,Atividades profissionais e científicas,1908,39876,CAGED Antigo
+2018-05-01,N,Atividades administrativas e serviços,4639,161742,CAGED Antigo
+2018-05-01,O,Administração pública,179,4394,CAGED Antigo
+2018-05-01,P,Educação,3066,35378,CAGED Antigo
+2018-05-01,Q,Saúde humana e serviço social,9645,59379,CAGED Antigo
+2018-05-01,R,"Artes, cultura e esporte",-444,7797,CAGED Antigo
+2018-05-01,S,Outros serviços,2146,32725,CAGED Antigo
+2018-05-01,T,Serviços domésticos,-1,235,CAGED Antigo
+2018-05-01,U,Organismos internacionais,47,141,CAGED Antigo
+2018-06-01,A,Agropecuária,41039,111834,CAGED Antigo
+2018-06-01,B,Indústria extrativa,-163,3094,CAGED Antigo
+2018-06-01,C,Indústria de transformação,-19240,164588,CAGED Antigo
+2018-06-01,D,Eletricidade e gás,121,1089,CAGED Antigo
+2018-06-01,E,"Água, esgoto e resíduos",997,6672,CAGED Antigo
+2018-06-01,F,Construção,-1910,110277,CAGED Antigo
+2018-06-01,G,Comércio e reparação,-21459,287679,CAGED Antigo
+2018-06-01,H,Transporte e armazenagem,1516,58553,CAGED Antigo
+2018-06-01,I,Alojamento e alimentação,-6269,71129,CAGED Antigo
+2018-06-01,J,Informação e comunicação,1034,25368,CAGED Antigo
+2018-06-01,K,Atividades financeiras,2088,13973,CAGED Antigo
+2018-06-01,L,Atividades imobiliárias,-99,4638,CAGED Antigo
+2018-06-01,M,Atividades profissionais e científicas,2419,36805,CAGED Antigo
+2018-06-01,N,Atividades administrativas e serviços,1199,150082,CAGED Antigo
+2018-06-01,O,Administração pública,-882,3387,CAGED Antigo
+2018-06-01,P,Educação,-8846,27925,CAGED Antigo
+2018-06-01,Q,Saúde humana e serviço social,8700,55638,CAGED Antigo
+2018-06-01,R,"Artes, cultura e esporte",-325,7310,CAGED Antigo
+2018-06-01,S,Outros serviços,-596,27186,CAGED Antigo
+2018-06-01,T,Serviços domésticos,15,218,CAGED Antigo
+2018-06-01,U,Organismos internacionais,0,86,CAGED Antigo
+2018-07-01,A,Agropecuária,17565,90128,CAGED Antigo
+2018-07-01,B,Indústria extrativa,509,3758,CAGED Antigo
+2018-07-01,C,Indústria de transformação,6431,188818,CAGED Antigo
+2018-07-01,D,Eletricidade e gás,493,1466,CAGED Antigo
+2018-07-01,E,"Água, esgoto e resíduos",1219,6661,CAGED Antigo
+2018-07-01,F,Construção,9842,121245,CAGED Antigo
+2018-07-01,G,Comércio e reparação,198,298229,CAGED Antigo
+2018-07-01,H,Transporte e armazenagem,3107,61017,CAGED Antigo
+2018-07-01,I,Alojamento e alimentação,-6539,73974,CAGED Antigo
+2018-07-01,J,Informação e comunicação,3853,27756,CAGED Antigo
+2018-07-01,K,Atividades financeiras,2666,14307,CAGED Antigo
+2018-07-01,L,Atividades imobiliárias,390,4965,CAGED Antigo
+2018-07-01,M,Atividades profissionais e científicas,6700,41135,CAGED Antigo
+2018-07-01,N,Atividades administrativas e serviços,5890,159715,CAGED Antigo
+2018-07-01,O,Administração pública,-1485,3250,CAGED Antigo
+2018-07-01,P,Educação,-14445,29782,CAGED Antigo
+2018-07-01,Q,Saúde humana e serviço social,8301,55711,CAGED Antigo
+2018-07-01,R,"Artes, cultura e esporte",398,7721,CAGED Antigo
+2018-07-01,S,Outros serviços,2247,29296,CAGED Antigo
+2018-07-01,T,Serviços domésticos,-8,195,CAGED Antigo
+2018-07-01,U,Organismos internacionais,-13,58,CAGED Antigo
+2018-08-01,A,Agropecuária,-3587,77594,CAGED Antigo
+2018-08-01,B,Indústria extrativa,459,3852,CAGED Antigo
+2018-08-01,C,Indústria de transformação,15061,210569,CAGED Antigo
+2018-08-01,D,Eletricidade e gás,257,1356,CAGED Antigo
+2018-08-01,E,"Água, esgoto e resíduos",1205,6710,CAGED Antigo
+2018-08-01,F,Construção,11531,131814,CAGED Antigo
+2018-08-01,G,Comércio e reparação,18864,332596,CAGED Antigo
+2018-08-01,H,Transporte e armazenagem,7088,69214,CAGED Antigo
+2018-08-01,I,Alojamento e alimentação,2673,85654,CAGED Antigo
+2018-08-01,J,Informação e comunicação,5741,32268,CAGED Antigo
+2018-08-01,K,Atividades financeiras,1965,15677,CAGED Antigo
+2018-08-01,L,Atividades imobiliárias,179,5376,CAGED Antigo
+2018-08-01,M,Atividades profissionais e científicas,5350,42857,CAGED Antigo
+2018-08-01,N,Atividades administrativas e serviços,6372,169274,CAGED Antigo
+2018-08-01,O,Administração pública,492,4920,CAGED Antigo
+2018-08-01,P,Educação,20959,58401,CAGED Antigo
+2018-08-01,Q,Saúde humana e serviço social,10582,61383,CAGED Antigo
+2018-08-01,R,"Artes, cultura e esporte",447,8612,CAGED Antigo
+2018-08-01,S,Outros serviços,4733,34927,CAGED Antigo
+2018-08-01,T,Serviços domésticos,21,215,CAGED Antigo
+2018-08-01,U,Organismos internacionais,39,153,CAGED Antigo
+2018-09-01,A,Agropecuária,-2762,75909,CAGED Antigo
+2018-09-01,B,Indústria extrativa,272,3191,CAGED Antigo
+2018-09-01,C,Indústria de transformação,35934,200341,CAGED Antigo
+2018-09-01,D,Eletricidade e gás,437,1340,CAGED Antigo
+2018-09-01,E,"Água, esgoto e resíduos",922,6306,CAGED Antigo
+2018-09-01,F,Construção,12247,117527,CAGED Antigo
+2018-09-01,G,Comércio e reparação,28013,309426,CAGED Antigo
+2018-09-01,H,Transporte e armazenagem,5334,60931,CAGED Antigo
+2018-09-01,I,Alojamento e alimentação,8416,82229,CAGED Antigo
+2018-09-01,J,Informação e comunicação,6723,29752,CAGED Antigo
+2018-09-01,K,Atividades financeiras,3776,14320,CAGED Antigo
+2018-09-01,L,Atividades imobiliárias,177,4713,CAGED Antigo
+2018-09-01,M,Atividades profissionais e científicas,8401,41432,CAGED Antigo
+2018-09-01,N,Atividades administrativas e serviços,14006,159232,CAGED Antigo
+2018-09-01,O,Administração pública,961,3834,CAGED Antigo
+2018-09-01,P,Educação,6945,33625,CAGED Antigo
+2018-09-01,Q,Saúde humana e serviço social,7332,53697,CAGED Antigo
+2018-09-01,R,"Artes, cultura e esporte",736,7509,CAGED Antigo
+2018-09-01,S,Outros serviços,-575,28962,CAGED Antigo
+2018-09-01,T,Serviços domésticos,19,220,CAGED Antigo
+2018-09-01,U,Organismos internacionais,22,95,CAGED Antigo
+2018-10-01,A,Agropecuária,-13199,70290,CAGED Antigo
+2018-10-01,B,Indústria extrativa,499,3546,CAGED Antigo
+2018-10-01,C,Indústria de transformação,7643,192705,CAGED Antigo
+2018-10-01,D,Eletricidade e gás,313,1476,CAGED Antigo
+2018-10-01,E,"Água, esgoto e resíduos",307,6160,CAGED Antigo
+2018-10-01,F,Construção,-55,117385,CAGED Antigo
+2018-10-01,G,Comércio e reparação,34494,351247,CAGED Antigo
+2018-10-01,H,Transporte e armazenagem,3660,66342,CAGED Antigo
+2018-10-01,I,Alojamento e alimentação,6239,87722,CAGED Antigo
+2018-10-01,J,Informação e comunicação,-921,28162,CAGED Antigo
+2018-10-01,K,Atividades financeiras,1880,13930,CAGED Antigo
+2018-10-01,L,Atividades imobiliárias,64,4954,CAGED Antigo
+2018-10-01,M,Atividades profissionais e científicas,4980,42118,CAGED Antigo
+2018-10-01,N,Atividades administrativas e serviços,1139,167139,CAGED Antigo
+2018-10-01,O,Administração pública,-348,3282,CAGED Antigo
+2018-10-01,P,Educação,1879,28802,CAGED Antigo
+2018-10-01,Q,Saúde humana e serviço social,7773,57076,CAGED Antigo
+2018-10-01,R,"Artes, cultura e esporte",152,7684,CAGED Antigo
+2018-10-01,S,Outros serviços,1269,29200,CAGED Antigo
+2018-10-01,T,Serviços domésticos,-17,218,CAGED Antigo
+2018-10-01,U,Organismos internacionais,-18,64,CAGED Antigo
+2018-11-01,A,Agropecuária,-23494,59805,CAGED Antigo
+2018-11-01,B,Indústria extrativa,-557,2724,CAGED Antigo
+2018-11-01,C,Indústria de transformação,-24576,155829,CAGED Antigo
+2018-11-01,D,Eletricidade e gás,90,1076,CAGED Antigo
+2018-11-01,E,"Água, esgoto e resíduos",-796,5335,CAGED Antigo
+2018-11-01,F,Construção,-15130,102789,CAGED Antigo
+2018-11-01,G,Comércio e reparação,88876,369981,CAGED Antigo
+2018-11-01,H,Transporte e armazenagem,3574,61825,CAGED Antigo
+2018-11-01,I,Alojamento e alimentação,10704,87163,CAGED Antigo
+2018-11-01,J,Informação e comunicação,1514,25466,CAGED Antigo
+2018-11-01,K,Atividades financeiras,1807,12683,CAGED Antigo
+2018-11-01,L,Atividades imobiliárias,-49,4461,CAGED Antigo
+2018-11-01,M,Atividades profissionais e científicas,2425,35900,CAGED Antigo
+2018-11-01,N,Atividades administrativas e serviços,10185,154253,CAGED Antigo
+2018-11-01,O,Administração pública,-1090,2797,CAGED Antigo
+2018-11-01,P,Educação,-3610,22310,CAGED Antigo
+2018-11-01,Q,Saúde humana e serviço social,8325,51607,CAGED Antigo
+2018-11-01,R,"Artes, cultura e esporte",675,7369,CAGED Antigo
+2018-11-01,S,Outros serviços,-157,25737,CAGED Antigo
+2018-11-01,T,Serviços domésticos,1,207,CAGED Antigo
+2018-11-01,U,Organismos internacionais,-53,97,CAGED Antigo
+2018-12-01,A,Agropecuária,-47085,43182,CAGED Antigo
+2018-12-01,B,Indústria extrativa,-1212,2395,CAGED Antigo
+2018-12-01,C,Indústria de transformação,-111736,98465,CAGED Antigo
+2018-12-01,D,Eletricidade e gás,-950,752,CAGED Antigo
+2018-12-01,E,"Água, esgoto e resíduos",-449,4913,CAGED Antigo
+2018-12-01,F,Construção,-54773,71943,CAGED Antigo
+2018-12-01,G,Comércio e reparação,18285,322999,CAGED Antigo
+2018-12-01,H,Transporte e armazenagem,-18715,48314,CAGED Antigo
+2018-12-01,I,Alojamento e alimentação,2770,80969,CAGED Antigo
+2018-12-01,J,Informação e comunicação,-1236,20615,CAGED Antigo
+2018-12-01,K,Atividades financeiras,-1985,10110,CAGED Antigo
+2018-12-01,L,Atividades imobiliárias,-537,3558,CAGED Antigo
+2018-12-01,M,Atividades profissionais e científicas,-8871,27763,CAGED Antigo
+2018-12-01,N,Atividades administrativas e serviços,926,140434,CAGED Antigo
+2018-12-01,O,Administração pública,-16953,1625,CAGED Antigo
+2018-12-01,P,Educação,-62997,12816,CAGED Antigo
+2018-12-01,Q,Saúde humana e serviço social,-9089,42961,CAGED Antigo
+2018-12-01,R,"Artes, cultura e esporte",-594,6831,CAGED Antigo
+2018-12-01,S,Outros serviços,-19052,20313,CAGED Antigo
+2018-12-01,T,Serviços domésticos,-45,133,CAGED Antigo
+2018-12-01,U,Organismos internacionais,-164,54,CAGED Antigo
+2019-02-01,A,Agropecuária,-3324,78456,CAGED Antigo
+2019-02-01,B,Indústria extrativa,945,4106,CAGED Antigo
+2019-02-01,C,Indústria de transformação,28516,237584,CAGED Antigo
+2019-02-01,D,Eletricidade e gás,-692,1279,CAGED Antigo
+2019-02-01,E,"Água, esgoto e resíduos",1805,7376,CAGED Antigo
+2019-02-01,F,Construção,11996,122740,CAGED Antigo
+2019-02-01,G,Comércio e reparação,7905,340916,CAGED Antigo
+2019-02-01,H,Transporte e armazenagem,10512,74991,CAGED Antigo
+2019-02-01,I,Alojamento e alimentação,10574,98904,CAGED Antigo
+2019-02-01,J,Informação e comunicação,2452,28437,CAGED Antigo
+2019-02-01,K,Atividades financeiras,2540,15629,CAGED Antigo
+2019-02-01,L,Atividades imobiliárias,763,5534,CAGED Antigo
+2019-02-01,M,Atividades profissionais e científicas,4921,43824,CAGED Antigo
+2019-02-01,N,Atividades administrativas e serviços,16271,176652,CAGED Antigo
+2019-02-01,O,Administração pública,11401,15621,CAGED Antigo
+2019-02-01,P,Educação,48636,94360,CAGED Antigo
+2019-02-01,Q,Saúde humana e serviço social,9480,61623,CAGED Antigo
+2019-02-01,R,"Artes, cultura e esporte",1189,9349,CAGED Antigo
+2019-02-01,S,Outros serviços,7185,35621,CAGED Antigo
+2019-02-01,T,Serviços domésticos,57,231,CAGED Antigo
+2019-02-01,U,Organismos internacionais,7,51,CAGED Antigo
+2019-04-01,A,Agropecuária,13678,85112,CAGED Antigo
+2019-04-01,B,Indústria extrativa,472,3704,CAGED Antigo
+2019-04-01,C,Indústria de transformação,19504,218081,CAGED Antigo
+2019-04-01,D,Eletricidade e gás,0,1464,CAGED Antigo
+2019-04-01,E,"Água, esgoto e resíduos",834,6369,CAGED Antigo
+2019-04-01,F,Construção,15279,122964,CAGED Antigo
+2019-04-01,G,Comércio e reparação,13648,339212,CAGED Antigo
+2019-04-01,H,Transporte e armazenagem,8186,72996,CAGED Antigo
+2019-04-01,I,Alojamento e alimentação,2555,88304,CAGED Antigo
+2019-04-01,J,Informação e comunicação,5158,31406,CAGED Antigo
+2019-04-01,K,Atividades financeiras,2611,16118,CAGED Antigo
+2019-04-01,L,Atividades imobiliárias,819,5590,CAGED Antigo
+2019-04-01,M,Atividades profissionais e científicas,4523,44228,CAGED Antigo
+2019-04-01,N,Atividades administrativas e serviços,8244,179947,CAGED Antigo
+2019-04-01,O,Administração pública,1224,5284,CAGED Antigo
+2019-04-01,P,Educação,9521,43735,CAGED Antigo
+2019-04-01,Q,Saúde humana e serviço social,20907,71194,CAGED Antigo
+2019-04-01,R,"Artes, cultura e esporte",66,8718,CAGED Antigo
+2019-04-01,S,Outros serviços,2369,29967,CAGED Antigo
+2019-04-01,T,Serviços domésticos,-11,181,CAGED Antigo
+2019-04-01,U,Organismos internacionais,14,54,CAGED Antigo
+2019-05-01,A,Agropecuária,37335,117256,CAGED Antigo
+2019-05-01,B,Indústria extrativa,693,4094,CAGED Antigo
+2019-05-01,C,Indústria de transformação,-7377,196753,CAGED Antigo
+2019-05-01,D,Eletricidade e gás,-111,1345,CAGED Antigo
+2019-05-01,E,"Água, esgoto e resíduos",-237,5997,CAGED Antigo
+2019-05-01,F,Construção,8475,130064,CAGED Antigo
+2019-05-01,G,Comércio e reparação,-11226,326533,CAGED Antigo
+2019-05-01,H,Transporte e armazenagem,-4596,68147,CAGED Antigo
+2019-05-01,I,Alojamento e alimentação,-2213,87882,CAGED Antigo
+2019-05-01,J,Informação e comunicação,1263,29605,CAGED Antigo
+2019-05-01,K,Atividades financeiras,1553,15357,CAGED Antigo
+2019-05-01,L,Atividades imobiliárias,733,5951,CAGED Antigo
+2019-05-01,M,Atividades profissionais e científicas,825,42796,CAGED Antigo
+2019-05-01,N,Atividades administrativas e serviços,-2844,173590,CAGED Antigo
+2019-05-01,O,Administração pública,993,4842,CAGED Antigo
+2019-05-01,P,Educação,3637,38100,CAGED Antigo
+2019-05-01,Q,Saúde humana e serviço social,6222,60684,CAGED Antigo
+2019-05-01,R,"Artes, cultura e esporte",-84,8528,CAGED Antigo
+2019-05-01,S,Outros serviços,-883,29573,CAGED Antigo
+2019-05-01,T,Serviços domésticos,-23,160,CAGED Antigo
+2019-05-01,U,Organismos internacionais,5,47,CAGED Antigo
+2019-06-01,A,Agropecuária,22772,98225,CAGED Antigo
+2019-06-01,B,Indústria extrativa,503,3699,CAGED Antigo
+2019-06-01,C,Indústria de transformação,-10794,175031,CAGED Antigo
+2019-06-01,D,Eletricidade e gás,-217,1154,CAGED Antigo
+2019-06-01,E,"Água, esgoto e resíduos",2876,10095,CAGED Antigo
+2019-06-01,F,Construção,12873,121752,CAGED Antigo
+2019-06-01,G,Comércio e reparação,-2140,304399,CAGED Antigo
+2019-06-01,H,Transporte e armazenagem,2768,65370,CAGED Antigo
+2019-06-01,I,Alojamento e alimentação,-125,79441,CAGED Antigo
+2019-06-01,J,Informação e comunicação,2457,28595,CAGED Antigo
+2019-06-01,K,Atividades financeiras,2633,15698,CAGED Antigo
+2019-06-01,L,Atividades imobiliárias,561,5274,CAGED Antigo
+2019-06-01,M,Atividades profissionais e científicas,3877,41467,CAGED Antigo
+2019-06-01,N,Atividades administrativas e serviços,8359,168508,CAGED Antigo
+2019-06-01,O,Administração pública,469,3629,CAGED Antigo
+2019-06-01,P,Educação,-7818,30902,CAGED Antigo
+2019-06-01,Q,Saúde humana e serviço social,7966,58993,CAGED Antigo
+2019-06-01,R,"Artes, cultura e esporte",482,7891,CAGED Antigo
+2019-06-01,S,Outros serviços,929,27731,CAGED Antigo
+2019-06-01,T,Serviços domésticos,7,193,CAGED Antigo
+2019-06-01,U,Organismos internacionais,-2,59,CAGED Antigo
+2019-07-01,A,Agropecuária,4869,86562,CAGED Antigo
+2019-07-01,B,Indústria extrativa,965,4297,CAGED Antigo
+2019-07-01,C,Indústria de transformação,5356,201070,CAGED Antigo
+2019-07-01,D,Eletricidade e gás,29,1403,CAGED Antigo
+2019-07-01,E,"Água, esgoto e resíduos",483,6490,CAGED Antigo
+2019-07-01,F,Construção,18882,137769,CAGED Antigo
+2019-07-01,G,Comércio e reparação,5639,325868,CAGED Antigo
+2019-07-01,H,Transporte e armazenagem,-1314,66599,CAGED Antigo
+2019-07-01,I,Alojamento e alimentação,2,86141,CAGED Antigo
+2019-07-01,J,Informação e comunicação,4579,30389,CAGED Antigo
+2019-07-01,K,Atividades financeiras,2846,16998,CAGED Antigo
+2019-07-01,L,Atividades imobiliárias,728,5868,CAGED Antigo
+2019-07-01,M,Atividades profissionais e científicas,6065,46472,CAGED Antigo
+2019-07-01,N,Atividades administrativas e serviços,2224,177825,CAGED Antigo
+2019-07-01,O,Administração pública,-337,3765,CAGED Antigo
+2019-07-01,P,Educação,-10923,34520,CAGED Antigo
+2019-07-01,Q,Saúde humana e serviço social,2707,60319,CAGED Antigo
+2019-07-01,R,"Artes, cultura e esporte",308,8741,CAGED Antigo
+2019-07-01,S,Outros serviços,653,29817,CAGED Antigo
+2019-07-01,T,Serviços domésticos,69,229,CAGED Antigo
+2019-07-01,U,Organismos internacionais,-10,47,CAGED Antigo
+2019-10-01,A,Agropecuária,-7883,70091,CAGED Antigo
+2019-10-01,B,Indústria extrativa,833,4318,CAGED Antigo
+2019-10-01,C,Indústria de transformação,9323,199271,CAGED Antigo
+2019-10-01,D,Eletricidade e gás,-89,1105,CAGED Antigo
+2019-10-01,E,"Água, esgoto e resíduos",-861,6513,CAGED Antigo
+2019-10-01,F,Construção,6737,133935,CAGED Antigo
+2019-10-01,G,Comércio e reparação,44745,372015,CAGED Antigo
+2019-10-01,H,Transporte e armazenagem,4591,70504,CAGED Antigo
+2019-10-01,I,Alojamento e alimentação,4274,96204,CAGED Antigo
+2019-10-01,J,Informação e comunicação,3880,30041,CAGED Antigo
+2019-10-01,K,Atividades financeiras,-1501,16573,CAGED Antigo
+2019-10-01,L,Atividades imobiliárias,48,5402,CAGED Antigo
+2019-10-01,M,Atividades profissionais e científicas,2200,46359,CAGED Antigo
+2019-10-01,N,Atividades administrativas e serviços,1372,184123,CAGED Antigo
+2019-10-01,O,Administração pública,-394,2805,CAGED Antigo
+2019-10-01,P,Educação,58,31710,CAGED Antigo
+2019-10-01,Q,Saúde humana e serviço social,4204,57423,CAGED Antigo
+2019-10-01,R,"Artes, cultura e esporte",-458,8136,CAGED Antigo
+2019-10-01,S,Outros serviços,-223,28289,CAGED Antigo
+2019-10-01,T,Serviços domésticos,-14,192,CAGED Antigo
+2019-10-01,U,Organismos internacionais,10,45,CAGED Antigo
+2019-11-01,A,Agropecuária,-19128,61061,CAGED Antigo
+2019-11-01,B,Indústria extrativa,162,3504,CAGED Antigo
+2019-11-01,C,Indústria de transformação,-25022,163295,CAGED Antigo
+2019-11-01,D,Eletricidade e gás,158,1403,CAGED Antigo
+2019-11-01,E,"Água, esgoto e resíduos",246,5306,CAGED Antigo
+2019-11-01,F,Construção,-8367,113075,CAGED Antigo
+2019-11-01,G,Comércio e reparação,107410,396450,CAGED Antigo
+2019-11-01,H,Transporte e armazenagem,1791,67060,CAGED Antigo
+2019-11-01,I,Alojamento e alimentação,15188,96235,CAGED Antigo
+2019-11-01,J,Informação e comunicação,2379,27509,CAGED Antigo
+2019-11-01,K,Atividades financeiras,-563,15103,CAGED Antigo
+2019-11-01,L,Atividades imobiliárias,311,4995,CAGED Antigo
+2019-11-01,M,Atividades profissionais e científicas,4626,42352,CAGED Antigo
+2019-11-01,N,Atividades administrativas e serviços,16833,176878,CAGED Antigo
+2019-11-01,O,Administração pública,-610,2479,CAGED Antigo
+2019-11-01,P,Educação,-3149,25933,CAGED Antigo
+2019-11-01,Q,Saúde humana e serviço social,4606,53619,CAGED Antigo
+2019-11-01,R,"Artes, cultura e esporte",1196,8494,CAGED Antigo
+2019-11-01,S,Outros serviços,1162,26891,CAGED Antigo
+2019-11-01,T,Serviços domésticos,3,158,CAGED Antigo
+2019-11-01,U,Organismos internacionais,0,37,CAGED Antigo
+2019-12-01,A,Agropecuária,-43416,41702,CAGED Antigo
+2019-12-01,B,Indústria extrativa,-1359,2571,CAGED Antigo
+2019-12-01,C,Indústria de transformação,-100033,101220,CAGED Antigo
+2019-12-01,D,Eletricidade e gás,-1298,1159,CAGED Antigo
+2019-12-01,E,"Água, esgoto e resíduos",572,5432,CAGED Antigo
+2019-12-01,F,Construção,-49462,74004,CAGED Antigo
+2019-12-01,G,Comércio e reparação,17848,323102,CAGED Antigo
+2019-12-01,H,Transporte e armazenagem,-14872,53463,CAGED Antigo
+2019-12-01,I,Alojamento e alimentação,6789,86366,CAGED Antigo
+2019-12-01,J,Informação e comunicação,-2428,21819,CAGED Antigo
+2019-12-01,K,Atividades financeiras,-1346,11679,CAGED Antigo
+2019-12-01,L,Atividades imobiliárias,-688,3838,CAGED Antigo
+2019-12-01,M,Atividades profissionais e científicas,-6601,29470,CAGED Antigo
+2019-12-01,N,Atividades administrativas e serviços,348,148620,CAGED Antigo
+2019-12-01,O,Administração pública,-15378,1951,CAGED Antigo
+2019-12-01,P,Educação,-74021,13507,CAGED Antigo
+2019-12-01,Q,Saúde humana e serviço social,-5177,44337,CAGED Antigo
+2019-12-01,R,"Artes, cultura e esporte",-500,7236,CAGED Antigo
+2019-12-01,S,Outros serviços,-16259,19190,CAGED Antigo
+2019-12-01,T,Serviços domésticos,-17,155,CAGED Antigo
+2019-12-01,U,Organismos internacionais,-13,27,CAGED Antigo

@@ -3,6 +3,7 @@ numpy>=2.0
 statsmodels>=0.14
 pmdarima>=2.1
 scikit-learn>=1.6
+lightgbm>=4.0
 plotly>=6.0
 matplotlib>=3.8
 py7zr>=1.1

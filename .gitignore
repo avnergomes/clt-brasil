@@ -12,6 +12,9 @@ data/processed/ingest_sector.log
 data/raw/ingest_progress.log
 data/processed/TEST_*.csv
 
+# CAGED Antigo per-month ingest checkpoints (intermediate; CSVs are the artifact)
+data/raw/legacy_cache/
+
 # OS
 Thumbs.db
 .DS_Store
