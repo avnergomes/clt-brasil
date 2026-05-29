@@ -1,8 +1,10 @@
 # CLT em Movimento — Emprego Formal no Brasil
 
 Análise de série temporal e previsão do **saldo de empregos formais (celetistas / CLT)** no Brasil
-e nas 27 Unidades da Federação, a partir dos **microdados do Novo CAGED** do Ministério do Trabalho
-e Emprego (MTE), com projeção até **junho de 2027** e um dossiê sobre o debate da **escala 6×1 → 5×2**.
+e nas 27 Unidades da Federação, a partir dos **microdados do CAGED** do Ministério do Trabalho
+e Emprego (MTE). A análise e a modelagem se apoiam no **Novo CAGED (eSocial, 2020 em diante)**, e o
+contexto histórico de longo prazo é traçado com o **CAGED Antigo (Lei 4.923/65, 2007–2019)**, com
+projeção até **junho de 2027** e um dossiê sobre o debate da **escala 6×1 → 5×2**.
 
 ### 🔗 Relatório online (GitHub Pages)
 
@@ -24,7 +26,15 @@ e Emprego (MTE), com projeção até **junho de 2027** e um dossiê sobre o deba
 
 ## Fonte de dados e metodologia
 
-- **Fonte:** microdados do *Novo CAGED* (PDET/MTE), `ftp.mtps.gov.br`, arquivos `CAGEDMOV<AAAAMM>.7z`.
+- **Fonte (núcleo da análise):** microdados do *Novo CAGED* (PDET/MTE), `ftp.mtps.gov.br`,
+  arquivos `CAGEDMOV<AAAAMM>.7z`, de **jan/2020** em diante (base eSocial).
+- **Fonte (contexto histórico):** microdados do *CAGED Antigo* (Lei 4.923/65), `CAGEDEST_<MMAAAA>.7z`,
+  cobrindo **2007–2019**. Usado apenas para traçar a tendência de longo prazo (média móvel de 12 meses).
+  Alguns meses têm arquivos corrompidos no FTP do MTE e são preenchidos por **interpolação temporal**,
+  sinalizados no relatório.
+- **Quebra metodológica (jan/2020):** a troca das declarações da Lei 4.923/65 pelo eSocial torna as duas
+  eras **não estritamente comparáveis**; o relatório marca essa ruptura e mantém a modelagem/previsão
+  restrita ao Novo CAGED (2020+).
 - **Saldo** de cada competência/UF = `Σ(saldomovimentação)` (cada admissão `+1`, cada desligamento `−1`).
   Essa agregação **reproduz exatamente** a série oficial *“Novo CAGED sem ajuste”* (validado contra o
   IPEADATA: jun/2025 = 166.621 em ambas as fontes).
@@ -56,8 +66,10 @@ CLT-BRASIL/
 │   ├── report.py          # gerador do relatório v1
 │   └── report2.py         # gerador do relatório v2 (editorial + dossiê 6×1)
 ├── scripts/
-│   ├── ingest_caged.py        # ingestão: saldo mensal por UF (FTP → CSV)
+│   ├── ingest_caged.py        # ingestão Novo CAGED (2020+): saldo mensal por UF (FTP → CSV)
+│   ├── ingest_caged_legacy.py # ingestão CAGED Antigo (2007–2019): saldo nacional histórico
 │   ├── ingest_sector_hours.py # ingestão: saldo por setor + distribuição de jornada
+│   ├── run_forecasts.py       # roda os modelos de previsão por série
 │   ├── build_notebook.py      # monta o notebook documentado
 │   └── search_papers.py       # busca de literatura (OpenAlex)
 ├── notebooks/CLT-BRASIL_analise.ipynb
