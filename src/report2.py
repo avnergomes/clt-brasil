@@ -1216,6 +1216,37 @@ def build(lang):
     def T(key):
         return S[key].format(**ctx)
 
+    SITE = "https://avnergomes.github.io/clt-brasil"
+    _og_desc = {
+        "pt": "Seis anos de emprego com carteira assinada no Brasil e o que as projeções "
+              "e o debate do fim da escala 6×1 sinalizam para o trabalho formal.",
+        "en": "Six years of formal employment in Brazil and what the forecasts and the "
+              "debate over ending the 6×1 work schedule signal for the labor market.",
+        "es": "Seis años de empleo formal en Brasil y lo que las proyecciones y el debate "
+              "sobre el fin de la jornada 6×1 señalan para el trabajo formal.",
+    }.get(lang, "")
+    _og_locale = {"pt": "pt_BR", "en": "en_US", "es": "es_ES"}.get(lang, "pt_BR")
+    og_meta = (
+        f'<meta name="description" content="{_og_desc}">'
+        f'<meta name="theme-color" content="#0d1320">'
+        f'<link rel="icon" href="{SITE}/favicon.svg" type="image/svg+xml">'
+        f'<meta property="og:type" content="article">'
+        f'<meta property="og:site_name" content="CLT em Movimento">'
+        f'<meta property="og:title" content="{S["title"]}">'
+        f'<meta property="og:description" content="{_og_desc}">'
+        f'<meta property="og:url" content="{SITE}/output/{FILENAME[lang]}">'
+        f'<meta property="og:image" content="{SITE}/og-image.png">'
+        f'<meta property="og:image:secure_url" content="{SITE}/og-image.png">'
+        f'<meta property="og:image:type" content="image/png">'
+        f'<meta property="og:image:width" content="1200">'
+        f'<meta property="og:image:height" content="630">'
+        f'<meta property="og:locale" content="{_og_locale}">'
+        f'<meta name="twitter:card" content="summary_large_image">'
+        f'<meta name="twitter:title" content="{S["title"]}">'
+        f'<meta name="twitter:description" content="{_og_desc}">'
+        f'<meta name="twitter:image" content="{SITE}/og-image.png">'
+    )
+
     _by = {"pt": "Desenvolvido por", "en": "Developed by", "es": "Desarrollado por"}.get(lang, "Developed by")
     dev_credit = (
         f'<a class="dev-link" href="https://avnergomes.github.io/portfolio/" target="_blank" rel="noopener">'
@@ -1225,6 +1256,7 @@ def build(lang):
     html = f"""<!doctype html><html lang="{S['html_lang']}"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{S['title']}</title>
+{og_meta}
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Fraunces:opsz,wght@9..144,300;9..144,400;9..144,500&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
