@@ -59,6 +59,16 @@
   .feat .c p{margin:0;font-size:14px;color:#cdd9ea}
   footer{border-top:1px solid var(--line);padding:22px 0;font-size:13px;color:var(--mut)}
   footer a{color:#dbe4f0}
+  .foot-row{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:16px}
+  .dev-link{display:inline-flex;align-items:center;gap:11px;text-decoration:none;color:#dbe4f0;
+    font-size:12px;letter-spacing:.14em;text-transform:uppercase;font-weight:600;
+    border:1px solid var(--line);border-radius:10px;padding:8px 14px;
+    transition:background .18s ease,border-color .18s ease,transform .12s ease}
+  .dev-link:hover{background:rgba(255,255,255,.07);border-color:var(--gold);transform:translateY(-2px)}
+  .dev-link img{width:30px;height:30px;object-fit:contain;border-radius:50%;
+    background:#fff;padding:3px;flex:none}
+  .dev-link span{line-height:1.2}
+  .dev-link .by{display:block;font-size:10px;letter-spacing:.18em;color:var(--mut);font-weight:700}
   @media(max-width:760px){.strip{grid-template-columns:repeat(2,1fr)}.feat{grid-template-columns:1fr}}
 </style>
 </head>
@@ -95,9 +105,19 @@
   </div>
 </div></header>
 
-<footer><div class="wrap">
-  Elaborado a partir dos microdados do Novo CAGED (PDET/Ministério do Trabalho e Emprego) ·
-  Código e metodologia em <a href="https://github.com/avnergomes/clt-brasil">github.com/avnergomes/clt-brasil</a>
+<footer><div class="wrap foot-row">
+  <div>
+    Elaborado a partir dos microdados do Novo CAGED (PDET/Ministério do Trabalho e Emprego) ·
+    Código e metodologia em <a href="https://github.com/avnergomes/clt-brasil">github.com/avnergomes/clt-brasil</a>
+  </div>
+  <a class="dev-link" href="https://avnergomes.github.io/portfolio/" target="_blank" rel="noopener"
+     title="Desenvolvido por Avner Gomes">
+    <picture>
+      <source srcset="logo2.webp" type="image/webp">
+      <img src="logo2.png" alt="Avner Gomes" width="30" height="30" loading="lazy">
+    </picture>
+    <span><span class="by">Desenvolvido por</span>Avner Gomes</span>
+  </a>
 </div></footer>
 </body>
 </html>
